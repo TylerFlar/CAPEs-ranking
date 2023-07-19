@@ -1,0 +1,1021 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Qiao, Yu","
+SE 105 - Structural Materials (A)
+",SP23,156,"
+53
+","
+94.1%
+","
+94.1%
+","
+7.40
+","
+B- (2.98)
+","
+B (3.11)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (A)
+",WI23,340,"
+142
+","
+84.2%
+","
+94.9%
+","
+8.51
+","
+B+ (3.49)
+","
+B (3.25)
+"
+"Micciancio, Daniele","
+CSE 105 - Theory of Computation (A)
+",FA22,182,"
+74
+","
+65.8%
+","
+44.4%
+","
+10.09
+","
+B (3.16)
+","
+B- (2.93)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (A)
+",SP22,376,"
+162
+","
+89.6%
+","
+96.8%
+","
+8.51
+","
+B+ (3.44)
+","
+B (3.19)
+"
+"Qiao, Yu","
+SE 105 - Structural Materials (A)
+",SP22,97,"
+21
+","
+95.2%
+","
+90.5%
+","
+7.40
+","
+B+ (3.65)
+","
+B (3.11)
+"
+"Lovett, Shachar","
+CSE 105 - Theory of Computation (A)
+",WI22,340,"
+297
+","
+84.1%
+","
+89.8%
+","
+8.68
+","
+B (3.28)
+","
+B+ (3.57)
+"
+"Micciancio, Daniele","
+CSE 105 - Theory of Computation (A)
+",FA21,180,"
+90
+","
+69.0%
+","
+70.2%
+","
+8.45
+","
+B (3.10)
+","
+B- (2.90)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (A)
+",S121,57,"
+9
+","
+88.9%
+","
+100.0%
+","
+10.28
+","
+B+ (3.33)
+","
+B+ (3.31)
+"
+"Meyer, Kyle Phillip","
+CSE 105 - Theory of Computation (A)
+",SP21,170,"
+86
+","
+67.5%
+","
+46.2%
+","
+8.91
+","
+B (3.29)
+","
+B+ (3.42)
+"
+"Meyer, Kyle Phillip","
+CSE 105 - Theory of Computation (B)
+",SP21,171,"
+83
+","
+67.5%
+","
+54.2%
+","
+8.33
+","
+B+ (3.46)
+","
+B+ (3.50)
+"
+"Qiao, Yu","
+SE 105 - Structural Materials (A)
+",SP21,96,"
+28
+","
+100.0%
+","
+100.0%
+","
+7.93
+","
+B+ (3.40)
+","
+B (3.28)
+"
+"Meyer, Kyle Phillip","
+CSE 105 - Theory of Computation (A)
+",WI21,179,"
+84
+","
+67.5%
+","
+53.0%
+","
+8.33
+","
+B+ (3.53)
+","
+B+ (3.46)
+"
+"Meyer, Kyle Phillip","
+CSE 105 - Theory of Computation (B)
+",WI21,171,"
+73
+","
+82.2%
+","
+63.0%
+","
+8.33
+","
+B+ (3.61)
+","
+B+ (3.54)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (A)
+",FA20,195,"
+82
+","
+87.5%
+","
+92.5%
+","
+8.83
+","
+B+ (3.58)
+","
+B (3.26)
+"
+"Meyer, Kyle Phillip","
+CSE 105 - Theory of Computation (B)
+",FA20,147,"
+54
+","
+81.1%
+","
+80.8%
+","
+8.61
+","
+B+ (3.49)
+","
+B+ (3.39)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (A)
+",SP20,141,"
+55
+","
+96.2%
+","
+96.2%
+","
+8.65
+","
+B+ (3.66)
+","
+A- (3.83)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (B)
+",SP20,170,"
+72
+","
+89.7%
+","
+95.6%
+","
+7.86
+","
+B+ (3.61)
+","
+A- (3.86)
+"
+"Qiao, Yu","
+SE 105 - Structural Materials (A)
+",SP20,114,"
+52
+","
+77.1%
+","
+79.2%
+","
+8.63
+","
+B (3.26)
+","
+B+ (3.64)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (A)
+",WI20,179,"
+100
+","
+86.9%
+","
+93.9%
+","
+8.90
+","
+B+ (3.39)
+","
+B+ (3.31)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (B)
+",WI20,182,"
+100
+","
+86.6%
+","
+91.7%
+","
+7.91
+","
+B (3.20)
+","
+B (3.28)
+"
+"Lovett, Shachar","
+CSE 105 - Theory of Computation (A)
+",FA19,297,"
+278
+","
+83.0%
+","
+90.6%
+","
+8.67
+","
+B (3.25)
+","
+B- (2.88)
+"
+"Lovett, Shachar","
+CSE 105 - Theory of Computation (A)
+",SP19,382,"
+270
+","
+94.1%
+","
+95.5%
+","
+7.48
+","
+B+ (3.46)
+","
+B+ (3.30)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (A)
+",WI19,171,"
+109
+","
+92.3%
+","
+98.0%
+","
+8.81
+","
+B+ (3.33)
+","
+B- (2.89)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (B)
+",WI19,177,"
+116
+","
+92.1%
+","
+96.5%
+","
+7.32
+","
+B+ (3.39)
+","
+B- (2.89)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (A)
+",FA18,86,"
+29
+","
+96.4%
+","
+96.2%
+","
+7.61
+","
+B+ (3.33)
+","
+B- (2.89)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (B)
+",FA18,140,"
+49
+","
+79.5%
+","
+88.6%
+","
+8.14
+","
+B+ (3.38)
+","
+B- (2.89)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (A)
+",SP18,185,"
+66
+","
+87.3%
+","
+95.2%
+","
+8.91
+","
+B+ (3.32)
+","
+B- (2.82)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (B)
+",SP18,177,"
+70
+","
+94.1%
+","
+98.5%
+","
+8.44
+","
+B+ (3.33)
+","
+B- (2.82)
+"
+"Jones, Miles E","
+CSE 105 - Theory of Computation (A)
+",WI18,191,"
+149
+","
+87.2%
+","
+87.2%
+","
+8.91
+","
+B (3.10)
+","
+B- (2.87)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Theory of Computation (B)
+",WI18,151,"
+124
+","
+91.7%
+","
+97.5%
+","
+8.43
+","
+B+ (3.34)
+","
+B (3.12)
+"
+"Lovett, Shachar","
+CSE 105 - Theory of Computation (A)
+",FA17,323,"
+203
+","
+89.1%
+","
+90.4%
+","
+7.76
+","
+B+ (3.50)
+","
+B+ (3.54)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Intro/Theory of Computation (A)
+",SP17,191,"
+157
+","
+85.9%
+","
+93.6%
+","
+7.45
+","
+B (3.19)
+","
+B- (2.79)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Intro/Theory of Computation (B)
+",SP17,194,"
+157
+","
+89.2%
+","
+96.8%
+","
+7.47
+","
+B (3.10)
+","
+B- (2.79)
+"
+"Tiefenbruck, Janine LoBue","
+CSE 105 - Intro/Theory of Computation (A)
+",WI17,140,"
+118
+","
+93.2%
+","
+97.5%
+","
+8.31
+","
+B (3.20)
+","
+B- (2.84)
+"
+"Tiefenbruck, Janine LoBue","
+CSE 105 - Intro/Theory of Computation (B)
+",WI17,242,"
+206
+","
+88.8%
+","
+97.6%
+","
+8.31
+","
+B (3.19)
+","
+B- (2.84)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (A)
+",FA16,118,"
+50
+","
+83.3%
+","
+62.5%
+","
+8.50
+","
+B (3.04)
+","
+B- (2.99)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Intro/Theory of Computation (B)
+",FA16,209,"
+87
+","
+76.7%
+","
+97.7%
+","
+8.81
+","
+B- (2.94)
+","
+B- (2.84)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (C)
+",FA16,140,"
+64
+","
+74.6%
+","
+52.5%
+","
+9.00
+","
+B- (2.98)
+","
+B- (2.99)
+"
+"Ferrante, Jeanne","
+CSE 105 - Intro/Theory of Computation (A)
+",SP16,215,"
+86
+","
+82.7%
+","
+96.3%
+","
+9.03
+","
+B (3.11)
+","
+B- (2.82)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Intro/Theory of Computation (B)
+",SP16,213,"
+85
+","
+82.1%
+","
+97.4%
+","
+9.29
+","
+B (3.10)
+","
+B- (2.77)
+"
+"Shacham, Hovav","
+CSE 105 - Intro/Theory of Computation (A)
+",WI16,122,"
+52
+","
+73.5%
+","
+81.6%
+","
+7.23
+","
+C+ (2.47)
+","
+C (2.02)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (A)
+",FA15,83,"
+21
+","
+68.4%
+","
+36.8%
+","
+8.63
+","
+B- (2.75)
+","
+B- (2.84)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (B)
+",FA15,62,"
+23
+","
+78.3%
+","
+69.6%
+","
+8.33
+","
+B (3.09)
+","
+B- (2.84)
+"
+"Ferrante, Jeanne","
+CSE 105 - Intro/Theory of Computation (A)
+",SP15,189,"
+168
+","
+76.2%
+","
+95.2%
+","
+7.60
+","
+B (3.08)
+","
+B- (2.80)
+"
+"Ferrante, Jeanne","
+CSE 105 - Intro/Theory of Computation (B)
+",SP15,188,"
+160
+","
+74.8%
+","
+96.2%
+","
+8.05
+","
+B- (2.99)
+","
+B- (2.80)
+"
+"Shacham, Hovav","
+CSE 105 - Intro/Theory of Computation (A)
+",WI15,115,"
+42
+","
+61.0%
+","
+73.2%
+","
+9.91
+","
+C+ (2.66)
+","
+C- (2.00)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (B)
+",WI15,110,"
+47
+","
+52.4%
+","
+50.0%
+","
+8.26
+","
+C+ (2.59)
+","
+C- (1.97)
+"
+"Shacham, Hovav","
+CSE 105 - Intro/Theory of Computation (A)
+",FA14,185,"
+70
+","
+47.7%
+","
+67.7%
+","
+9.04
+","
+B- (2.80)
+","
+C (2.19)
+"
+"Ferrante, Jeanne","
+CSE 105 - Intro/Theory of Computation (A)
+",SP14,187,"
+70
+","
+77.6%
+","
+88.1%
+","
+8.28
+","
+B (3.14)
+","
+C+ (2.66)
+"
+"Minnes Kemp, Mor Mia","
+CSE 105 - Intro/Theory of Computation (B)
+",SP14,114,"
+47
+","
+84.4%
+","
+100.0%
+","
+7.90
+","
+B (3.23)
+","
+B- (2.84)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (A)
+",WI14,127,"
+74
+","
+51.4%
+","
+43.2%
+","
+9.57
+","
+C+ (2.63)
+","
+C (2.04)
+"
+"Shacham, Hovav","
+CSE 105 - Intro/Theory of Computation (A)
+",FA13,141,"
+53
+","
+71.4%
+","
+89.8%
+","
+9.95
+","
+B- (2.94)
+","
+C+ (2.31)
+"
+"Micciancio, Daniele","
+CSE 105 - Intro/Theory of Computation (B)
+",SP13,108,"
+23
+","
+56.5%
+","
+47.8%
+","
+7.59
+","
+B- (2.95)
+","
+C (2.01)
+"
+"Lee, Cynthia Bailey","
+CSE 105 - Intro/Theory of Computation (B)
+",WI13,167,"
+84
+","
+83.3%
+","
+91.7%
+","
+6.80
+","
+B (3.14)
+","
+B- (2.71)
+"
+"Shacham, Hovav","
+CSE 105 - Intro/Theory of Computation (B)
+",FA12,150,"
+53
+","
+67.3%
+","
+75.0%
+","
+8.69
+","
+B- (2.90)
+","
+C+ (2.66)
+"
+"Micciancio, Daniele                ","
+CSE 105 - Intro/Theory of Computation    (A)
+",FA10,106,"
+53
+","
+69.8%
+","
+86.8%
+","
+9.18
+","
+B (3.26)
+","
+B (3.07)
+"
+"Lee, Cynthia Bailey                ","
+CSE 105 - Intro/Theory of Computation    (A)
+",SU10,45,"
+27
+","
+85.2%
+","
+88.9%
+","
+6.50
+","
+B+ (3.42)
+","
+N/A
+"
+"Micciancio, Daniele                ","
+CSE 105 - Intro/Theory of Computation    (A)
+",WI10,65,"
+32
+","
+93.8%
+","
+96.8%
+","
+7.81
+","
+B+ (3.48)
+","
+C+ (2.59)
+"
+"Shacham, Hovav                     ","
+CSE 105 - Intro/Theory of Computation    (A)
+",FA09,37,"
+30
+","
+73.3%
+","
+90.0%
+","
+7.23
+","
+B (3.03)
+","
+B (3.07)
+"
+"Paturi, Ramamohan                  ","
+CSE 105 - Intro/Theory of Computation    (A)
+",SU09,17,"
+7
+","
+66.7%
+","
+100.0%
+","
+7.17
+","
+B+ (3.33)
+","
+N/A
+"
+"Micciancio, Daniele                ","
+CSE 105 - Intro/Theory of Computation    (A)
+",SP09,44,"
+21
+","
+71.4%
+","
+85.7%
+","
+5.36
+","
+B (3.24)
+","
+B- (2.98)
+"
+"Israeli, Amos","
+CSE 105 - Intro/Theory of Computation    (A)
+",WI09,41,"
+30
+","
+69.0%
+","
+65.5%
+","
+6.98
+","
+B- (2.90)
+","
+C+ (2.58)
+"
+"Israeli, Amos                      ","
+CSE 105 - Intro/Theory of Computation    (A)
+",FA08,51,"
+25
+","
+80.0%
+","
+84.0%
+","
+7.22
+","
+B (3.00)
+","
+C+ (2.65)
+"
+"Lyubashevsky, Vadim                ","
+CSE 105 - Intro/Theory of Computation    (A)
+",SU08,13,"
+10
+","
+80.0%
+","
+90.0%
+","
+8.90
+","
+C+ (2.60)
+","
+N/A
+"
+"Micciancio, Daniele           ","
+CSE 105 - Intro/Theory of Computation    (A)
+",SP08,58,"
+28
+","
+82.1%
+","
+75.0%
+","
+6.71
+","
+B- (2.81)
+","
+B- (2.97)
+"
+"Micciancio, Daniele           ","
+CSE 105 - Intro/Theory of Computation    (A)
+",WI08,42,"
+31
+","
+80.6%
+","
+96.8%
+","
+4.77
+","
+B+ (3.41)
+","
+B- (2.93)
+"
+"Paturi, Ramamohan             ","
+CSE 105 - Intro/Theory of Computation    (A)
+",FA07,36,"
+29
+","
+84.6%
+","
+96.3%
+","
+5.46
+","
+B+ (3.50)
+","
+B+ (3.30)
+"
+"Paturi, Ramamohan             ","
+CSE 105 - Intro/Theory of Computation    (A)
+",SU07,20,"
+14
+","
+64.3%
+","
+85.7%
+","
+9.27
+","
+B (3.15)
+","
+N/A
+"

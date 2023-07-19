@@ -1,0 +1,661 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Jhala, Ranjit","
+CSE 131 - Compiler Construction (A)
+",SP22,52,"
+24
+","
+91.7%
+","
+87.5%
+","
+6.58
+","
+A- (3.78)
+","
+B+ (3.63)
+"
+"Jhala, Ranjit","
+CSE 131 - Compiler Construction (A)
+",SP21,42,"
+19
+","
+94.4%
+","
+94.4%
+","
+8.83
+","
+A- (3.88)
+","
+A- (3.74)
+"
+"Jhala, Ranjit","
+CSE 131 - Compiler Construction (B)
+",SP21,30,"
+15
+","
+100.0%
+","
+93.3%
+","
+7.79
+","
+A- (3.93)
+","
+B+ (3.63)
+"
+"Politz, Joseph Gibbs","
+CSE 131 - Compiler Construction (A)
+",FA19,88,"
+63
+","
+93.5%
+","
+93.5%
+","
+11.82
+","
+B+ (3.55)
+","
+B+ (3.55)
+"
+"Bakst, Alexander Goldberg","
+CSE 131 - Compiler Construction (A)
+",SP19,47,"
+15
+","
+92.9%
+","
+85.7%
+","
+8.36
+","
+B+ (3.40)
+","
+B+ (3.37)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",SP19,110,"
+38
+","
+83.9%
+","
+87.1%
+","
+8.69
+","
+B (3.19)
+","
+B (3.27)
+"
+"Jhala, Ranjit","
+CSE 131 - Compiler Construction (A)
+",FA18,70,"
+23
+","
+95.5%
+","
+100.0%
+","
+8.86
+","
+B+ (3.65)
+","
+B+ (3.48)
+"
+"Politz, Joseph Gibbs","
+CSE 131 - Compiler Construction (A)
+",SP18,104,"
+42
+","
+95.1%
+","
+95.1%
+","
+12.69
+","
+B+ (3.38)
+","
+B (3.20)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",SP18,132,"
+46
+","
+76.7%
+","
+86.0%
+","
+8.03
+","
+B (3.26)
+","
+B (3.24)
+"
+"Jhala, Ranjit","
+CSE 131 - Compiler Construction (A)
+",WI18,166,"
+68
+","
+90.5%
+","
+96.8%
+","
+8.30
+","
+B+ (3.36)
+","
+B (3.21)
+"
+"Chu, Isaac Y","
+CSE 131 - Compiler Construction (A)
+",FA17,54,"
+11
+","
+81.8%
+","
+90.9%
+","
+7.41
+","
+B+ (3.64)
+","
+B+ (3.38)
+"
+"Kamensky, David M","
+SE 131 - Finite Element Analysis (B)
+",S217,8,"
+3
+","
+50.0%
+","
+100.0%
+","
+12.50
+","
+B+ (3.50)
+","
+N/A
+"
+"Politz, Joseph Gibbs","
+CSE 131 - Compiler Construction (A)
+",SP17,196,"
+75
+","
+91.4%
+","
+97.1%
+","
+11.60
+","
+B+ (3.42)
+","
+B (3.23)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",SP17,182,"
+83
+","
+81.5%
+","
+71.6%
+","
+9.05
+","
+B (3.11)
+","
+B+ (3.56)
+"
+"Chu, Isaac Y","
+CSE 131 - Compiler Construction (A)
+",WI17,267,"
+84
+","
+53.8%
+","
+70.5%
+","
+12.12
+","
+B+ (3.33)
+","
+B (3.03)
+"
+"Jhala, Ranjit","
+CSE 131 - Compiler Construction (A)
+",FA16,155,"
+64
+","
+86.9%
+","
+98.4%
+","
+8.91
+","
+B+ (3.33)
+","
+B- (2.90)
+"
+"Stabb, Mark C","
+SE 131 - Finite Element Analysis (A)
+",S216,20,"
+6
+","
+100.0%
+","
+100.0%
+","
+8.17
+","
+B+ (3.50)
+","
+B- (2.91)
+"
+"Zhang, Weifeng","
+CSE 131 - Compiler Construction (A)
+",SP16,265,"
+81
+","
+68.0%
+","
+52.0%
+","
+15.38
+","
+B- (2.79)
+","
+B- (2.86)
+"
+"Zhang, Weifeng","
+CSE 131 - Compiler Construction (A)
+",WI16,190,"
+66
+","
+71.4%
+","
+63.5%
+","
+13.69
+","
+B- (2.80)
+","
+B- (2.82)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",WI16,165,"
+138
+","
+71.1%
+","
+72.6%
+","
+7.36
+","
+B (3.23)
+","
+B+ (3.36)
+"
+"Bournoutian, Garo","
+CSE 131 - Compiler Construction (A)
+",FA15,169,"
+142
+","
+66.2%
+","
+90.8%
+","
+16.70
+","
+B- (2.83)
+","
+C+ (2.61)
+"
+"Whisler, Daniel A","
+SE 131 - Finite Element Analysis (A)
+",S115,17,"
+17
+","
+82.4%
+","
+88.2%
+","
+7.91
+","
+B- (2.94)
+","
+N/A
+"
+"Bournoutian, Garo","
+CSE 131 - Compiler Construction (A)
+",SP15,142,"
+116
+","
+63.5%
+","
+80.0%
+","
+16.71
+","
+B- (2.89)
+","
+C+ (2.49)
+"
+"Bournoutian, Garo","
+CSE 131 - Compiler Construction (A)
+",WI15,153,"
+133
+","
+69.5%
+","
+88.5%
+","
+16.25
+","
+B- (2.75)
+","
+C (2.27)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",WI15,141,"
+91
+","
+80.0%
+","
+77.8%
+","
+7.39
+","
+B+ (3.34)
+","
+B- (2.81)
+"
+"Bournoutian, Garo","
+CSE 131 - Compiler Construction (A)
+",FA14,75,"
+17
+","
+84.6%
+","
+84.6%
+","
+17.42
+","
+B (3.08)
+","
+C+ (2.45)
+"
+"Whisler, Daniel A","
+SE 131 - Finite Element Analysis (A)
+",S114,8,"
+6
+","
+83.3%
+","
+100.0%
+","
+9.83
+","
+B (3.17)
+","
+N/A
+"
+"Ord, Richard","
+CSE 131 - Compiler Construction (A)
+",SP14,115,"
+39
+","
+78.9%
+","
+89.5%
+","
+16.72
+","
+B (3.14)
+","
+C+ (2.61)
+"
+"Ord, Richard","
+CSE 131 - Compiler Construction (A)
+",WI14,107,"
+36
+","
+75.8%
+","
+100.0%
+","
+16.32
+","
+B- (2.94)
+","
+C+ (2.53)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",WI14,126,"
+116
+","
+80.2%
+","
+87.1%
+","
+7.30
+","
+B+ (3.33)
+","
+B+ (3.51)
+"
+"Bournoutian, Garo","
+CSE 131 - Compiler Construction (B)
+",FA13,35,"
+10
+","
+77.8%
+","
+100.0%
+","
+16.72
+","
+B- (2.78)
+","
+C+ (2.56)
+"
+"Ord, Richard","
+CSE 131 - Compiler Construction (A)
+",SP13,103,"
+27
+","
+80.8%
+","
+84.6%
+","
+16.50
+","
+B (3.20)
+","
+C+ (2.66)
+"
+"Tang, Lingjia","
+CSE 131 - Compiler Construction (B)
+",SP13,60,"
+23
+","
+91.3%
+","
+95.7%
+","
+11.80
+","
+A- (3.74)
+","
+B (3.14)
+"
+"Ord, Richard","
+CSE 131 - Compiler Construction (B)
+",WI13,105,"
+46
+","
+84.8%
+","
+89.1%
+","
+17.52
+","
+B- (2.79)
+","
+C+ (2.36)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis (A)
+",WI13,136,"
+117
+","
+72.4%
+","
+80.2%
+","
+8.74
+","
+B (3.04)
+","
+C+ (2.61)
+"
+"Ord, Richard                       ","
+CSE 131 - Compiler Construction          (A)
+",SP10,71,"
+37
+","
+78.4%
+","
+94.6%
+","
+16.01
+","
+B+ (3.35)
+","
+C+ (2.53)
+"
+"Ord, Richard                       ","
+CSE 131 - Compiler Construction          (A)
+",WI10,58,"
+30
+","
+76.7%
+","
+93.3%
+","
+17.37
+","
+B (3.11)
+","
+C (2.29)
+"
+"Krysl, Petr                        ","
+SE 131 - Finite Element Analysis        (A)
+",WI10,83,"
+51
+","
+64.7%
+","
+52.9%
+","
+8.62
+","
+B (3.04)
+","
+B (3.21)
+"
+"Ord, Richard                       ","
+CSE 131 - Compiler Construction          (A)
+",SP09,90,"
+84
+","
+84.3%
+","
+96.4%
+","
+16.48
+","
+B+ (3.45)
+","
+B- (2.82)
+"
+"Ord, Richard","
+CSE 131 - Compiler Construction          (A)
+",WI09,62,"
+49
+","
+87.8%
+","
+98.0%
+","
+16.54
+","
+B+ (3.32)
+","
+B- (2.80)
+"
+"Krysl, Petr","
+SE 131 - Finite Element Analysis        (A)
+",WI09,113,"
+49
+","
+63.3%
+","
+70.8%
+","
+9.32
+","
+B (3.06)
+","
+B- (2.81)
+"
+"Ord, Richard                  ","
+CSE 131 - Compiler Construction          (A)
+",SP08,54,"
+48
+","
+93.6%
+","
+93.6%
+","
+15.83
+","
+B+ (3.32)
+","
+C+ (2.65)
+"
+"Ord, Richard                  ","
+CSE 131 - Compiler Construction          (A)
+",WI08,83,"
+71
+","
+86.8%
+","
+98.6%
+","
+15.81
+","
+B+ (3.37)
+","
+B- (2.86)
+"
+"Krysl, Petr                   ","
+SE 131 - Finite Element Analysis        (A)
+",WI08,119,"
+80
+","
+40.0%
+","
+37.5%
+","
+7.39
+","
+B+ (3.39)
+","
+B- (2.79)
+"

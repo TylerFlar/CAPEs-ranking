@@ -1,0 +1,391 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP23,42,"
+16
+","
+100.0%
+","
+100.0%
+","
+4.63
+","
+A- (3.87)
+","
+B+ (3.59)
+"
+"Bozinovic, Goran","
+BIMM 143 - Bioinformatics Laboratory (A)
+",WI23,39,"
+21
+","
+95.2%
+","
+85.0%
+","
+5.20
+","
+B+ (3.40)
+","
+B+ (3.42)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (B)
+",WI23,36,"
+16
+","
+100.0%
+","
+100.0%
+","
+4.63
+","
+A- (3.88)
+","
+A- (3.77)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",FA22,43,"
+19
+","
+100.0%
+","
+100.0%
+","
+5.17
+","
+A- (3.83)
+","
+A- (3.87)
+"
+"Bozinovic, Goran","
+BIMM 143 - Bioinformatics Laboratory (C)
+",FA22,41,"
+15
+","
+100.0%
+","
+100.0%
+","
+4.65
+","
+B (3.23)
+","
+B+ (3.45)
+"
+"Nicholson-Shaw, Timothy Luis Cabrer","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP22,45,"
+18
+","
+66.7%
+","
+77.8%
+","
+11.72
+","
+A- (3.89)
+","
+B+ (3.60)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP22,45,"
+18
+","
+66.7%
+","
+72.2%
+","
+11.72
+","
+A- (3.89)
+","
+B+ (3.60)
+"
+"Nicholson-Shaw, Timothy Luis Cabrer","
+BIMM 143 - Bioinformatics Laboratory (B)
+",SP22,43,"
+20
+","
+65.0%
+","
+70.0%
+","
+10.20
+","
+B+ (3.55)
+","
+B+ (3.64)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (B)
+",SP22,43,"
+20
+","
+65.0%
+","
+75.0%
+","
+10.20
+","
+B+ (3.55)
+","
+B+ (3.64)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",WI22,42,"
+27
+","
+80.8%
+","
+88.0%
+","
+7.35
+","
+B+ (3.62)
+","
+A- (3.79)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (B)
+",WI22,44,"
+19
+","
+94.7%
+","
+84.2%
+","
+9.03
+","
+B+ (3.68)
+","
+A- (3.70)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",FA21,40,"
+24
+","
+100.0%
+","
+100.0%
+","
+7.67
+","
+A- (3.92)
+","
+A- (3.75)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (B)
+",FA21,50,"
+23
+","
+90.9%
+","
+86.4%
+","
+11.17
+","
+A- (3.71)
+","
+B+ (3.62)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP21,39,"
+22
+","
+100.0%
+","
+100.0%
+","
+7.50
+","
+B+ (3.68)
+","
+B+ (3.62)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (B)
+",SP21,47,"
+21
+","
+85.7%
+","
+90.5%
+","
+7.36
+","
+A- (3.90)
+","
+A- (3.88)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (A)
+",WI21,44,"
+24
+","
+82.6%
+","
+95.7%
+","
+7.63
+","
+B+ (3.61)
+","
+A- (3.83)
+"
+"Schiffer, Jamie Michelle","
+BIMM 143 - Bioinformatics Laboratory (B)
+",WI21,42,"
+22
+","
+95.5%
+","
+95.5%
+","
+7.83
+","
+A- (3.90)
+","
+A- (3.96)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",FA20,54,"
+31
+","
+100.0%
+","
+96.7%
+","
+7.34
+","
+A- (3.71)
+","
+A- (3.91)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP20,41,"
+21
+","
+100.0%
+","
+100.0%
+","
+5.45
+","
+A- (3.94)
+","
+A- (3.74)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",WI20,39,"
+25
+","
+100.0%
+","
+100.0%
+","
+4.58
+","
+A- (3.78)
+","
+A- (3.91)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",FA19,40,"
+37
+","
+100.0%
+","
+100.0%
+","
+4.93
+","
+B+ (3.57)
+","
+B+ (3.64)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP19,40,"
+36
+","
+100.0%
+","
+100.0%
+","
+4.50
+","
+B+ (3.53)
+","
+B+ (3.45)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",WI19,46,"
+40
+","
+100.0%
+","
+97.5%
+","
+3.60
+","
+A- (3.79)
+","
+B+ (3.34)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",FA18,22,"
+17
+","
+100.0%
+","
+100.0%
+","
+4.50
+","
+B+ (3.53)
+","
+B+ (3.46)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",SP18,22,"
+19
+","
+94.7%
+","
+94.7%
+","
+5.66
+","
+B+ (3.63)
+","
+B+ (3.35)
+"
+"Grant, Barry J","
+BIMM 143 - Bioinformatics Laboratory (A)
+",WI18,17,"
+14
+","
+100.0%
+","
+100.0%
+","
+5.64
+","
+B+ (3.64)
+","
+N/A
+"

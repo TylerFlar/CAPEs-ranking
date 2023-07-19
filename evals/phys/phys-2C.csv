@@ -1,0 +1,961 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Yang, Liang","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP23,285,"
+124
+","
+77.3%
+","
+77.3%
+","
+6.13
+","
+B (3.27)
+","
+B (3.02)
+"
+"Yang, Liang","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI23,399,"
+173
+","
+90.4%
+","
+82.5%
+","
+5.90
+","
+B+ (3.41)
+","
+B (3.15)
+"
+"Barreiro Guerrero, Julio","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA22,235,"
+191
+","
+78.0%
+","
+71.2%
+","
+7.10
+","
+B (3.29)
+","
+B+ (3.36)
+"
+"Barreiro Guerrero, Julio","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA22,269,"
+215
+","
+80.4%
+","
+72.3%
+","
+6.47
+","
+B (3.29)
+","
+B+ (3.41)
+"
+"Gonzales, Daniel Patrick","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S222,57,"
+36
+","
+86.1%
+","
+97.2%
+","
+9.81
+","
+B+ (3.35)
+","
+B (3.29)
+"
+"Karanam, Aravind Rao","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S122,61,"
+37
+","
+94.4%
+","
+91.7%
+","
+6.72
+","
+B+ (3.43)
+","
+B+ (3.39)
+"
+"Michelsen, Eric Leonard","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP22,302,"
+125
+","
+55.4%
+","
+45.8%
+","
+7.84
+","
+B- (2.85)
+","
+C+ (2.56)
+"
+"Yang, Liang","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI22,272,"
+108
+","
+91.3%
+","
+90.4%
+","
+6.13
+","
+B+ (3.39)
+","
+B (3.07)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA21,329,"
+158
+","
+85.0%
+","
+90.8%
+","
+6.71
+","
+B (3.11)
+","
+B- (2.89)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA21,290,"
+161
+","
+82.2%
+","
+87.9%
+","
+6.64
+","
+B (3.10)
+","
+B- (2.79)
+"
+"Sabhlok, Sanchit","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S221,88,"
+68
+","
+86.6%
+","
+91.0%
+","
+8.81
+","
+B (3.25)
+","
+B (3.22)
+"
+"Rappel, Wouter Jan","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S121,87,"
+11
+","
+80.0%
+","
+80.0%
+","
+7.95
+","
+B+ (3.45)
+","
+B+ (3.32)
+"
+"Duarte, Javier Mauricio","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP21,349,"
+287
+","
+94.1%
+","
+98.3%
+","
+6.12
+","
+A- (3.76)
+","
+B+ (3.69)
+"
+"Duarte, Javier Mauricio","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI21,298,"
+255
+","
+95.6%
+","
+98.0%
+","
+6.21
+","
+B+ (3.70)
+","
+B+ (3.67)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA20,395,"
+182
+","
+95.1%
+","
+95.6%
+","
+6.01
+","
+B+ (3.68)
+","
+B+ (3.67)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA20,297,"
+141
+","
+96.3%
+","
+98.5%
+","
+6.72
+","
+A- (3.74)
+","
+A- (3.71)
+"
+"Premkumar, Akhil","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S220,157,"
+39
+","
+63.2%
+","
+47.4%
+","
+9.92
+","
+B (3.19)
+","
+B (3.18)
+"
+"Rappel, Wouter Jan","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S120,198,"
+42
+","
+82.5%
+","
+85.4%
+","
+10.55
+","
+B+ (3.55)
+","
+B+ (3.41)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP20,429,"
+173
+","
+92.3%
+","
+94.6%
+","
+7.01
+","
+B+ (3.53)
+","
+A- (3.76)
+"
+"Duarte, Javier Mauricio","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI20,350,"
+223
+","
+89.4%
+","
+98.1%
+","
+5.95
+","
+B (3.25)
+","
+B+ (3.32)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA19,389,"
+190
+","
+81.2%
+","
+77.3%
+","
+7.17
+","
+B (3.18)
+","
+B (3.09)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA19,228,"
+118
+","
+75.9%
+","
+73.2%
+","
+7.20
+","
+B- (2.98)
+","
+B- (2.72)
+"
+"Chakraborty, Subrata","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S219,94,"
+20
+","
+90.0%
+","
+80.0%
+","
+7.70
+","
+B (3.20)
+","
+B (3.03)
+"
+"Rappel, Wouter Jan","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S119,88,"
+26
+","
+91.3%
+","
+100.0%
+","
+6.32
+","
+B+ (3.65)
+","
+B- (2.96)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP19,358,"
+154
+","
+90.8%
+","
+95.7%
+","
+6.19
+","
+B+ (3.42)
+","
+B (3.16)
+"
+"Michelsen, Eric Leonard","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI19,339,"
+113
+","
+83.3%
+","
+75.0%
+","
+6.80
+","
+B (3.03)
+","
+B- (2.94)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA18,349,"
+148
+","
+92.1%
+","
+98.6%
+","
+6.68
+","
+B (3.23)
+","
+B- (2.96)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA18,349,"
+134
+","
+91.3%
+","
+97.6%
+","
+6.18
+","
+B (3.21)
+","
+B- (2.96)
+"
+"Chakraborty, Subrata","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S218,105,"
+28
+","
+74.1%
+","
+73.1%
+","
+7.31
+","
+B (3.19)
+","
+B- (2.89)
+"
+"Chakraborty, Subrata","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S118,97,"
+20
+","
+82.4%
+","
+75.0%
+","
+7.32
+","
+B (3.06)
+","
+B- (2.93)
+"
+"Wuerthwein, Frank","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP18,402,"
+156
+","
+78.9%
+","
+75.3%
+","
+6.23
+","
+B (3.29)
+","
+B (3.04)
+"
+"Hirsch, Jorge Eduardo","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI18,258,"
+97
+","
+48.9%
+","
+30.8%
+","
+7.58
+","
+C+ (2.57)
+","
+C+ (2.60)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA17,358,"
+135
+","
+87.6%
+","
+96.8%
+","
+6.31
+","
+B (3.25)
+","
+B (3.01)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA17,354,"
+131
+","
+91.5%
+","
+100.0%
+","
+6.02
+","
+B+ (3.34)
+","
+B (3.01)
+"
+"Kravec, Shauna Michelle","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S217,85,"
+31
+","
+31.0%
+","
+26.9%
+","
+8.83
+","
+C+ (2.53)
+","
+N/A
+"
+"Kravec, Shauna Michelle","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S117,104,"
+25
+","
+58.3%
+","
+37.5%
+","
+7.38
+","
+C+ (2.68)
+","
+B- (2.76)
+"
+"Branson, James G","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP17,293,"
+106
+","
+69.3%
+","
+45.5%
+","
+6.09
+","
+B (3.13)
+","
+B (3.09)
+"
+"Fogler, Michael M.","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI17,288,"
+115
+","
+75.7%
+","
+44.1%
+","
+7.35
+","
+B (3.06)
+","
+B- (2.76)
+"
+"Branson, James G","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA16,323,"
+127
+","
+60.0%
+","
+36.7%
+","
+6.74
+","
+B (3.13)
+","
+B+ (3.39)
+"
+"Palacci, Jeremie","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA16,350,"
+251
+","
+83.1%
+","
+79.5%
+","
+6.13
+","
+B (3.14)
+","
+B- (2.89)
+"
+"Allen, Grant","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S216,113,"
+31
+","
+93.3%
+","
+96.7%
+","
+8.07
+","
+B+ (3.50)
+","
+B+ (3.61)
+"
+"Shirman, Aleksandra","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S116,81,"
+19
+","
+94.4%
+","
+88.9%
+","
+8.03
+","
+B (3.06)
+","
+C+ (2.55)
+"
+"Jun, Suckjoon","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP16,277,"
+111
+","
+75.0%
+","
+65.4%
+","
+6.36
+","
+B- (2.99)
+","
+B- (2.75)
+"
+"Palacci, Jeremie","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI16,379,"
+138
+","
+88.6%
+","
+66.7%
+","
+6.18
+","
+B (3.26)
+","
+C+ (2.58)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA15,352,"
+153
+","
+93.8%
+","
+98.6%
+","
+6.09
+","
+B+ (3.32)
+","
+B- (2.96)
+"
+"Shpyrko, Oleg","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA15,357,"
+122
+","
+89.7%
+","
+97.4%
+","
+5.52
+","
+B+ (3.41)
+","
+B- (2.96)
+"
+"Allen, Grant","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S215,116,"
+113
+","
+89.4%
+","
+85.8%
+","
+7.62
+","
+B+ (3.30)
+","
+B+ (3.64)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S115,91,"
+47
+","
+97.9%
+","
+100.0%
+","
+7.39
+","
+B+ (3.36)
+","
+B (3.29)
+"
+"Michelsen, Eric Leonard","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP15,353,"
+141
+","
+83.2%
+","
+75.9%
+","
+6.54
+","
+B (3.23)
+","
+B- (2.95)
+"
+"Michelsen, Eric Leonard","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI15,328,"
+127
+","
+76.5%
+","
+48.7%
+","
+5.86
+","
+B (3.03)
+","
+B- (2.79)
+"
+"Intriligator, Kenneth Arthur","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA14,330,"
+109
+","
+78.2%
+","
+69.3%
+","
+5.90
+","
+B+ (3.40)
+","
+B (3.09)
+"
+"Intriligator, Kenneth Arthur","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA14,347,"
+118
+","
+83.3%
+","
+54.6%
+","
+6.08
+","
+B+ (3.39)
+","
+B (3.09)
+"
+"Stanley, Jacob T","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S214,136,"
+33
+","
+78.1%
+","
+87.5%
+","
+8.25
+","
+C+ (2.69)
+","
+B- (2.93)
+"
+"Stone, David Curtis","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S114,107,"
+52
+","
+78.4%
+","
+86.3%
+","
+9.98
+","
+B- (2.90)
+","
+B- (2.70)
+"
+"Jun, Suckjoon","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP14,289,"
+88
+","
+66.7%
+","
+34.5%
+","
+5.88
+","
+B- (2.84)
+","
+C+ (2.48)
+"
+"Di Ventra, Massimiliano","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI14,288,"
+92
+","
+86.5%
+","
+86.5%
+","
+5.21
+","
+B+ (3.35)
+","
+B (3.20)
+"
+"Intriligator, Kenneth Arthur","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA13,188,"
+63
+","
+85.0%
+","
+63.3%
+","
+5.26
+","
+B+ (3.37)
+","
+B- (2.96)
+"
+"Intriligator, Kenneth Arthur","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA13,347,"
+138
+","
+87.4%
+","
+66.9%
+","
+5.72
+","
+B (3.20)
+","
+B- (2.96)
+"
+"Shotwell, Brian","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S213,87,"
+19
+","
+72.2%
+","
+83.3%
+","
+7.44
+","
+B+ (3.39)
+","
+B- (2.81)
+"
+"Stanley, Jacob T","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",S113,85,"
+24
+","
+82.6%
+","
+91.3%
+","
+9.32
+","
+B (3.10)
+","
+B- (2.89)
+"
+"Wuerthwein, Frank","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",SP13,295,"
+94
+","
+89.4%
+","
+90.4%
+","
+6.05
+","
+B+ (3.47)
+","
+B (3.17)
+"
+"Lin, Shiowhwa","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",WI13,266,"
+110
+","
+66.1%
+","
+29.4%
+","
+5.69
+","
+B (3.00)
+","
+B- (2.83)
+"
+"Griest, Kim","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)
+",FA12,210,"
+74
+","
+83.3%
+","
+88.9%
+","
+5.74
+","
+B (3.29)
+","
+C+ (2.67)
+"
+"Anderson, Michael G.","
+PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)
+",FA12,295,"
+127
+","
+86.8%
+","
+95.0%
+","
+5.57
+","
+B+ (3.34)
+","
+B- (2.95)
+"

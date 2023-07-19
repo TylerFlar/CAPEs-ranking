@@ -1,0 +1,586 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Rampure, Suraj","
+DSC 10 - Principles of Data Science (A)
+",SP23,117,"
+92
+","
+97.8%
+","
+98.9%
+","
+8.32
+","
+B+ (3.55)
+","
+B (3.21)
+"
+"Rampure, Suraj","
+DSC 10 - Principles of Data Science (B)
+",SP23,117,"
+80
+","
+82.3%
+","
+96.2%
+","
+8.78
+","
+B+ (3.42)
+","
+B (3.14)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",WI23,103,"
+71
+","
+84.5%
+","
+90.1%
+","
+9.46
+","
+B+ (3.30)
+","
+B- (2.98)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",WI23,106,"
+74
+","
+89.0%
+","
+91.8%
+","
+8.82
+","
+B+ (3.36)
+","
+B (3.14)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (D)
+",WI23,92,"
+53
+","
+88.5%
+","
+90.4%
+","
+7.96
+","
+B+ (3.42)
+","
+B- (2.76)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",FA22,116,"
+99
+","
+95.9%
+","
+94.9%
+","
+8.03
+","
+B+ (3.56)
+","
+B+ (3.52)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",FA22,116,"
+97
+","
+96.9%
+","
+95.9%
+","
+7.57
+","
+B+ (3.53)
+","
+B+ (3.38)
+"
+"Rampure, Suraj","
+DSC 10 - Principles of Data Science (C)
+",FA22,108,"
+93
+","
+95.7%
+","
+93.4%
+","
+9.27
+","
+B+ (3.53)
+","
+B+ (3.31)
+"
+"Tabaghi, Puoya","
+DSC 10 - Principles of Data Science (D)
+",FA22,53,"
+44
+","
+93.0%
+","
+72.1%
+","
+8.17
+","
+A- (3.83)
+","
+B+ (3.52)
+"
+"Lau, Samuel Ethan","
+DSC 10 - Principles of Data Science (A)
+",S322,36,"
+16
+","
+100.0%
+","
+100.0%
+","
+8.10
+","
+B+ (3.67)
+","
+B+ (3.65)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",SP22,132,"
+95
+","
+89.5%
+","
+94.7%
+","
+8.52
+","
+B+ (3.55)
+","
+B+ (3.36)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",SP22,133,"
+92
+","
+93.5%
+","
+95.6%
+","
+8.04
+","
+B+ (3.56)
+","
+B (3.15)
+"
+"Rampure, Suraj","
+DSC 10 - Principles of Data Science (A)
+",WI22,141,"
+113
+","
+97.3%
+","
+100.0%
+","
+8.21
+","
+A- (3.72)
+","
+B- (2.96)
+"
+"Rampure, Suraj","
+DSC 10 - Principles of Data Science (B)
+",WI22,142,"
+117
+","
+97.4%
+","
+99.1%
+","
+7.57
+","
+A- (3.73)
+","
+B (3.05)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",FA21,72,"
+58
+","
+98.3%
+","
+98.2%
+","
+8.22
+","
+B+ (3.59)
+","
+B+ (3.33)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",FA21,71,"
+59
+","
+100.0%
+","
+100.0%
+","
+6.71
+","
+B+ (3.48)
+","
+B (3.29)
+"
+"Rampure, Suraj","
+DSC 10 - Principles of Data Science (C)
+",FA21,112,"
+90
+","
+98.9%
+","
+100.0%
+","
+7.52
+","
+B+ (3.54)
+","
+B (3.27)
+"
+"Eldridge, Justin Matthew","
+DSC 10 - Principles of Data Science (A)
+",S121,86,"
+20
+","
+90.0%
+","
+94.7%
+","
+11.90
+","
+A- (3.85)
+","
+B+ (3.57)
+"
+"Aoi, Mikio C","
+DSC 10 - Principles of Data Science (A)
+",SP21,139,"
+58
+","
+91.2%
+","
+84.2%
+","
+8.78
+","
+B+ (3.57)
+","
+B+ (3.35)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",WI21,78,"
+35
+","
+85.7%
+","
+85.7%
+","
+7.76
+","
+B+ (3.59)
+","
+B (3.28)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",WI21,86,"
+39
+","
+94.6%
+","
+89.2%
+","
+6.61
+","
+B+ (3.48)
+","
+B+ (3.55)
+"
+"Eldridge, Justin Matthew","
+DSC 10 - Principles of Data Science (A)
+",FA20,171,"
+116
+","
+99.1%
+","
+100.0%
+","
+5.90
+","
+B+ (3.68)
+","
+B (3.17)
+"
+"Eldridge, Justin Matthew","
+DSC 10 - Principles of Data Science (A)
+",S320,37,"
+7
+","
+100.0%
+","
+100.0%
+","
+7.07
+","
+A (4.00)
+","
+B+ (3.44)
+"
+"Jemmott, Colin William","
+DSC 10 - Principles of Data Science (A)
+",SP20,137,"
+56
+","
+94.6%
+","
+100.0%
+","
+7.11
+","
+A- (3.76)
+","
+A- (3.74)
+"
+"Eldridge, Justin Matthew","
+DSC 10 - Principles of Data Science (A)
+",WI20,132,"
+58
+","
+98.2%
+","
+100.0%
+","
+7.46
+","
+B+ (3.56)
+","
+B+ (3.32)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",FA19,120,"
+72
+","
+89.7%
+","
+82.4%
+","
+7.31
+","
+B+ (3.33)
+","
+B- (2.94)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",FA19,113,"
+65
+","
+95.0%
+","
+88.1%
+","
+7.85
+","
+B+ (3.37)
+","
+B- (2.91)
+"
+"Twomey, Robert Daniel","
+DSC 10 - Principles of Data Science (A)
+",S219,51,"
+10
+","
+88.9%
+","
+100.0%
+","
+10.94
+","
+A- (3.70)
+","
+B- (2.86)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",SP19,103,"
+46
+","
+88.6%
+","
+79.5%
+","
+7.68
+","
+B+ (3.50)
+","
+B- (2.96)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (B)
+",SP19,79,"
+37
+","
+96.9%
+","
+93.8%
+","
+8.25
+","
+B+ (3.53)
+","
+B- (2.96)
+"
+"Jemmott, Colin William","
+DSC 10 - Principles of Data Science (A)
+",WI19,164,"
+77
+","
+97.0%
+","
+95.5%
+","
+6.98
+","
+B+ (3.66)
+","
+B (3.27)
+"
+"Eldridge, Justin Matthew","
+DSC 10 - Principles of Data Science (A)
+",FA18,140,"
+61
+","
+98.3%
+","
+98.3%
+","
+7.75
+","
+B+ (3.48)
+","
+B- (2.94)
+"
+"Fraenkel, Aaron Mcmillan","
+DSC 10 - Principles of Data Science (B)
+",FA18,143,"
+54
+","
+96.0%
+","
+97.9%
+","
+7.34
+","
+B+ (3.40)
+","
+B- (2.91)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Principles of Data Science (A)
+",SP18,117,"
+45
+","
+93.2%
+","
+90.9%
+","
+6.87
+","
+B+ (3.62)
+","
+B- (2.90)
+"
+"Langlois, Marina","
+DSC 10 - Introduction to Programming (C)
+",WI18,53,"
+25
+","
+95.7%
+","
+95.7%
+","
+6.24
+","
+B+ (3.59)
+","
+B (3.18)
+"
+"Langlois, Marina","
+DSC 10 - Introduction to Programming (D)
+",WI18,112,"
+49
+","
+95.7%
+","
+93.6%
+","
+7.27
+","
+B+ (3.59)
+","
+B (3.18)
+"
+"Langlois, Marina","
+DSC 10 - Introduction to Programming (A)
+",FA17,37,"
+19
+","
+94.7%
+","
+100.0%
+","
+8.18
+","
+B (3.29)
+","
+B- (2.87)
+"
+"Tiefenbruck, Janine LoBue","
+DSC 10 - Introduction to Programming (B)
+",FA17,37,"
+17
+","
+93.8%
+","
+100.0%
+","
+6.63
+","
+B+ (3.44)
+","
+B (3.06)
+"
+"Langlois, Marina","
+DSC 10 - Introduction to Programming (C)
+",FA17,39,"
+15
+","
+100.0%
+","
+100.0%
+","
+8.50
+","
+B (3.29)
+","
+B- (2.87)
+"

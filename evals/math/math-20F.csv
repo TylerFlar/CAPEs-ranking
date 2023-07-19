@@ -1,0 +1,661 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Harel, Guershon","
+MATH 20F - Linear Algebra (A)
+",S216,131,"
+35
+","
+94.1%
+","
+79.4%
+","
+9.35
+","
+B+ (3.41)
+","
+C+ (2.48)
+"
+"Kim, Yeon Kyung","
+MATH 20F - Linear Algebra (A)
+",S116,126,"
+30
+","
+96.7%
+","
+90.0%
+","
+7.74
+","
+B+ (3.62)
+","
+C+ (2.66)
+"
+"Behzadan, Ali","
+MATH 20F - Linear Algebra (A)
+",SP16,315,"
+131
+","
+93.0%
+","
+96.1%
+","
+5.89
+","
+A- (3.84)
+","
+B (3.15)
+"
+"Gawlik, Evan Scott","
+MATH 20F - Linear Algebra (B)
+",SP16,200,"
+76
+","
+91.4%
+","
+98.6%
+","
+6.20
+","
+B+ (3.43)
+","
+C+ (2.69)
+"
+"Wong, Elizabeth Lai Sum","
+MATH 20F - Linear Algebra (C)
+",SP16,410,"
+156
+","
+94.8%
+","
+99.3%
+","
+5.27
+","
+B+ (3.66)
+","
+B (3.24)
+"
+"Kim, Yeon Kyung","
+MATH 20F - Linear Algebra (D)
+",SP16,113,"
+26
+","
+95.5%
+","
+81.8%
+","
+5.80
+","
+B+ (3.48)
+","
+C+ (2.35)
+"
+"Merkurjev, Ekaterina","
+MATH 20F - Linear Algebra (A)
+",WI16,328,"
+187
+","
+84.3%
+","
+46.1%
+","
+6.28
+","
+B+ (3.37)
+","
+B- (2.99)
+"
+"Cheng, Hsiao-Bing","
+MATH 20F - Linear Algebra (B)
+",WI16,186,"
+100
+","
+86.2%
+","
+72.3%
+","
+6.81
+","
+B+ (3.39)
+","
+B- (2.78)
+"
+"Mohanty, Sara","
+MATH 20F - Linear Algebra (C)
+",WI16,195,"
+103
+","
+75.8%
+","
+42.4%
+","
+5.94
+","
+B (3.10)
+","
+C (2.01)
+"
+"Deotte, Christopher George","
+MATH 20F - Linear Algebra (D)
+",WI16,337,"
+173
+","
+95.8%
+","
+96.4%
+","
+5.83
+","
+B+ (3.65)
+","
+B (3.07)
+"
+"Lu, Shaoying","
+MATH 20F - Linear Algebra (A)
+",FA15,289,"
+124
+","
+86.6%
+","
+58.0%
+","
+6.04
+","
+B+ (3.43)
+","
+B (3.15)
+"
+"Oswald, Albert Georg Peter","
+MATH 20F - Linear Algebra (B)
+",FA15,231,"
+100
+","
+70.5%
+","
+40.0%
+","
+6.81
+","
+B (3.15)
+","
+B- (2.79)
+"
+"Wong, Elizabeth Lai Sum","
+MATH 20F - Linear Algebra (C)
+",FA15,244,"
+98
+","
+97.9%
+","
+96.8%
+","
+6.19
+","
+A- (3.75)
+","
+B (3.18)
+"
+"Nie, Jiawang","
+MATH 20F - Linear Algebra (A)
+",S215,167,"
+48
+","
+83.7%
+","
+65.1%
+","
+10.40
+","
+B+ (3.39)
+","
+B (3.24)
+"
+"Harel, Guershon","
+MATH 20F - Linear Algebra (A)
+",S115,148,"
+48
+","
+91.3%
+","
+82.6%
+","
+8.77
+","
+B+ (3.53)
+","
+B- (2.97)
+"
+"Wang, Jie","
+MATH 20F - Linear Algebra (A)
+",SP15,361,"
+165
+","
+89.2%
+","
+75.9%
+","
+5.49
+","
+B+ (3.49)
+","
+B- (2.99)
+"
+"Pelletier, Bruno","
+MATH 20F - Linear Algebra (B)
+",SP15,285,"
+111
+","
+75.5%
+","
+53.8%
+","
+4.93
+","
+B+ (3.37)
+","
+B- (2.80)
+"
+"Harel, Guershon","
+MATH 20F - Linear Algebra (C)
+",SP15,311,"
+120
+","
+92.2%
+","
+80.2%
+","
+6.12
+","
+B+ (3.61)
+","
+B (3.06)
+"
+"Peng, Xing","
+MATH 20F - Linear Algebra (A)
+",WI15,343,"
+242
+","
+87.9%
+","
+59.2%
+","
+6.15
+","
+B+ (3.51)
+","
+B- (2.72)
+"
+"Eggers, John Dietrich","
+MATH 20F - Linear Algebra (B)
+",WI15,393,"
+150
+","
+67.8%
+","
+81.1%
+","
+7.11
+","
+B- (2.99)
+","
+C+ (2.43)
+"
+"Sorensen, Claus M","
+MATH 20F - Linear Algebra (C)
+",WI15,303,"
+153
+","
+89.2%
+","
+63.5%
+","
+6.09
+","
+B (3.28)
+","
+B- (2.90)
+"
+"Lu, Shaoying","
+MATH 20F - Linear Algebra (A)
+",FA14,357,"
+130
+","
+82.3%
+","
+45.2%
+","
+5.73
+","
+B+ (3.35)
+","
+B- (2.91)
+"
+"McKernan, James","
+MATH 20F - Linear Algebra (B)
+",FA14,277,"
+99
+","
+82.4%
+","
+59.3%
+","
+5.81
+","
+B+ (3.32)
+","
+B (3.06)
+"
+"Banaszak, Grzegorz Marian","
+MATH 20F - Linear Algebra (C)
+",FA14,188,"
+78
+","
+69.9%
+","
+23.3%
+","
+6.47
+","
+B (3.10)
+","
+B- (2.76)
+"
+"Bach, Quang Tran","
+MATH 20F - Linear Algebra (A)
+",S214,136,"
+35
+","
+84.4%
+","
+62.5%
+","
+8.36
+","
+B+ (3.55)
+","
+B- (2.78)
+"
+"Harel, Guershon","
+MATH 20F - Linear Algebra (A)
+",S114,163,"
+55
+","
+92.5%
+","
+84.9%
+","
+7.33
+","
+A- (3.80)
+","
+B- (2.87)
+"
+"Behzadan, Ali","
+MATH 20F - Linear Algebra (A)
+",SP14,305,"
+121
+","
+94.1%
+","
+94.9%
+","
+6.01
+","
+B+ (3.60)
+","
+B (3.14)
+"
+"Rabin, Jeffrey Mark","
+MATH 20F - Linear Algebra (B)
+",SP14,322,"
+101
+","
+84.8%
+","
+91.9%
+","
+5.90
+","
+B+ (3.36)
+","
+C+ (2.59)
+"
+"Harel, Guershon","
+MATH 20F - Linear Algebra (C)
+",SP14,176,"
+58
+","
+88.2%
+","
+60.8%
+","
+5.52
+","
+B+ (3.43)
+","
+C+ (2.62)
+"
+"Harel, Guershon","
+MATH 20F - Linear Algebra (A)
+",WI14,322,"
+118
+","
+95.7%
+","
+71.3%
+","
+5.72
+","
+B+ (3.66)
+","
+C+ (2.65)
+"
+"Eggers, John Dietrich","
+MATH 20F - Linear Algebra (B)
+",WI14,389,"
+140
+","
+90.8%
+","
+94.6%
+","
+6.56
+","
+B+ (3.55)
+","
+C (2.27)
+"
+"Pelletier, Bruno","
+MATH 20F - Linear Algebra (C)
+",WI14,209,"
+81
+","
+89.5%
+","
+47.4%
+","
+5.15
+","
+B+ (3.51)
+","
+B- (2.96)
+"
+"Lu, Shaoying","
+MATH 20F - Linear Algebra (A)
+",FA13,199,"
+84
+","
+81.3%
+","
+22.5%
+","
+6.10
+","
+B+ (3.41)
+","
+B (3.08)
+"
+"Driver, Bruce K","
+MATH 20F - Linear Algebra (B)
+",FA13,287,"
+122
+","
+94.1%
+","
+90.7%
+","
+5.50
+","
+B+ (3.66)
+","
+B (3.06)
+"
+"Nie, Jiawang","
+MATH 20F - Linear Algebra (A)
+",S213,151,"
+40
+","
+89.5%
+","
+89.5%
+","
+8.56
+","
+A- (3.81)
+","
+B+ (3.41)
+"
+"Hennig, Johanna Marie","
+MATH 20F - Linear Algebra (A)
+",S113,102,"
+37
+","
+80.0%
+","
+97.1%
+","
+11.30
+","
+B+ (3.31)
+","
+C+ (2.59)
+"
+"Ioana, Adrian","
+MATH 20F - Linear Algebra (A)
+",SP13,212,"
+86
+","
+91.8%
+","
+97.6%
+","
+5.27
+","
+B+ (3.61)
+","
+C+ (2.59)
+"
+"Pollock, Sara N","
+MATH 20F - Linear Algebra (B)
+",SP13,212,"
+75
+","
+89.2%
+","
+87.8%
+","
+5.53
+","
+B+ (3.54)
+","
+B- (2.86)
+"
+"Guo, Feng","
+MATH 20F - Linear Algebra (C)
+",SP13,254,"
+72
+","
+70.8%
+","
+30.6%
+","
+5.92
+","
+B+ (3.31)
+","
+B- (2.79)
+"
+"Schillewaert, Jeroen Jan","
+MATH 20F - Linear Algebra (A)
+",WI13,288,"
+125
+","
+82.1%
+","
+62.6%
+","
+6.33
+","
+B (3.18)
+","
+C+ (2.59)
+"
+"Peng, Xing","
+MATH 20F - Linear Algebra (B)
+",WI13,139,"
+100
+","
+90.7%
+","
+58.8%
+","
+5.24
+","
+B+ (3.33)
+","
+B- (2.71)
+"
+"Nie, Jiawang","
+MATH 20F - Linear Algebra (C)
+",WI13,263,"
+113
+","
+90.1%
+","
+91.0%
+","
+6.08
+","
+A- (3.74)
+","
+B (3.20)
+"
+"Stevens, Laura Jeanne","
+MATH 20F - Linear Algebra (A)
+",FA12,334,"
+151
+","
+86.6%
+","
+89.4%
+","
+6.32
+","
+B+ (3.48)
+","
+B- (2.75)
+"
+"Kemp, Todd Aahron","
+MATH 20F - Linear Algebra (B)
+",FA12,181,"
+69
+","
+89.2%
+","
+90.8%
+","
+6.25
+","
+B (3.25)
+","
+B- (2.75)
+"

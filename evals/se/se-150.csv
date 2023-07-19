@@ -1,0 +1,541 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Li, Chaohsien","
+SE 150 - Design of Steel Structures (A)
+",S220,16,"
+6
+","
+66.7%
+","
+83.3%
+","
+12.83
+","
+B (3.20)
+","
+N/A
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",SP20,82,"
+29
+","
+96.6%
+","
+100.0%
+","
+9.79
+","
+B (3.19)
+","
+B+ (3.66)
+"
+"Reynolds, Mathew Peter","
+SE 150 - Design of Steel Structures (A)
+",S219,21,"
+13
+","
+100.0%
+","
+100.0%
+","
+9.83
+","
+B+ (3.31)
+","
+B (3.24)
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",SP19,90,"
+32
+","
+100.0%
+","
+96.7%
+","
+10.50
+","
+B- (2.73)
+","
+B (3.13)
+"
+"Gao, Sicun","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI19,301,"
+90
+","
+98.8%
+","
+97.6%
+","
+7.88
+","
+A- (3.79)
+","
+A- (3.79)
+"
+"Alvarado, Christine J.","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",FA18,131,"
+81
+","
+93.8%
+","
+97.5%
+","
+11.50
+","
+B+ (3.40)
+","
+B- (2.91)
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",SP18,120,"
+83
+","
+97.6%
+","
+100.0%
+","
+9.01
+","
+B+ (3.38)
+","
+B (3.12)
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",SP18,86,"
+37
+","
+94.6%
+","
+97.3%
+","
+10.77
+","
+B (3.08)
+","
+B- (2.99)
+"
+"Gao, Sicun","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI18,185,"
+87
+","
+97.6%
+","
+96.3%
+","
+8.88
+","
+B+ (3.56)
+","
+B+ (3.65)
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",S117,60,"
+42
+","
+90.5%
+","
+100.0%
+","
+11.60
+","
+B (3.15)
+","
+B (3.02)
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",SP17,254,"
+180
+","
+88.6%
+","
+93.2%
+","
+9.56
+","
+B (3.28)
+","
+B- (2.80)
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",SP17,83,"
+35
+","
+100.0%
+","
+100.0%
+","
+9.56
+","
+B (3.06)
+","
+B- (2.97)
+"
+"Cottrell, Garrison W","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",FA16,165,"
+66
+","
+96.8%
+","
+84.1%
+","
+8.60
+","
+B+ (3.38)
+","
+B (3.22)
+"
+"Ozkula, Gulen","
+SE 150 - Design of Steel Structures (B)
+",FA16,95,"
+43
+","
+94.7%
+","
+55.3%
+","
+10.71
+","
+B- (2.89)
+","
+B- (2.96)
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",S116,58,"
+40
+","
+97.5%
+","
+97.5%
+","
+10.14
+","
+B (3.25)
+","
+B (3.06)
+"
+"Mashayekh, Adel","
+SE 150 - Design of Steel Structures (A)
+",S116,27,"
+27
+","
+92.6%
+","
+96.3%
+","
+8.50
+","
+B+ (3.35)
+","
+B+ (3.40)
+"
+"Cottrell, Garrison W","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",SP16,190,"
+58
+","
+84.9%
+","
+66.0%
+","
+8.70
+","
+B (3.06)
+","
+B (3.24)
+"
+"Langlois, Marina","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI16,148,"
+63
+","
+93.4%
+","
+70.5%
+","
+8.84
+","
+B (3.24)
+","
+B- (2.90)
+"
+"Ozkula, Gulen","
+SE 150 - Design of Steel Structures (A)
+",WI16,128,"
+64
+","
+96.3%
+","
+50.0%
+","
+10.62
+","
+B+ (3.48)
+","
+B (3.04)
+"
+"Kim, Dong Won","
+SE 150 - Design of Steel Structures (A)
+",S215,24,"
+8
+","
+100.0%
+","
+87.5%
+","
+11.25
+","
+B+ (3.38)
+","
+B+ (3.32)
+"
+"Cottrell, Garrison W","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",SP15,130,"
+39
+","
+97.3%
+","
+75.7%
+","
+6.50
+","
+B (3.18)
+","
+B (3.27)
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI15,199,"
+102
+","
+91.1%
+","
+94.1%
+","
+8.38
+","
+B (3.20)
+","
+B- (2.92)
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",FA14,113,"
+39
+","
+97.1%
+","
+97.1%
+","
+10.44
+","
+B+ (3.37)
+","
+B- (2.82)
+"
+"Der, Matthew Francis","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",S214,41,"
+10
+","
+100.0%
+","
+100.0%
+","
+10.75
+","
+B (3.13)
+","
+B (3.07)
+"
+"Kim, Dong Won","
+SE 150 - Design of Steel Structures (A)
+",S214,19,"
+7
+","
+100.0%
+","
+100.0%
+","
+10.50
+","
+B+ (3.57)
+","
+N/A
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI14,167,"
+97
+","
+86.0%
+","
+92.5%
+","
+8.15
+","
+B (3.19)
+","
+B (3.07)
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",FA13,114,"
+52
+","
+92.0%
+","
+94.0%
+","
+11.00
+","
+B (3.26)
+","
+B- (2.71)
+"
+"Saul, Lawrence","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI13,101,"
+75
+","
+87.8%
+","
+89.2%
+","
+7.42
+","
+B (3.09)
+","
+B (3.01)
+"
+"Cottrell, Garrison W","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",FA12,52,"
+19
+","
+94.4%
+","
+77.8%
+","
+6.06
+","
+B (3.18)
+","
+B- (2.92)
+"
+"Uang, Chia-Ming","
+SE 150 - Design of Steel Structures (A)
+",FA12,117,"
+59
+","
+98.1%
+","
+100.0%
+","
+10.24
+","
+B (3.02)
+","
+B- (2.84)
+"
+"Saul, Lawrence                     ","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",WI10,51,"
+44
+","
+90.9%
+","
+100.0%
+","
+6.78
+","
+B+ (3.43)
+","
+B (3.01)
+"
+"Uang, Chia-Ming                    ","
+SE 150 - Structrl Design Prin:App/Steel (A)
+",FA09,78,"
+66
+","
+98.5%
+","
+100.0%
+","
+8.68
+","
+B (3.19)
+","
+B- (2.96)
+"
+"Saul, Lawrence                     ","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",SP09,36,"
+31
+","
+96.8%
+","
+100.0%
+","
+5.92
+","
+B (3.19)
+","
+B (3.16)
+"
+"Uang, Chia-Ming                    ","
+SE 150 - Structrl Design Prin:App/Steel (A)
+",FA08,125,"
+70
+","
+100.0%
+","
+98.5%
+","
+9.54
+","
+B (3.14)
+","
+B- (2.95)
+"
+"Saul, Lawrence                ","
+CSE 150 - Int Artif Intell:Search&Reason (A)
+",SP08,24,"
+21
+","
+95.2%
+","
+100.0%
+","
+6.50
+","
+B+ (3.39)
+","
+B- (2.97)
+"
+"Uang, Chia-Ming               ","
+SE 150 - Structrl Design Prin:App/Steel (A)
+",FA07,121,"
+78
+","
+97.3%
+","
+97.3%
+","
+9.95
+","
+B+ (3.40)
+","
+B (3.01)
+"

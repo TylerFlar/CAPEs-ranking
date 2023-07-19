@@ -1,0 +1,781 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP23,30,"
+17
+","
+100.0%
+","
+87.5%
+","
+14.63
+","
+A- (3.75)
+","
+A- (3.77)
+"
+"Ghazinejad, Maziar","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP23,35,"
+17
+","
+94.1%
+","
+100.0%
+","
+14.26
+","
+B+ (3.59)
+","
+A- (3.97)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP23,35,"
+12
+","
+83.3%
+","
+91.7%
+","
+13.83
+","
+B+ (3.67)
+","
+A- (3.78)
+"
+"Pawlak, Geno Ronald","
+MAE 156B - Fund. Prin/Mechanical Desgn II (D)
+",SP23,34,"
+12
+","
+90.9%
+","
+90.9%
+","
+13.59
+","
+B+ (3.55)
+","
+B+ (3.51)
+"
+"Qi, Huihui","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",WI23,15,"
+9
+","
+100.0%
+","
+100.0%
+","
+14.94
+","
+A (4.00)
+","
+N/A
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",WI23,15,"
+3
+","
+100.0%
+","
+100.0%
+","
+13.17
+","
+A (4.00)
+","
+N/A
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP22,21,"
+12
+","
+91.7%
+","
+100.0%
+","
+17.83
+","
+A- (3.75)
+","
+A- (3.75)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP22,24,"
+13
+","
+100.0%
+","
+100.0%
+","
+11.00
+","
+B+ (3.45)
+","
+A- (3.75)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP22,20,"
+5
+","
+100.0%
+","
+100.0%
+","
+11.70
+","
+A (4.00)
+","
+B+ (3.67)
+"
+"Ghazinejad, Maziar","
+MAE 156B - Fund. Prin/Mechanical Desgn II (D)
+",SP22,20,"
+9
+","
+77.8%
+","
+100.0%
+","
+12.06
+","
+B+ (3.44)
+","
+A- (3.97)
+"
+"Qi, Huihui","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI22,17,"
+15
+","
+93.3%
+","
+100.0%
+","
+18.50
+","
+B+ (3.53)
+","
+N/A
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",WI22,16,"
+8
+","
+87.5%
+","
+87.5%
+","
+12.25
+","
+B+ (3.63)
+","
+N/A
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP21,42,"
+29
+","
+86.2%
+","
+82.8%
+","
+12.07
+","
+B+ (3.62)
+","
+B+ (3.67)
+"
+"Ghazinejad, Maziar","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP21,44,"
+24
+","
+100.0%
+","
+100.0%
+","
+13.33
+","
+A- (3.83)
+","
+A- (3.94)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP21,44,"
+21
+","
+90.5%
+","
+85.7%
+","
+14.12
+","
+B+ (3.62)
+","
+B+ (3.65)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (D)
+",SP21,41,"
+23
+","
+100.0%
+","
+100.0%
+","
+10.41
+","
+A- (3.74)
+","
+A- (3.83)
+"
+"Qi, Huihui","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI21,28,"
+18
+","
+100.0%
+","
+100.0%
+","
+11.94
+","
+A- (3.94)
+","
+A- (3.91)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",WI21,29,"
+10
+","
+100.0%
+","
+100.0%
+","
+14.90
+","
+A- (3.80)
+","
+B+ (3.63)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",WI21,28,"
+12
+","
+100.0%
+","
+100.0%
+","
+11.33
+","
+A- (3.92)
+","
+B+ (3.67)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP20,32,"
+10
+","
+100.0%
+","
+100.0%
+","
+12.50
+","
+A (4.00)
+","
+A- (3.89)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP20,32,"
+12
+","
+100.0%
+","
+91.7%
+","
+14.67
+","
+A- (3.78)
+","
+A- (3.92)
+"
+"Ghazinejad, Maziar","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP20,29,"
+16
+","
+100.0%
+","
+100.0%
+","
+11.50
+","
+A- (3.86)
+","
+A- (3.94)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (D)
+",SP20,32,"
+16
+","
+93.3%
+","
+86.7%
+","
+8.63
+","
+A- (3.85)
+","
+A- (3.82)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI20,29,"
+9
+","
+88.9%
+","
+77.8%
+","
+11.39
+","
+B+ (3.56)
+","
+B+ (3.54)
+"
+"Qi, Huihui","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",WI20,29,"
+25
+","
+100.0%
+","
+100.0%
+","
+11.14
+","
+A- (3.84)
+","
+A- (3.84)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP19,28,"
+11
+","
+100.0%
+","
+100.0%
+","
+15.50
+","
+A- (3.78)
+","
+A- (3.81)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP19,33,"
+21
+","
+95.2%
+","
+100.0%
+","
+14.12
+","
+B+ (3.57)
+","
+B+ (3.60)
+"
+"Ghazinejad, Maziar","
+MAE 156B - Fund. Prin/Mechanical Desgn II (D)
+",SP19,20,"
+16
+","
+93.8%
+","
+86.7%
+","
+12.38
+","
+B (3.27)
+","
+A- (3.71)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",WI19,36,"
+12
+","
+81.8%
+","
+72.7%
+","
+17.77
+","
+B+ (3.64)
+","
+B+ (3.68)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP18,34,"
+19
+","
+78.9%
+","
+89.5%
+","
+16.39
+","
+B+ (3.67)
+","
+B+ (3.60)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP18,32,"
+15
+","
+100.0%
+","
+92.3%
+","
+14.64
+","
+B+ (3.50)
+","
+A- (3.74)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP18,30,"
+19
+","
+89.5%
+","
+100.0%
+","
+15.34
+","
+B+ (3.58)
+","
+B+ (3.51)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI18,27,"
+5
+","
+100.0%
+","
+100.0%
+","
+16.00
+","
+B+ (3.50)
+","
+B+ (3.66)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP17,35,"
+9
+","
+71.4%
+","
+71.4%
+","
+16.50
+","
+A- (3.71)
+","
+A- (3.71)
+"
+"Silberman, Jack","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP17,29,"
+22
+","
+95.5%
+","
+100.0%
+","
+18.40
+","
+B+ (3.38)
+","
+A- (3.71)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP17,29,"
+22
+","
+95.5%
+","
+95.5%
+","
+18.40
+","
+B+ (3.38)
+","
+A- (3.71)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (D)
+",SP17,29,"
+14
+","
+85.7%
+","
+92.9%
+","
+15.79
+","
+A- (3.71)
+","
+B+ (3.43)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI17,16,"
+3
+","
+100.0%
+","
+100.0%
+","
+11.83
+","
+B+ (3.67)
+","
+N/A
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP16,30,"
+24
+","
+91.7%
+","
+79.2%
+","
+13.67
+","
+B+ (3.61)
+","
+B+ (3.56)
+"
+"Gillett, David S","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP16,33,"
+24
+","
+100.0%
+","
+100.0%
+","
+14.08
+","
+B+ (3.54)
+","
+B+ (3.48)
+"
+"Hoople, Gordon","
+MAE 156B - Fund. Prin/Mechanical Desgn II (C)
+",SP16,33,"
+24
+","
+100.0%
+","
+100.0%
+","
+14.08
+","
+B+ (3.54)
+","
+B+ (3.48)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI16,24,"
+13
+","
+92.3%
+","
+92.3%
+","
+13.58
+","
+B+ (3.46)
+","
+A- (3.70)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP15,38,"
+33
+","
+96.9%
+","
+100.0%
+","
+15.38
+","
+A- (3.81)
+","
+A- (3.78)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP15,37,"
+30
+","
+93.3%
+","
+93.3%
+","
+17.05
+","
+B+ (3.60)
+","
+A- (3.86)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI15,19,"
+10
+","
+100.0%
+","
+100.0%
+","
+14.06
+","
+A- (3.78)
+","
+N/A
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP14,32,"
+10
+","
+100.0%
+","
+88.9%
+","
+15.39
+","
+B+ (3.67)
+","
+A- (3.82)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP14,35,"
+6
+","
+100.0%
+","
+100.0%
+","
+14.50
+","
+B+ (3.33)
+","
+B+ (3.68)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI14,38,"
+6
+","
+100.0%
+","
+100.0%
+","
+15.83
+","
+B+ (3.60)
+","
+B+ (3.68)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",SP13,44,"
+10
+","
+100.0%
+","
+100.0%
+","
+16.30
+","
+A- (3.90)
+","
+A- (3.72)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",SP13,41,"
+9
+","
+87.5%
+","
+87.5%
+","
+13.25
+","
+A- (3.88)
+","
+A- (3.79)
+"
+"Delson, Nathan Joseph","
+MAE 156B - Fund. Prin/Mechanical Desgn II (A)
+",WI13,36,"
+9
+","
+100.0%
+","
+87.5%
+","
+13.00
+","
+A- (3.75)
+","
+A- (3.75)
+"
+"Tustaniwskyj, Jerry I","
+MAE 156B - Fund. Prin/Mechanical Desgn II (B)
+",WI13,39,"
+16
+","
+93.8%
+","
+93.8%
+","
+13.63
+","
+B+ (3.69)
+","
+A- (3.73)
+"

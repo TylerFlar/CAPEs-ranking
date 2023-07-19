@@ -1,0 +1,586 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI23,48,"
+27
+","
+100.0%
+","
+100.0%
+","
+9.04
+","
+B+ (3.54)
+","
+B+ (3.35)
+"
+"Opatkiewicz, Justin Paul","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI23,44,"
+22
+","
+100.0%
+","
+100.0%
+","
+8.32
+","
+A- (3.73)
+","
+B+ (3.43)
+"
+"Chen, Zheng","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI22,58,"
+39
+","
+97.3%
+","
+89.2%
+","
+9.55
+","
+B+ (3.34)
+","
+B+ (3.50)
+"
+"Opatkiewicz, Justin Paul","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI22,76,"
+53
+","
+90.6%
+","
+92.5%
+","
+9.19
+","
+B+ (3.60)
+","
+B+ (3.51)
+"
+"Opatkiewicz, Justin Paul","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI21,63,"
+47
+","
+93.2%
+","
+95.5%
+","
+10.00
+","
+B+ (3.57)
+","
+A- (3.84)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI21,39,"
+23
+","
+86.4%
+","
+81.8%
+","
+11.77
+","
+B+ (3.55)
+","
+B+ (3.67)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI20,60,"
+22
+","
+90.9%
+","
+95.5%
+","
+9.41
+","
+B+ (3.55)
+","
+A- (3.77)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI20,42,"
+17
+","
+93.3%
+","
+100.0%
+","
+8.90
+","
+A- (3.80)
+","
+B+ (3.65)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI19,50,"
+21
+","
+95.0%
+","
+95.0%
+","
+8.10
+","
+B+ (3.40)
+","
+B+ (3.45)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI19,48,"
+24
+","
+95.2%
+","
+90.5%
+","
+8.31
+","
+B+ (3.62)
+","
+B+ (3.65)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI18,56,"
+25
+","
+92.0%
+","
+92.0%
+","
+9.38
+","
+B+ (3.63)
+","
+B+ (3.58)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI18,50,"
+23
+","
+85.7%
+","
+100.0%
+","
+10.12
+","
+B+ (3.52)
+","
+B+ (3.61)
+"
+"Chen, Zheng","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+97
+","
+95.5%
+","
+95.5%
+","
+8.01
+","
+B+ (3.51)
+","
+B+ (3.54)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+101
+","
+93.4%
+","
+95.6%
+","
+8.05
+","
+B+ (3.50)
+","
+B+ (3.54)
+"
+"Fenning, David","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+93
+","
+95.3%
+","
+92.9%
+","
+7.96
+","
+B+ (3.51)
+","
+N/A
+"
+"Opatkiewicz, Justin Paul","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+96
+","
+95.3%
+","
+95.3%
+","
+7.97
+","
+B+ (3.51)
+","
+B+ (3.54)
+"
+"Vazquez Mena, Oscar","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+93
+","
+95.3%
+","
+91.8%
+","
+7.96
+","
+B+ (3.51)
+","
+N/A
+"
+"Yang, Kesong","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+93
+","
+95.3%
+","
+85.9%
+","
+7.96
+","
+B+ (3.51)
+","
+B+ (3.54)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI17,134,"
+93
+","
+95.3%
+","
+90.6%
+","
+7.96
+","
+B+ (3.51)
+","
+B+ (3.54)
+"
+"Chen, Zheng","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+59
+","
+96.5%
+","
+94.7%
+","
+8.98
+","
+B+ (3.65)
+","
+B+ (3.54)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+61
+","
+96.6%
+","
+100.0%
+","
+9.01
+","
+B+ (3.64)
+","
+B+ (3.54)
+"
+"Fenning, David","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+59
+","
+96.4%
+","
+94.6%
+","
+9.07
+","
+B+ (3.64)
+","
+N/A
+"
+"Opatkiewicz, Justin Paul","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+59
+","
+96.4%
+","
+96.4%
+","
+9.07
+","
+B+ (3.64)
+","
+B+ (3.54)
+"
+"Vazquez Mena, Oscar","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+59
+","
+96.4%
+","
+92.9%
+","
+9.07
+","
+B+ (3.64)
+","
+N/A
+"
+"Yang, Kesong","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+59
+","
+96.4%
+","
+92.9%
+","
+9.07
+","
+B+ (3.64)
+","
+B+ (3.54)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI17,102,"
+59
+","
+96.4%
+","
+98.2%
+","
+9.07
+","
+B+ (3.64)
+","
+B+ (3.54)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI16,136,"
+90
+","
+97.8%
+","
+100.0%
+","
+8.54
+","
+B+ (3.61)
+","
+B+ (3.61)
+"
+"Yang, Kesong","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI16,136,"
+86
+","
+97.6%
+","
+91.6%
+","
+8.48
+","
+B+ (3.58)
+","
+B+ (3.61)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI16,136,"
+84
+","
+97.6%
+","
+93.8%
+","
+8.40
+","
+B+ (3.56)
+","
+B+ (3.61)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI16,60,"
+45
+","
+97.8%
+","
+95.6%
+","
+9.03
+","
+B+ (3.53)
+","
+B+ (3.61)
+"
+"Yang, Kesong","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI16,60,"
+43
+","
+97.7%
+","
+86.0%
+","
+8.73
+","
+B+ (3.51)
+","
+B+ (3.61)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (B)
+",WI16,60,"
+43
+","
+97.7%
+","
+88.4%
+","
+8.73
+","
+B+ (3.51)
+","
+B+ (3.61)
+"
+"Drews, Aaron","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI15,130,"
+122
+","
+94.2%
+","
+98.3%
+","
+9.77
+","
+B+ (3.45)
+","
+B+ (3.69)
+"
+"Yang, Kesong","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI15,130,"
+118
+","
+94.0%
+","
+88.0%
+","
+9.74
+","
+B+ (3.45)
+","
+B+ (3.69)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI15,130,"
+120
+","
+94.1%
+","
+85.7%
+","
+9.74
+","
+B+ (3.45)
+","
+B+ (3.69)
+"
+"Talbot, Jan B","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI14,118,"
+30
+","
+92.6%
+","
+81.5%
+","
+9.61
+","
+B+ (3.67)
+","
+B+ (3.59)
+"
+"Opatkiewicz, Justin Paul","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI13,79,"
+24
+","
+95.8%
+","
+87.5%
+","
+10.07
+","
+B+ (3.65)
+","
+B+ (3.55)
+"
+"Talbot, Jan B","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI13,79,"
+23
+","
+91.3%
+","
+60.9%
+","
+9.80
+","
+B+ (3.50)
+","
+B+ (3.55)
+"
+"Zhang, Liangfang","
+CENG 176A - Chem Engineerng Process Lab I (A)
+",WI13,79,"
+23
+","
+91.3%
+","
+95.7%
+","
+9.86
+","
+B+ (3.62)
+","
+B+ (3.55)
+"

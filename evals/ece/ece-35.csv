@@ -1,0 +1,796 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",SP23,108,"
+38
+","
+86.5%
+","
+64.9%
+","
+8.23
+","
+B (3.13)
+","
+C+ (2.43)
+"
+"Gilja, Vikash","
+ECE 35 - Introduction to Analog Design (A)
+",WI23,150,"
+83
+","
+86.3%
+","
+90.0%
+","
+9.05
+","
+B (3.16)
+","
+C+ (2.53)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",FA22,172,"
+112
+","
+87.0%
+","
+95.4%
+","
+10.29
+","
+B (3.04)
+","
+C+ (2.56)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (B)
+",FA22,134,"
+89
+","
+92.0%
+","
+95.4%
+","
+10.16
+","
+B (3.12)
+","
+C+ (2.68)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",SP22,129,"
+47
+","
+80.0%
+","
+64.4%
+","
+8.02
+","
+B (3.24)
+","
+C+ (2.66)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",WI22,197,"
+146
+","
+77.9%
+","
+92.4%
+","
+11.06
+","
+B- (2.84)
+","
+C+ (2.42)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",FA21,170,"
+124
+","
+84.6%
+","
+94.3%
+","
+10.19
+","
+B- (2.75)
+","
+C+ (2.46)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (B)
+",FA21,151,"
+102
+","
+88.0%
+","
+89.0%
+","
+10.62
+","
+B (3.12)
+","
+B- (2.72)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",SP21,104,"
+42
+","
+71.8%
+","
+41.0%
+","
+8.74
+","
+B- (2.86)
+","
+B- (2.95)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (B)
+",SP21,18,"
+6
+","
+83.3%
+","
+50.0%
+","
+7.83
+","
+B+ (3.50)
+","
+N/A
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",WI21,145,"
+103
+","
+84.5%
+","
+86.1%
+","
+9.74
+","
+B- (2.82)
+","
+C+ (2.35)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",FA20,155,"
+82
+","
+90.0%
+","
+93.8%
+","
+10.09
+","
+B- (2.96)
+","
+C+ (2.46)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (B)
+",FA20,129,"
+67
+","
+85.9%
+","
+98.4%
+","
+10.66
+","
+B (3.20)
+","
+C+ (2.50)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",SP20,167,"
+97
+","
+87.4%
+","
+91.6%
+","
+8.96
+","
+B (3.26)
+","
+B+ (3.54)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",WI20,163,"
+55
+","
+74.5%
+","
+60.8%
+","
+8.26
+","
+B (3.08)
+","
+C+ (2.58)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",FA19,166,"
+97
+","
+91.1%
+","
+97.8%
+","
+9.95
+","
+B- (2.95)
+","
+C+ (2.46)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (B)
+",FA19,144,"
+95
+","
+91.5%
+","
+98.9%
+","
+9.36
+","
+B- (2.98)
+","
+B- (2.86)
+"
+"Ford, Joseph Earl","
+ECE 35 - Introduction to Analog Design (A)
+",SP19,119,"
+47
+","
+89.7%
+","
+94.9%
+","
+9.22
+","
+B (3.13)
+","
+C+ (2.35)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",WI19,127,"
+81
+","
+85.9%
+","
+97.4%
+","
+9.47
+","
+B (3.08)
+","
+C+ (2.45)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",FA18,122,"
+43
+","
+84.6%
+","
+71.1%
+","
+7.90
+","
+B- (2.90)
+","
+C+ (2.43)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (B)
+",FA18,146,"
+110
+","
+89.9%
+","
+94.4%
+","
+10.59
+","
+B- (2.86)
+","
+C+ (2.57)
+"
+"Radic, Stojan","
+ECE 35 - Introduction to Analog Design (A)
+",SP18,77,"
+32
+","
+75.0%
+","
+71.4%
+","
+8.57
+","
+B- (2.71)
+","
+C+ (2.62)
+"
+"Ford, Joseph Earl","
+ECE 35 - Introduction to Analog Design (A)
+",WI18,109,"
+51
+","
+87.8%
+","
+93.9%
+","
+8.42
+","
+B (3.19)
+","
+C+ (2.62)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (A)
+",FA17,123,"
+85
+","
+89.3%
+","
+91.7%
+","
+10.11
+","
+B- (2.99)
+","
+C+ (2.59)
+"
+"Schurgers, Curt","
+ECE 35 - Introduction to Analog Design (B)
+",FA17,106,"
+66
+","
+90.8%
+","
+100.0%
+","
+9.65
+","
+B+ (3.33)
+","
+C+ (2.59)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",SP17,198,"
+63
+","
+88.3%
+","
+91.7%
+","
+8.08
+","
+B (3.14)
+","
+C+ (2.44)
+"
+"Radic, Stojan","
+ECE 35 - Introduction to Analog Design (A)
+",WI17,134,"
+50
+","
+78.3%
+","
+63.0%
+","
+7.50
+","
+B- (2.93)
+","
+C (2.11)
+"
+"Ford, Joseph Earl","
+ECE 35 - Introduction to Analog Design (A)
+",FA16,191,"
+90
+","
+81.0%
+","
+89.3%
+","
+8.48
+","
+B- (2.88)
+","
+C+ (2.56)
+"
+"Radic, Stojan","
+ECE 35 - Introduction to Analog Design (B)
+",SP16,114,"
+46
+","
+76.2%
+","
+66.7%
+","
+7.72
+","
+C+ (2.64)
+","
+C (2.10)
+"
+"Ford, Joseph Earl","
+ECE 35 - Introduction to Analog Design (A)
+",WI16,113,"
+41
+","
+84.2%
+","
+78.9%
+","
+7.97
+","
+B- (2.95)
+","
+B- (2.70)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",FA15,184,"
+66
+","
+88.3%
+","
+88.3%
+","
+8.00
+","
+B- (2.93)
+","
+C+ (2.32)
+"
+"Xiang, Jie","
+ECE 35 - Introduction to Analog Design (B)
+",FA15,100,"
+51
+","
+93.6%
+","
+93.6%
+","
+10.28
+","
+B- (2.87)
+","
+C+ (2.46)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",SP15,210,"
+79
+","
+84.7%
+","
+81.9%
+","
+7.14
+","
+B (3.00)
+","
+C+ (2.41)
+"
+"Xiang, Jie","
+ECE 35 - Introduction to Analog Design (B)
+",SP15,171,"
+59
+","
+92.9%
+","
+96.4%
+","
+10.39
+","
+B- (2.89)
+","
+C+ (2.57)
+"
+"Radic, Stojan","
+ECE 35 - Introduction to Analog Design (A)
+",WI15,275,"
+97
+","
+84.8%
+","
+84.8%
+","
+8.37
+","
+C+ (2.70)
+","
+D+ (1.47)
+"
+"Galton, Ian A","
+ECE 35 - Introduction to Analog Design (A)
+",FA14,182,"
+68
+","
+74.2%
+","
+41.9%
+","
+10.21
+","
+B- (2.72)
+","
+C (2.09)
+"
+"Xiang, Jie","
+ECE 35 - Introduction to Analog Design (A)
+",SP14,342,"
+102
+","
+88.3%
+","
+88.3%
+","
+10.04
+","
+B (3.17)
+","
+C+ (2.60)
+"
+"Radic, Stojan","
+ECE 35 - Introduction to Analog Design (A)
+",WI14,189,"
+58
+","
+96.2%
+","
+88.7%
+","
+8.31
+","
+B- (2.87)
+","
+C (2.18)
+"
+"Galton, Ian A","
+ECE 35 - Introduction to Analog Design (C)
+",FA13,269,"
+120
+","
+77.7%
+","
+35.7%
+","
+10.54
+","
+C+ (2.61)
+","
+C+ (2.36)
+"
+"Xiang, Jie","
+ECE 35 - Introduction to Analog Design (A)
+",SP13,146,"
+57
+","
+91.2%
+","
+78.9%
+","
+8.50
+","
+B- (2.92)
+","
+C+ (2.63)
+"
+"Taur, Yuan","
+ECE 35 - Introduction to Analog Design (A)
+",WI13,127,"
+47
+","
+86.7%
+","
+77.8%
+","
+6.31
+","
+B (3.12)
+","
+C+ (2.53)
+"
+"Ford, Joseph Earl","
+ECE 35 - Introduction to Analog Design (B)
+",WI13,57,"
+22
+","
+90.9%
+","
+68.2%
+","
+8.50
+","
+B (3.09)
+","
+C+ (2.65)
+"
+"Radic, Stojan","
+ECE 35 - Introduction to Analog Design (A)
+",FA12,144,"
+60
+","
+87.3%
+","
+69.1%
+","
+9.69
+","
+B- (2.89)
+","
+C+ (2.63)
+"
+"Radic, Stojan                      ","
+ECE 35 - Introduction to Analog Design  (A)
+",FA10,87,"
+41
+","
+73.2%
+","
+65.0%
+","
+9.90
+","
+C+ (2.48)
+","
+B- (2.75)
+"
+"Xiang, Jie                         ","
+ECE 35 - Introduction to Analog Design  (A)
+",SP10,68,"
+24
+","
+79.2%
+","
+20.8%
+","
+8.50
+","
+C+ (2.70)
+","
+C+ (2.44)
+"
+"Ford, Joseph Earl                  ","
+ECE 35 - Introduction to Analog Design  (A)
+",WI10,90,"
+40
+","
+92.3%
+","
+94.7%
+","
+8.35
+","
+B (3.23)
+","
+C+ (2.36)
+"
+"Radic, Stojan                      ","
+ECE 35 - Introduction to Analog Design  (A)
+",FA09,62,"
+38
+","
+86.8%
+","
+76.3%
+","
+6.45
+","
+B (3.06)
+","
+C+ (2.66)
+"
+"Xiang, Jie                         ","
+ECE 35 - Introduction to Analog Design  (A)
+",SP09,82,"
+29
+","
+71.4%
+","
+64.3%
+","
+7.33
+","
+B (3.07)
+","
+C (2.24)
+"
+"Ford, Joseph Earl","
+ECE 35 - Introduction to Analog Design  (A)
+",WI09,56,"
+21
+","
+90.5%
+","
+95.2%
+","
+5.55
+","
+B (3.25)
+","
+C+ (2.35)
+"
+"Radic, Stojan                      ","
+ECE 35 - Introduction to Analog Design  (A)
+",FA08,55,"
+26
+","
+76.0%
+","
+60.0%
+","
+8.27
+","
+B- (2.84)
+","
+C (2.19)
+"
+"Papen, George C.              ","
+ECE 35 - Introduction to Analog Design  (A)
+",SP08,47,"
+29
+","
+92.9%
+","
+96.4%
+","
+5.60
+","
+B (3.04)
+","
+C (2.10)
+"
+"Ford, Joseph Earl             ","
+ECE 35 - Introduction to Analog Design  (A)
+",WI08,56,"
+27
+","
+81.5%
+","
+88.5%
+","
+6.72
+","
+B (3.12)
+","
+C+ (2.48)
+"
+"Radic, Stojan                 ","
+ECE 35 - Introduction to Analog Design  (A)
+",FA07,93,"
+57
+","
+78.2%
+","
+65.5%
+","
+9.45
+","
+B- (2.85)
+","
+C+ (2.70)
+"

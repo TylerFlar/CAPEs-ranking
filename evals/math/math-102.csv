@@ -1,0 +1,961 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Klevdal, Christian Sleek","
+MATH 102 - Applied Linear Algebra (A)
+",SP23,103,"
+43
+","
+77.5%
+","
+71.8%
+","
+5.99
+","
+B (3.29)
+","
+B (3.12)
+"
+"Nag, Panchali","
+MATH 102 - Applied Linear Algebra (B)
+",SP23,107,"
+97
+","
+91.8%
+","
+91.8%
+","
+6.11
+","
+B+ (3.34)
+","
+B+ (3.45)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",WI23,15,"
+3
+","
+100.0%
+","
+100.0%
+","
+6.50
+","
+B+ (3.67)
+","
+N/A
+"
+"Ophir, Amit","
+MATH 102 - Applied Linear Algebra (B)
+",WI23,93,"
+31
+","
+89.7%
+","
+82.8%
+","
+6.71
+","
+B+ (3.43)
+","
+C+ (2.48)
+"
+"Hodges, Reuven Moses","
+MATH 102 - Applied Linear Algebra (A)
+",FA22,121,"
+79
+","
+92.3%
+","
+96.1%
+","
+8.06
+","
+B+ (3.30)
+","
+B- (2.84)
+"
+"Hodges, Reuven Moses","
+MATH 102 - Applied Linear Algebra (B)
+",FA22,99,"
+71
+","
+90.0%
+","
+98.6%
+","
+7.96
+","
+B+ (3.36)
+","
+B (3.02)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",S222,24,"
+6
+","
+100.0%
+","
+83.3%
+","
+8.83
+","
+B+ (3.67)
+","
+C+ (2.33)
+"
+"Zhang, Ming","
+MATH 102 - Applied Linear Algebra (A)
+",SP22,136,"
+109
+","
+94.4%
+","
+97.2%
+","
+8.09
+","
+B+ (3.67)
+","
+B+ (3.31)
+"
+"Hodges, Reuven Moses","
+MATH 102 - Applied Linear Algebra (B)
+",SP22,131,"
+95
+","
+98.9%
+","
+100.0%
+","
+7.31
+","
+B+ (3.46)
+","
+B (3.01)
+"
+"Eggers, John Dietrich","
+MATH 102 - Applied Linear Algebra (A)
+",WI22,131,"
+36
+","
+88.6%
+","
+94.3%
+","
+7.53
+","
+B+ (3.44)
+","
+B- (2.97)
+"
+"Zhang, Ming","
+MATH 102 - Applied Linear Algebra (B)
+",WI22,105,"
+74
+","
+83.8%
+","
+90.5%
+","
+8.28
+","
+B (3.23)
+","
+B- (2.81)
+"
+"Vavalis, Emmanuel","
+MATH 102 - Applied Linear Algebra (A)
+",FA21,107,"
+48
+","
+52.1%
+","
+27.1%
+","
+7.39
+","
+B (3.06)
+","
+C+ (2.55)
+"
+"Ganzberger, Geoffrey Michael","
+MATH 102 - Applied Linear Algebra (B)
+",FA21,65,"
+22
+","
+90.5%
+","
+95.2%
+","
+7.70
+","
+B (3.24)
+","
+B- (2.90)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",S221,47,"
+14
+","
+84.6%
+","
+53.8%
+","
+10.50
+","
+B+ (3.50)
+","
+B- (2.98)
+"
+"Eggers, John Dietrich","
+MATH 102 - Applied Linear Algebra (A)
+",SP21,141,"
+44
+","
+87.8%
+","
+92.7%
+","
+7.43
+","
+A- (3.77)
+","
+B+ (3.65)
+"
+"Dressler, Mareike","
+MATH 102 - Applied Linear Algebra (B)
+",SP21,127,"
+44
+","
+88.4%
+","
+69.8%
+","
+9.52
+","
+B+ (3.39)
+","
+B- (2.72)
+"
+"Dressler, Mareike","
+MATH 102 - Applied Linear Algebra (A)
+",WI21,104,"
+43
+","
+63.4%
+","
+51.2%
+","
+9.04
+","
+B (3.29)
+","
+B (3.10)
+"
+"Rabin, Jeffrey Mark","
+MATH 102 - Applied Linear Algebra (B)
+",WI21,48,"
+14
+","
+78.6%
+","
+71.4%
+","
+8.50
+","
+B- (2.92)
+","
+B- (2.96)
+"
+"Dressler, Mareike","
+MATH 102 - Applied Linear Algebra (A)
+",FA20,99,"
+36
+","
+65.7%
+","
+64.7%
+","
+10.27
+","
+B+ (3.41)
+","
+C+ (2.44)
+"
+"Vavalis, Emmanuel","
+MATH 102 - Applied Linear Algebra (B)
+",FA20,99,"
+29
+","
+67.9%
+","
+60.7%
+","
+4.71
+","
+B+ (3.44)
+","
+B+ (3.40)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",S220,65,"
+11
+","
+40.0%
+","
+22.2%
+","
+13.30
+","
+B+ (3.56)
+","
+B- (2.95)
+"
+"Tamam, Nattalie","
+MATH 102 - Applied Linear Algebra (A)
+",SP20,104,"
+29
+","
+75.0%
+","
+75.0%
+","
+9.02
+","
+B- (2.93)
+","
+B (3.11)
+"
+"Dressler, Mareike","
+MATH 102 - Applied Linear Algebra (B)
+",SP20,133,"
+42
+","
+78.9%
+","
+86.1%
+","
+7.50
+","
+B+ (3.43)
+","
+B (3.17)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",WI20,45,"
+16
+","
+93.3%
+","
+93.3%
+","
+7.63
+","
+B+ (3.50)
+","
+B+ (3.36)
+"
+"Rabin, Jeffrey Mark","
+MATH 102 - Applied Linear Algebra (B)
+",WI20,118,"
+37
+","
+72.7%
+","
+63.6%
+","
+8.32
+","
+B- (2.97)
+","
+C+ (2.65)
+"
+"Savvas, Michail","
+MATH 102 - Applied Linear Algebra (A)
+",FA19,246,"
+105
+","
+99.0%
+","
+99.0%
+","
+7.09
+","
+A- (3.73)
+","
+B+ (3.60)
+"
+"Green, Nathan E","
+MATH 102 - Applied Linear Algebra (B)
+",FA19,63,"
+23
+","
+87.0%
+","
+95.7%
+","
+6.85
+","
+B+ (3.33)
+","
+B- (2.93)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",S219,25,"
+10
+","
+88.9%
+","
+77.8%
+","
+11.83
+","
+B+ (3.56)
+","
+C+ (2.41)
+"
+"Savvas, Michail","
+MATH 102 - Applied Linear Algebra (A)
+",SP19,145,"
+52
+","
+100.0%
+","
+100.0%
+","
+6.11
+","
+B+ (3.66)
+","
+B+ (3.47)
+"
+"Dressler, Mareike","
+MATH 102 - Applied Linear Algebra (B)
+",SP19,145,"
+42
+","
+66.7%
+","
+57.1%
+","
+6.61
+","
+B- (2.94)
+","
+C+ (2.39)
+"
+"Eggers, John Dietrich","
+MATH 102 - Applied Linear Algebra (A)
+",WI19,82,"
+34
+","
+90.9%
+","
+84.4%
+","
+9.35
+","
+B (3.19)
+","
+C+ (2.49)
+"
+"Tamam, Nattalie","
+MATH 102 - Applied Linear Algebra (B)
+",WI19,52,"
+19
+","
+78.9%
+","
+68.4%
+","
+7.94
+","
+B (3.17)
+","
+C (2.27)
+"
+"Green, Nathan E","
+MATH 102 - Applied Linear Algebra (A)
+",FA18,184,"
+74
+","
+92.6%
+","
+95.5%
+","
+6.13
+","
+B+ (3.38)
+","
+B (3.05)
+"
+"Au, Benson C","
+MATH 102 - Applied Linear Algebra (B)
+",FA18,56,"
+26
+","
+60.9%
+","
+68.2%
+","
+9.20
+","
+B- (2.96)
+","
+B- (2.76)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",S218,76,"
+11
+","
+100.0%
+","
+90.0%
+","
+9.95
+","
+B+ (3.40)
+","
+C- (1.71)
+"
+"Huynh, Thang L","
+MATH 102 - Applied Linear Algebra (A)
+",WI18,269,"
+90
+","
+88.9%
+","
+71.6%
+","
+6.18
+","
+B+ (3.49)
+","
+B- (2.73)
+"
+"Strahl, Perry Robert","
+MATH 102 - Applied Linear Algebra (B)
+",WI18,45,"
+31
+","
+67.7%
+","
+71.0%
+","
+7.43
+","
+B (3.16)
+","
+C+ (2.64)
+"
+"Novak, Jonathan I","
+MATH 102 - Applied Linear Algebra (A)
+",FA17,124,"
+107
+","
+82.2%
+","
+79.4%
+","
+7.41
+","
+B (3.12)
+","
+B+ (3.55)
+"
+"Licht, Martin W","
+MATH 102 - Applied Linear Algebra (B)
+",FA17,158,"
+94
+","
+90.2%
+","
+86.8%
+","
+6.46
+","
+B+ (3.56)
+","
+B+ (3.44)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",S117,85,"
+28
+","
+88.9%
+","
+92.6%
+","
+10.88
+","
+B+ (3.58)
+","
+B- (2.75)
+"
+"Li, Bo","
+MATH 102 - Applied Linear Algebra (A)
+",WI17,229,"
+62
+","
+91.2%
+","
+86.0%
+","
+6.38
+","
+B+ (3.46)
+","
+B- (2.88)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",FA16,177,"
+58
+","
+88.9%
+","
+79.6%
+","
+7.39
+","
+B (3.14)
+","
+C (2.16)
+"
+"Jiang, Zonglin","
+MATH 102 - Applied Linear Algebra (A)
+",S216,101,"
+30
+","
+80.0%
+","
+80.0%
+","
+9.50
+","
+B+ (3.43)
+","
+C+ (2.53)
+"
+"Sangha, Luvreet Singh","
+MATH 102 - Applied Linear Algebra (A)
+",S216,130,"
+25
+","
+84.2%
+","
+63.2%
+","
+9.17
+","
+B+ (3.50)
+","
+N/A
+"
+"Dilts, James Paul","
+MATH 102 - Applied Linear Algebra (A)
+",WI16,134,"
+100
+","
+86.7%
+","
+82.7%
+","
+7.07
+","
+B (3.18)
+","
+B (3.24)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",FA15,137,"
+56
+","
+94.3%
+","
+88.7%
+","
+8.50
+","
+B (3.18)
+","
+B- (2.94)
+"
+"Rideout, David Porter","
+MATH 102 - Applied Linear Algebra (A)
+",S215,70,"
+20
+","
+84.2%
+","
+57.9%
+","
+9.61
+","
+B+ (3.42)
+","
+B (3.15)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",WI15,99,"
+31
+","
+89.7%
+","
+89.7%
+","
+6.64
+","
+B+ (3.58)
+","
+C+ (2.32)
+"
+"Eggers, John Dietrich","
+MATH 102 - Applied Linear Algebra (A)
+",FA14,113,"
+43
+","
+73.0%
+","
+70.3%
+","
+9.06
+","
+B (3.26)
+","
+B- (2.82)
+"
+"Rideout, David Porter","
+MATH 102 - Applied Linear Algebra (A)
+",S214,45,"
+9
+","
+66.7%
+","
+66.7%
+","
+11.17
+","
+B+ (3.56)
+","
+B- (2.90)
+"
+"Harel, Guershon","
+MATH 102 - Applied Linear Algebra (A)
+",WI14,69,"
+23
+","
+95.5%
+","
+86.4%
+","
+6.21
+","
+B+ (3.55)
+","
+C (2.29)
+"
+"Stevens, Laura Jeanne","
+MATH 102 - Applied Linear Algebra (A)
+",FA13,104,"
+73
+","
+97.3%
+","
+100.0%
+","
+6.03
+","
+B+ (3.52)
+","
+B- (2.79)
+"
+"Lobue, Janine","
+MATH 102 - Applied Linear Algebra (A)
+",S213,54,"
+12
+","
+83.3%
+","
+91.7%
+","
+11.00
+","
+B (3.00)
+","
+B- (2.71)
+"
+"Oprea, Dragos N.","
+MATH 102 - Applied Linear Algebra (A)
+",WI13,115,"
+44
+","
+93.2%
+","
+93.2%
+","
+5.93
+","
+B (3.28)
+","
+B- (2.74)
+"
+"Soltys-Kulinicz, Michael","
+MATH 102 - Applied Linear Algebra (A)
+",FA12,96,"
+42
+","
+75.7%
+","
+86.5%
+","
+6.18
+","
+B (3.29)
+","
+B- (2.83)
+"
+"Wenzl, Hans G                      ","
+MATH 102 - Applied Linear Algebra         (A)
+",FA10,89,"
+37
+","
+86.5%
+","
+54.1%
+","
+7.26
+","
+B (3.17)
+","
+B- (2.80)
+"
+"Li, Bo                             ","
+MATH 102 - Applied Linear Algebra         (A)
+",SP10,155,"
+71
+","
+88.2%
+","
+82.6%
+","
+5.84
+","
+B+ (3.44)
+","
+B- (2.72)
+"
+"Harmse, Johannes Andreas           ","
+MATH 102 - Applied Linear Algebra         (A)
+",WI10,46,"
+18
+","
+100.0%
+","
+88.9%
+","
+8.06
+","
+B+ (3.36)
+","
+B- (2.77)
+"
+"Lin, James P.                      ","
+MATH 102 - Applied Linear Algebra         (A)
+",SP09,87,"
+38
+","
+88.9%
+","
+75.0%
+","
+6.28
+","
+B+ (3.35)
+","
+C+ (2.47)
+"
+"Linshaw, Andrew Ross","
+MATH 102 - Applied Linear Algebra         (A)
+",WI09,67,"
+33
+","
+75.8%
+","
+66.7%
+","
+6.69
+","
+B (3.19)
+","
+C+ (2.65)
+"
+"Szypowski, Ryan S.                 ","
+MATH 102 - Applied Linear Algebra         (A)
+",FA08,63,"
+36
+","
+94.1%
+","
+97.1%
+","
+6.17
+","
+B+ (3.36)
+","
+B- (2.88)
+"
+"Wenzl, Hans G                 ","
+MATH 102 - Applied Linear Algebra         (A)
+",SP08,55,"
+36
+","
+65.7%
+","
+65.7%
+","
+6.56
+","
+B (3.26)
+","
+C+ (2.34)
+"
+"Evans, Ronald J.              ","
+MATH 102 - Applied Linear Algebra         (A)
+",WI08,67,"
+36
+","
+75.0%
+","
+77.8%
+","
+4.50
+","
+B (3.24)
+","
+B (3.04)
+"
+"Clark, David A.               ","
+MATH 102 - Applied Linear Algebra         (A)
+",FA07,43,"
+25
+","
+84.0%
+","
+96.0%
+","
+5.75
+","
+B (3.17)
+","
+C+ (2.60)
+"

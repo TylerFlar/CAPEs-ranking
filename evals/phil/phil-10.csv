@@ -1,0 +1,916 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Carr, Jennifer Rose","
+PHIL 10 - Introduction to Logic (A)
+",SP23,235,"
+150
+","
+73.0%
+","
+79.7%
+","
+4.94
+","
+B (3.14)
+","
+B- (2.78)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI23,375,"
+150
+","
+88.8%
+","
+95.1%
+","
+5.42
+","
+B (3.01)
+","
+C+ (2.57)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA22,277,"
+103
+","
+87.6%
+","
+95.8%
+","
+5.68
+","
+B (3.27)
+","
+C+ (2.62)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S222,45,"
+6
+","
+100.0%
+","
+100.0%
+","
+4.83
+","
+A- (3.80)
+","
+B (3.06)
+"
+"Zellmer, Jacob Andrew","
+PHIL 10 - Introduction to Logic (A)
+",S122,64,"
+6
+","
+100.0%
+","
+100.0%
+","
+6.90
+","
+B+ (3.50)
+","
+B (3.14)
+"
+"Harrell, Maralee Mae","
+PHIL 10 - Introduction to Logic (A)
+",SP22,188,"
+70
+","
+82.6%
+","
+77.9%
+","
+4.53
+","
+B+ (3.31)
+","
+B- (2.96)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI22,274,"
+94
+","
+85.9%
+","
+92.2%
+","
+5.07
+","
+B+ (3.31)
+","
+B- (2.97)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA21,399,"
+151
+","
+91.8%
+","
+97.9%
+","
+4.32
+","
+B+ (3.57)
+","
+B- (3.00)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S221,80,"
+15
+","
+100.0%
+","
+100.0%
+","
+7.27
+","
+A- (3.77)
+","
+C+ (2.62)
+"
+"Shahmoradi, Ayoob","
+PHIL 10 - Introduction to Logic (A)
+",S121,62,"
+19
+","
+72.2%
+","
+100.0%
+","
+6.85
+","
+B- (2.83)
+","
+C+ (2.49)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",SP21,177,"
+71
+","
+84.5%
+","
+91.4%
+","
+5.54
+","
+B+ (3.52)
+","
+B (3.04)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI21,303,"
+108
+","
+91.5%
+","
+96.2%
+","
+4.33
+","
+A- (3.77)
+","
+B+ (3.40)
+"
+"Carr, Jennifer Rose","
+PHIL 10 - Introduction to Logic (A)
+",FA20,271,"
+188
+","
+81.7%
+","
+86.5%
+","
+5.32
+","
+B (3.22)
+","
+B- (2.78)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S220,72,"
+30
+","
+100.0%
+","
+100.0%
+","
+5.05
+","
+A- (3.70)
+","
+B+ (3.31)
+"
+"Speitel, Sebastian Georg Wern","
+PHIL 10 - Introduction to Logic (A)
+",S120,55,"
+36
+","
+94.3%
+","
+94.3%
+","
+4.90
+","
+B+ (3.30)
+","
+B+ (3.37)
+"
+"Carr, Jennifer Rose","
+PHIL 10 - Introduction to Logic (A)
+",SP20,194,"
+106
+","
+84.0%
+","
+93.4%
+","
+4.61
+","
+B+ (3.42)
+","
+B+ (3.45)
+"
+"Wonderly, Monique L.","
+PHIL 10 - Introduction to Logic (A)
+",WI20,237,"
+86
+","
+79.5%
+","
+80.8%
+","
+3.78
+","
+B (3.06)
+","
+B- (2.89)
+"
+"Koepke, Cami Esther","
+PHIL 10 - Introduction to Logic (A)
+",FA19,276,"
+130
+","
+83.1%
+","
+89.3%
+","
+4.61
+","
+B (3.29)
+","
+B- (2.87)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S119,55,"
+18
+","
+100.0%
+","
+100.0%
+","
+4.25
+","
+B+ (3.46)
+","
+B- (2.87)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",SP19,299,"
+105
+","
+91.0%
+","
+97.0%
+","
+4.34
+","
+B+ (3.41)
+","
+B- (2.99)
+"
+"Santorio, Paolo","
+PHIL 10 - Introduction to Logic (A)
+",WI19,202,"
+84
+","
+61.5%
+","
+68.8%
+","
+4.40
+","
+B (3.17)
+","
+B- (2.80)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA18,398,"
+189
+","
+88.6%
+","
+96.2%
+","
+4.32
+","
+B+ (3.43)
+","
+B (3.04)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S218,44,"
+18
+","
+87.5%
+","
+92.9%
+","
+5.88
+","
+B (3.13)
+","
+B- (2.92)
+"
+"Winning, Richard Jason","
+PHIL 10 - Introduction to Logic (A)
+",S118,35,"
+8
+","
+100.0%
+","
+75.0%
+","
+5.25
+","
+B+ (3.57)
+","
+C+ (2.48)
+"
+"Carr, Jennifer Rose","
+PHIL 10 - Introduction to Logic (A)
+",SP18,175,"
+128
+","
+81.1%
+","
+86.5%
+","
+4.04
+","
+B (3.28)
+","
+B- (2.76)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI18,303,"
+149
+","
+93.5%
+","
+97.1%
+","
+4.43
+","
+B+ (3.40)
+","
+B (3.12)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA17,398,"
+186
+","
+93.6%
+","
+97.7%
+","
+4.56
+","
+B+ (3.54)
+","
+B (3.14)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S217,64,"
+21
+","
+100.0%
+","
+100.0%
+","
+5.60
+","
+B+ (3.53)
+","
+N/A
+"
+"Dougherty II, John Edward","
+PHIL 10 - Introduction to Logic (A)
+",S117,30,"
+9
+","
+87.5%
+","
+87.5%
+","
+8.50
+","
+A- (3.71)
+","
+B- (2.88)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",SP17,250,"
+86
+","
+88.5%
+","
+93.6%
+","
+4.00
+","
+B+ (3.45)
+","
+B- (2.96)
+"
+"Carr, Jennifer Rose","
+PHIL 10 - Introduction to Logic (A)
+",WI17,185,"
+143
+","
+68.8%
+","
+59.6%
+","
+5.00
+","
+B (3.22)
+","
+B- (2.75)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA16,300,"
+144
+","
+90.3%
+","
+95.5%
+","
+4.05
+","
+B+ (3.47)
+","
+B (3.16)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",S116,42,"
+7
+","
+100.0%
+","
+100.0%
+","
+7.36
+","
+B+ (3.43)
+","
+B- (2.87)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",SP16,179,"
+59
+","
+86.4%
+","
+98.3%
+","
+4.24
+","
+B+ (3.37)
+","
+B- (2.99)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI16,216,"
+96
+","
+89.0%
+","
+93.4%
+","
+4.23
+","
+B+ (3.39)
+","
+B (3.06)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA15,305,"
+137
+","
+88.5%
+","
+95.4%
+","
+4.53
+","
+B+ (3.48)
+","
+B (3.05)
+"
+"Sheredos, Benjamin C","
+PHIL 10 - Introduction to Logic (A)
+",S115,29,"
+19
+","
+84.2%
+","
+100.0%
+","
+5.17
+","
+B (3.12)
+","
+B (3.17)
+"
+"Wuthrich, Christian","
+PHIL 10 - Introduction to Logic (A)
+",SP15,88,"
+32
+","
+93.3%
+","
+100.0%
+","
+3.23
+","
+A- (3.76)
+","
+B (3.02)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI15,211,"
+87
+","
+95.2%
+","
+96.4%
+","
+4.13
+","
+B+ (3.47)
+","
+B (3.06)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA14,285,"
+124
+","
+85.0%
+","
+92.5%
+","
+4.70
+","
+B+ (3.39)
+","
+B (3.09)
+"
+"McCoy, Casey D","
+PHIL 10 - Introduction to Logic (A)
+",S114,47,"
+10
+","
+80.0%
+","
+60.0%
+","
+6.90
+","
+C+ (2.67)
+","
+B- (2.76)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",SP14,170,"
+64
+","
+90.3%
+","
+95.2%
+","
+4.80
+","
+B+ (3.33)
+","
+B- (3.00)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",WI14,217,"
+82
+","
+94.7%
+","
+97.4%
+","
+4.09
+","
+B+ (3.61)
+","
+B- (2.76)
+"
+"Jacobs, Nathaniel A","
+PHIL 10 - Introduction to Logic (A)
+",FA13,236,"
+104
+","
+87.0%
+","
+89.0%
+","
+4.12
+","
+B+ (3.59)
+","
+B- (2.76)
+"
+"Wuthrich, Christian","
+PHIL 10 - Introduction to Logic (A)
+",S213,33,"
+5
+","
+80.0%
+","
+100.0%
+","
+4.10
+","
+A- (3.75)
+","
+B (3.03)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",SP13,192,"
+61
+","
+95.0%
+","
+96.7%
+","
+4.70
+","
+B+ (3.51)
+","
+B (3.01)
+"
+"Brovold, Amanda J","
+PHIL 10 - Introduction to Logic (A)
+",WI13,110,"
+33
+","
+90.6%
+","
+96.9%
+","
+5.19
+","
+B (3.19)
+","
+B- (2.77)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic (A)
+",FA12,285,"
+117
+","
+87.7%
+","
+97.2%
+","
+4.38
+","
+B+ (3.53)
+","
+B- (2.95)
+"
+"Brovold, Amanda J                  ","
+PHIL 10 - Introduction to Logic          (A)
+",FA10,250,"
+121
+","
+69.4%
+","
+82.5%
+","
+5.72
+","
+B (3.03)
+","
+C+ (2.52)
+"
+"Stegenga, Jacob                    ","
+PHIL 10 - Introduction to Logic          (A)
+",SU10,40,"
+15
+","
+92.9%
+","
+78.6%
+","
+5.64
+","
+B+ (3.33)
+","
+N/A
+"
+"Grush, Rick Scott                  ","
+PHIL 10 - Introduction to Logic          (A)
+",SP10,175,"
+73
+","
+70.0%
+","
+88.6%
+","
+5.27
+","
+B- (2.98)
+","
+C+ (2.49)
+"
+"Churchland, Patricia Smith         ","
+PHIL 10 - Introduction to Logic          (A)
+",WI10,163,"
+55
+","
+80.0%
+","
+90.9%
+","
+3.66
+","
+B (3.13)
+","
+C (2.27)
+"
+"Grush, Rick Scott                  ","
+PHIL 10 - Introduction to Logic          (A)
+",FA09,219,"
+129
+","
+76.0%
+","
+94.6%
+","
+4.41
+","
+B (3.18)
+","
+C+ (2.46)
+"
+"Streed, Adam J.                    ","
+PHIL 10 - Introduction to Logic          (A)
+",SU09,35,"
+20
+","
+70.0%
+","
+80.0%
+","
+8.10
+","
+B (3.16)
+","
+N/A
+"
+"Grush, Rick Scott                  ","
+PHIL 10 - Introduction to Logic          (A)
+",SP09,181,"
+60
+","
+80.4%
+","
+98.2%
+","
+4.47
+","
+B (3.26)
+","
+C+ (2.58)
+"
+"Grush, Rick Scott","
+PHIL 10 - Introduction to Logic          (A)
+",WI09,206,"
+115
+","
+80.7%
+","
+97.4%
+","
+3.39
+","
+B+ (3.34)
+","
+C+ (2.47)
+"
+"Damm, Lisa Marie                   ","
+PHIL 10 - Introduction to Logic          (A)
+",SU08,38,"
+28
+","
+80.8%
+","
+96.3%
+","
+4.36
+","
+B+ (3.46)
+","
+N/A
+"
+"Grush, Rick Scott             ","
+PHIL 10 - Introduction to Logic          (A)
+",SP08,161,"
+52
+","
+72.5%
+","
+90.2%
+","
+3.81
+","
+B (3.16)
+","
+C+ (2.32)
+"
+"Churchland, Patricia Smith    ","
+PHIL 10 - Introduction to Logic          (A)
+",WI08,184,"
+87
+","
+70.1%
+","
+92.0%
+","
+4.59
+","
+B (3.08)
+","
+C+ (2.54)
+"
+"Grush, Rick Scott             ","
+PHIL 10 - Introduction to Logic          (A)
+",FA07,249,"
+115
+","
+72.3%
+","
+95.6%
+","
+4.22
+","
+B (3.24)
+","
+C+ (2.48)
+"
+"Damm, Lisa Marie              ","
+PHIL 10 - Introduction to Logic          (A)
+",SU07,38,"
+27
+","
+69.2%
+","
+88.5%
+","
+5.50
+","
+B+ (3.32)
+","
+N/A
+"

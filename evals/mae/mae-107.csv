@@ -1,0 +1,766 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",SP23,109,"
+48
+","
+81.3%
+","
+75.0%
+","
+6.33
+","
+B+ (3.35)
+","
+B- (2.78)
+"
+"Lindsey, Stephanie","
+MAE 107 - Computational Methods/Engineer (A)
+",FA22,72,"
+61
+","
+55.7%
+","
+44.3%
+","
+8.13
+","
+B- (2.78)
+","
+B- (2.85)
+"
+"Tolley, Michael Thomas","
+MAE 107 - Computational Methods/Engineer (B)
+",FA22,106,"
+59
+","
+91.5%
+","
+91.5%
+","
+7.73
+","
+B (3.27)
+","
+B (3.02)
+"
+"Sharma, Harsh Apurva","
+MAE 107 - Computational Methods/Engineer (A)
+",S222,38,"
+30
+","
+90.0%
+","
+96.7%
+","
+7.70
+","
+B (3.20)
+","
+B- (2.86)
+"
+"Davidson, Michael R","
+MAE 107 - Computational Methods/Engineer (A)
+",SP22,33,"
+30
+","
+66.7%
+","
+70.0%
+","
+8.63
+","
+B- (2.80)
+","
+C+ (2.54)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (B)
+",SP22,64,"
+35
+","
+79.4%
+","
+79.4%
+","
+6.56
+","
+B (3.06)
+","
+B- (3.00)
+"
+"Lindsey, Stephanie","
+MAE 107 - Computational Methods/Engineer (A)
+",WI22,58,"
+48
+","
+52.1%
+","
+43.8%
+","
+9.00
+","
+B- (2.83)
+","
+C+ (2.64)
+"
+"Lubarda, Marko","
+MAE 107 - Computational Methods/Engineer (A)
+",FA21,101,"
+55
+","
+72.7%
+","
+89.1%
+","
+8.32
+","
+B (3.13)
+","
+B (3.11)
+"
+"Tolley, Michael Thomas","
+MAE 107 - Computational Methods/Engineer (B)
+",FA21,63,"
+33
+","
+97.0%
+","
+97.0%
+","
+7.59
+","
+B (3.27)
+","
+B (3.04)
+"
+"Pasetto, Marco","
+MAE 107 - Computational Methods/Engineer (A)
+",S221,39,"
+36
+","
+80.6%
+","
+91.7%
+","
+10.44
+","
+B+ (3.33)
+","
+B+ (3.46)
+"
+"Lubarda, Marko","
+MAE 107 - Computational Methods/Engineer (A)
+",SP21,85,"
+50
+","
+75.0%
+","
+85.4%
+","
+8.42
+","
+B (3.25)
+","
+B (3.17)
+"
+"Pham, Hieu Tan","
+MAE 107 - Computational Methods/Engineer (A)
+",WI21,67,"
+40
+","
+90.0%
+","
+100.0%
+","
+8.35
+","
+B+ (3.47)
+","
+B+ (3.35)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA20,98,"
+53
+","
+69.2%
+","
+71.2%
+","
+9.00
+","
+B (3.22)
+","
+B (3.11)
+"
+"Tolley, Michael Thomas","
+MAE 107 - Computational Methods/Engineer (B)
+",FA20,47,"
+28
+","
+100.0%
+","
+100.0%
+","
+8.28
+","
+B+ (3.41)
+","
+B (3.08)
+"
+"Ezunkpe, Yawo Semanu","
+MAE 107 - Computational Methods/Engineer (A)
+",S220,51,"
+19
+","
+47.1%
+","
+41.2%
+","
+10.97
+","
+B (3.06)
+","
+B- (2.76)
+"
+"Davidson, Michael R","
+MAE 107 - Computational Methods/Engineer (A)
+",SP20,82,"
+45
+","
+51.2%
+","
+34.9%
+","
+9.76
+","
+B (3.08)
+","
+B- (2.83)
+"
+"Lubarda, Marko","
+MAE 107 - Computational Methods/Engineer (A)
+",WI20,39,"
+25
+","
+72.0%
+","
+88.0%
+","
+7.67
+","
+B (3.18)
+","
+B (3.01)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA19,218,"
+83
+","
+73.7%
+","
+66.2%
+","
+7.26
+","
+B+ (3.39)
+","
+B (3.26)
+"
+"Pham, Hieu Tan","
+MAE 107 - Computational Methods/Engineer (B)
+",FA19,48,"
+24
+","
+91.3%
+","
+91.3%
+","
+8.76
+","
+B (3.17)
+","
+B+ (3.31)
+"
+"Bahadori, Mohammad Yousef","
+MAE 107 - Computational Methods/Engineer (A)
+",S219,56,"
+18
+","
+72.2%
+","
+55.6%
+","
+7.72
+","
+B (3.06)
+","
+B- (2.91)
+"
+"Pham, Hieu Tan","
+MAE 107 - Computational Methods/Engineer (B)
+",SP19,139,"
+48
+","
+93.5%
+","
+93.5%
+","
+6.98
+","
+B (3.29)
+","
+B (3.27)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA18,210,"
+59
+","
+92.9%
+","
+91.1%
+","
+6.06
+","
+B+ (3.62)
+","
+B+ (3.33)
+"
+"Ezunkpe, Yawo Semanu","
+MAE 107 - Computational Methods/Engineer (A)
+",S118,46,"
+19
+","
+78.9%
+","
+84.2%
+","
+9.13
+","
+B (3.21)
+","
+B (3.26)
+"
+"Pham, Hieu Tan","
+MAE 107 - Computational Methods/Engineer (A)
+",SP18,101,"
+26
+","
+100.0%
+","
+100.0%
+","
+6.58
+","
+B+ (3.48)
+","
+B (3.25)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA17,214,"
+56
+","
+84.3%
+","
+86.3%
+","
+7.17
+","
+B+ (3.48)
+","
+B+ (3.30)
+"
+"Pandey, Amit Prakash","
+MAE 107 - Computational Methods/Engineer (A)
+",S217,71,"
+14
+","
+92.3%
+","
+92.3%
+","
+7.12
+","
+A- (3.92)
+","
+N/A
+"
+"Friend, James Robert","
+MAE 107 - Computational Methods/Engineer (A)
+",SP17,98,"
+28
+","
+92.6%
+","
+96.3%
+","
+5.39
+","
+B+ (3.48)
+","
+B (3.04)
+"
+"Bahadori, Mohammad Yousef","
+MAE 107 - Computational Methods/Engineer (A)
+",FA16,99,"
+41
+","
+81.1%
+","
+81.1%
+","
+6.79
+","
+B+ (3.36)
+","
+B (3.10)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (B)
+",FA16,113,"
+53
+","
+96.2%
+","
+96.2%
+","
+7.40
+","
+B+ (3.57)
+","
+B+ (3.47)
+"
+"Ezunkpe, Yawo Semanu","
+MAE 107 - Computational Methods/Engineer (A)
+",S116,59,"
+44
+","
+60.5%
+","
+53.5%
+","
+10.50
+","
+B (3.19)
+","
+B (3.06)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",SP16,137,"
+33
+","
+72.7%
+","
+72.7%
+","
+7.13
+","
+B+ (3.48)
+","
+B (3.25)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA15,182,"
+57
+","
+91.1%
+","
+94.6%
+","
+6.54
+","
+B+ (3.53)
+","
+B (3.29)
+"
+"Ezunkpe, Yawo Semanu","
+MAE 107 - Computational Methods/Engineer (A)
+",S115,51,"
+36
+","
+77.8%
+","
+80.6%
+","
+9.94
+","
+B- (2.94)
+","
+B (3.22)
+"
+"Brucker, Kyle Ashley","
+MAE 107 - Computational Methods/Engineer (A)
+",SP15,94,"
+44
+","
+50.0%
+","
+59.5%
+","
+5.20
+","
+B+ (3.50)
+","
+B+ (3.42)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA14,162,"
+59
+","
+87.9%
+","
+84.5%
+","
+6.43
+","
+B+ (3.53)
+","
+B (3.15)
+"
+"Ezunkpe, Yawo Semanu","
+MAE 107 - Computational Methods/Engineer (A)
+",S214,39,"
+17
+","
+76.5%
+","
+88.2%
+","
+8.85
+","
+B (3.18)
+","
+B (3.27)
+"
+"Marsden, Alison","
+MAE 107 - Computational Methods/Engineer (A)
+",SP14,82,"
+72
+","
+77.5%
+","
+93.0%
+","
+7.24
+","
+B (3.01)
+","
+B- (2.84)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA13,171,"
+76
+","
+83.6%
+","
+84.9%
+","
+7.20
+","
+B+ (3.39)
+","
+B- (2.92)
+"
+"Barajas Solano, David Alonso","
+MAE 107 - Computational Methods/Engineer (A)
+",S113,49,"
+7
+","
+28.6%
+","
+57.1%
+","
+8.79
+","
+B (3.29)
+","
+B+ (3.58)
+"
+"Marsden, Alison","
+MAE 107 - Computational Methods/Engineer (A)
+",SP13,119,"
+41
+","
+72.5%
+","
+82.5%
+","
+8.24
+","
+B (3.16)
+","
+B- (2.94)
+"
+"McEneaney, William Michael","
+MAE 107 - Computational Methods/Engineer (A)
+",FA12,145,"
+60
+","
+88.9%
+","
+94.4%
+","
+7.92
+","
+B+ (3.43)
+","
+B- (2.90)
+"
+"McEneaney, William Michael         ","
+MAE 107 - Computational Methods/Engineer (A)
+",FA10,137,"
+73
+","
+63.0%
+","
+50.7%
+","
+9.97
+","
+B (3.14)
+","
+B- (2.85)
+"
+"Olevsky, Eugene                    ","
+MAE 107 - Computational Methods/Engineer (A)
+",SU10,88,"
+23
+","
+69.6%
+","
+95.5%
+","
+7.37
+","
+A- (3.91)
+","
+N/A
+"
+"Goddard, Joe D                     ","
+MAE 107 - Computational Methods/Engineer (B)
+",SP10,68,"
+26
+","
+42.3%
+","
+7.7%
+","
+10.42
+","
+B- (2.92)
+","
+C+ (2.35)
+"
+"Bewley, Thomas R                   ","
+MAE 107 - Computational Methods/Engineer (A)
+",FA09,147,"
+107
+","
+51.9%
+","
+57.0%
+","
+9.77
+","
+B- (2.91)
+","
+B (3.11)
+"
+"Michelin, Sebastien Honore Roland  ","
+MAE 107 - Computational Methods/Engineer (A)
+",SU09,68,"
+22
+","
+61.9%
+","
+66.7%
+","
+9.83
+","
+B (3.09)
+","
+N/A
+"
+"Goddard, Joe D                     ","
+MAE 107 - Computational Methods/Engineer (A)
+",SP09,66,"
+22
+","
+13.6%
+","
+22.7%
+","
+5.83
+","
+B- (2.86)
+","
+C+ (2.39)
+"
+"Pozrikidis, Constantine            ","
+MAE 107 - Computational Methods/Engineer (A)
+",FA08,152,"
+52
+","
+48.0%
+","
+36.0%
+","
+9.12
+","
+B (3.17)
+","
+B (3.09)
+"
+"Pozrikidis, Constantine            ","
+MAE 107 - Computational Methods/Engineer (A)
+",SU08,53,"
+31
+","
+56.7%
+","
+67.7%
+","
+8.23
+","
+B+ (3.44)
+","
+N/A
+"
+"Rottman, James                ","
+MAE 107 - Computational Methods/Engineer (A)
+",SP08,97,"
+40
+","
+72.5%
+","
+71.8%
+","
+8.25
+","
+B (3.15)
+","
+B- (2.94)
+"
+"Pozrikidis, Constantine       ","
+MAE 107 - Computational Methods/Engineer (A)
+",FA07,154,"
+123
+","
+44.9%
+","
+30.3%
+","
+6.16
+","
+B (3.18)
+","
+B+ (3.46)
+"

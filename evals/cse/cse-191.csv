@@ -1,0 +1,751 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Reeis, Yaniv","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",SP23,12,"
+8
+","
+100.0%
+","
+100.0%
+","
+2.25
+","
+A (4.00)
+","
+N/A
+"
+"Lerner, Ian Amihay","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP23,20,"
+5
+","
+80.0%
+","
+100.0%
+","
+2.50
+","
+A (4.00)
+","
+A (4.00)
+"
+"Schulze, Jurgen P.","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP22,7,"
+3
+","
+100.0%
+","
+100.0%
+","
+6.50
+","
+B+ (3.50)
+","
+N/A
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",SP22,4,"
+3
+","
+100.0%
+","
+100.0%
+","
+1.17
+","
+N/A
+","
+N/A
+"
+"Lerner, Ian Amihay","
+CSE 191 - Semnr/Computer Sci & Engineer (D)
+",SP22,16,"
+6
+","
+100.0%
+","
+100.0%
+","
+3.70
+","
+N/A
+","
+N/A
+"
+"Gao, Sicun","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",FA21,8,"
+3
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+N/A
+","
+N/A
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",FA21,8,"
+3
+","
+100.0%
+","
+100.0%
+","
+1.17
+","
+N/A
+","
+N/A
+"
+"Shang, Jingbo","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",SP21,24,"
+8
+","
+100.0%
+","
+100.0%
+","
+5.25
+","
+A (4.00)
+","
+C+ (2.67)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI21,10,"
+4
+","
+100.0%
+","
+100.0%
+","
+1.00
+","
+N/A
+","
+N/A
+"
+"Shang, Jingbo","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",WI20,20,"
+9
+","
+100.0%
+","
+100.0%
+","
+5.39
+","
+A (4.00)
+","
+A (4.00)
+"
+"Impagliazzo, Russell","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",SP19,11,"
+3
+","
+100.0%
+","
+100.0%
+","
+3.83
+","
+N/A
+","
+N/A
+"
+"Lerner, Ian Amihay","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP19,17,"
+3
+","
+100.0%
+","
+100.0%
+","
+7.17
+","
+A (4.00)
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",SP19,37,"
+9
+","
+88.9%
+","
+88.9%
+","
+0.72
+","
+A (4.00)
+","
+A (4.00)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",FA18,25,"
+5
+","
+100.0%
+","
+100.0%
+","
+1.30
+","
+A (4.00)
+","
+A (4.00)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP18,10,"
+3
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI18,9,"
+4
+","
+100.0%
+","
+100.0%
+","
+1.83
+","
+N/A
+","
+N/A
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",WI18,13,"
+3
+","
+100.0%
+","
+100.0%
+","
+4.50
+","
+N/A
+","
+N/A
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",FA17,13,"
+7
+","
+100.0%
+","
+100.0%
+","
+3.50
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP17,14,"
+8
+","
+100.0%
+","
+100.0%
+","
+1.64
+","
+A (4.00)
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI17,35,"
+17
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+A (4.00)
+","
+A (4.00)
+"
+"Alvarado, Christine J.","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",FA16,39,"
+18
+","
+94.4%
+","
+88.9%
+","
+8.25
+","
+A (4.00)
+","
+B (3.15)
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",FA16,8,"
+3
+","
+100.0%
+","
+100.0%
+","
+5.50
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (D)
+",FA16,36,"
+13
+","
+75.0%
+","
+91.7%
+","
+0.70
+","
+A (4.00)
+","
+A- (3.93)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP16,14,"
+5
+","
+100.0%
+","
+100.0%
+","
+1.70
+","
+N/A
+","
+N/A
+"
+"Gaasterland, Theresa","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",SP16,61,"
+28
+","
+100.0%
+","
+100.0%
+","
+1.83
+","
+A- (3.96)
+","
+A- (3.93)
+"
+"Micciancio, Daniele","
+CSE 191 - Semnr/Computer Sci & Engineer (E)
+",SP16,15,"
+8
+","
+100.0%
+","
+100.0%
+","
+1.17
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI16,26,"
+11
+","
+90.0%
+","
+90.0%
+","
+1.50
+","
+A (4.00)
+","
+B (3.00)
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",WI16,8,"
+3
+","
+100.0%
+","
+100.0%
+","
+6.50
+","
+N/A
+","
+N/A
+"
+"Alvarado, Christine J.","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",FA15,15,"
+9
+","
+100.0%
+","
+100.0%
+","
+4.50
+","
+A (4.00)
+","
+N/A
+"
+"Alvarado, Christine J.","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",FA15,15,"
+8
+","
+100.0%
+","
+100.0%
+","
+4.00
+","
+A (4.00)
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",FA15,11,"
+4
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+N/A
+","
+N/A
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (D)
+",FA15,13,"
+4
+","
+100.0%
+","
+100.0%
+","
+9.00
+","
+A (4.00)
+","
+N/A
+"
+"Bellare, Mihir","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",SP15,8,"
+6
+","
+100.0%
+","
+100.0%
+","
+5.70
+","
+A (4.00)
+","
+N/A
+"
+"Gaasterland, Theresa","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP15,98,"
+43
+","
+87.8%
+","
+97.6%
+","
+1.04
+","
+A- (3.97)
+","
+A- (3.92)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",SP15,23,"
+8
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+N/A
+","
+A (4.00)
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (D)
+",SP15,5,"
+3
+","
+100.0%
+","
+100.0%
+","
+7.17
+","
+N/A
+","
+N/A
+"
+"Micciancio, Daniele","
+CSE 191 - Semnr/Computer Sci & Engineer (E)
+",SP15,14,"
+3
+","
+100.0%
+","
+100.0%
+","
+2.50
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI15,27,"
+16
+","
+71.4%
+","
+78.6%
+","
+0.68
+","
+A (4.00)
+","
+B+ (3.55)
+"
+"Minnes Kemp, Mor Mia","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",WI15,7,"
+4
+","
+100.0%
+","
+100.0%
+","
+10.50
+","
+N/A
+","
+N/A
+"
+"Alvarado, Christine J.","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",FA14,22,"
+9
+","
+100.0%
+","
+100.0%
+","
+5.25
+","
+A (4.00)
+","
+N/A
+"
+"Gaasterland, Theresa","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",SP14,66,"
+24
+","
+100.0%
+","
+100.0%
+","
+1.11
+","
+A (4.00)
+","
+A- (3.94)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (D)
+",SP14,26,"
+8
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+A (4.00)
+","
+B+ (3.56)
+"
+"Alvarado, Christine J.","
+CSE 191 - Semnr/Computer Sci & Engineer (E)
+",SP14,23,"
+10
+","
+100.0%
+","
+100.0%
+","
+5.50
+","
+N/A
+","
+A- (3.81)
+"
+"Kunin, Jay Stuart","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI14,14,"
+6
+","
+83.3%
+","
+100.0%
+","
+7.30
+","
+B+ (3.50)
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",WI14,28,"
+13
+","
+100.0%
+","
+100.0%
+","
+0.67
+","
+A (4.00)
+","
+A (4.00)
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",FA13,11,"
+3
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (B)
+",SP13,17,"
+7
+","
+100.0%
+","
+100.0%
+","
+0.79
+","
+A (4.00)
+","
+N/A
+"
+"Gaasterland, Theresa","
+CSE 191 - Semnr/Computer Sci & Engineer (C)
+",SP13,52,"
+22
+","
+100.0%
+","
+100.0%
+","
+1.50
+","
+A- (3.95)
+","
+A- (3.97)
+"
+"Lee, Cynthia Bailey","
+CSE 191 - Semnr/Computer Sci & Engineer (D)
+",SP13,11,"
+9
+","
+100.0%
+","
+100.0%
+","
+1.83
+","
+N/A
+","
+N/A
+"
+"Halicioglu, Daniel T","
+CSE 191 - Semnr/Computer Sci & Engineer (A)
+",WI13,27,"
+10
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+N/A
+","
+A- (3.86)
+"

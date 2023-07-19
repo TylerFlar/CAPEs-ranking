@@ -1,0 +1,631 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Gilja, Vikash","
+ECE 15 - Engineering Computation (A)
+",SP23,89,"
+36
+","
+84.8%
+","
+93.9%
+","
+8.21
+","
+C+ (2.58)
+","
+C (2.26)
+"
+"Wang, Edward Jay","
+ECE 15 - Engineering Computation (A)
+",WI23,151,"
+114
+","
+76.1%
+","
+91.2%
+","
+8.87
+","
+B- (2.99)
+","
+B- (2.70)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",FA22,247,"
+186
+","
+64.1%
+","
+82.3%
+","
+9.57
+","
+B- (2.91)
+","
+B- (2.72)
+"
+"Gilja, Vikash","
+ECE 15 - Engineering Computation (A)
+",SP22,100,"
+29
+","
+69.0%
+","
+88.9%
+","
+9.19
+","
+B (3.07)
+","
+C+ (2.55)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",WI22,134,"
+93
+","
+80.6%
+","
+91.3%
+","
+9.40
+","
+B (3.15)
+","
+C (2.23)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",FA21,217,"
+158
+","
+78.7%
+","
+87.6%
+","
+9.11
+","
+B (3.16)
+","
+C+ (2.67)
+"
+"Al Ajrawi, Shams","
+ECE 15 - Engineering Computation (A)
+",S121,38,"
+10
+","
+50.0%
+","
+20.0%
+","
+8.90
+","
+A- (3.80)
+","
+A- (3.73)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",SP21,94,"
+51
+","
+80.4%
+","
+86.3%
+","
+9.44
+","
+B (3.15)
+","
+C+ (2.37)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",WI21,148,"
+101
+","
+91.0%
+","
+95.0%
+","
+9.44
+","
+B+ (3.46)
+","
+B- (2.89)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",FA20,288,"
+245
+","
+79.2%
+","
+84.1%
+","
+9.14
+","
+B (3.19)
+","
+B- (2.98)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",SP20,117,"
+79
+","
+78.2%
+","
+79.2%
+","
+9.09
+","
+B+ (3.47)
+","
+B (3.27)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",WI20,118,"
+87
+","
+89.4%
+","
+95.3%
+","
+9.21
+","
+B (3.15)
+","
+B (3.22)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",FA19,197,"
+144
+","
+87.8%
+","
+94.3%
+","
+8.33
+","
+B (3.20)
+","
+B- (2.93)
+"
+"Schurgers, Curt","
+ECE 15 - Engineering Computation (A)
+",SP19,99,"
+78
+","
+91.0%
+","
+97.4%
+","
+8.99
+","
+B (3.15)
+","
+B- (2.89)
+"
+"Gilja, Vikash","
+ECE 15 - Engineering Computation (A)
+",WI19,169,"
+76
+","
+80.0%
+","
+90.0%
+","
+8.61
+","
+B (3.14)
+","
+B (3.23)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",FA18,262,"
+165
+","
+74.8%
+","
+80.4%
+","
+8.86
+","
+B- (2.86)
+","
+C+ (2.66)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",WI18,135,"
+83
+","
+76.9%
+","
+83.3%
+","
+9.47
+","
+B- (2.79)
+","
+B- (2.87)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",FA17,221,"
+123
+","
+65.4%
+","
+79.8%
+","
+10.54
+","
+B- (2.97)
+","
+C+ (2.68)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",WI17,84,"
+24
+","
+62.5%
+","
+79.2%
+","
+9.98
+","
+B (3.00)
+","
+C+ (2.64)
+"
+"Orlitsky, Alon","
+ECE 15 - Engineering Computation (A)
+",FA16,83,"
+31
+","
+85.7%
+","
+85.7%
+","
+8.94
+","
+B+ (3.38)
+","
+B- (2.81)
+"
+"Orlitsky, Alon","
+ECE 15 - Engineering Computation (B)
+",FA16,115,"
+49
+","
+91.1%
+","
+80.0%
+","
+8.81
+","
+B (3.26)
+","
+B- (2.81)
+"
+"Gilja, Vikash","
+ECE 15 - Engineering Computation (A)
+",SP16,155,"
+55
+","
+75.5%
+","
+89.8%
+","
+8.71
+","
+B (3.08)
+","
+B- (2.88)
+"
+"Orlitsky, Alon","
+ECE 15 - Engineering Computation (A)
+",FA15,252,"
+114
+","
+79.8%
+","
+79.8%
+","
+7.56
+","
+B (3.16)
+","
+C+ (2.51)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",WI15,135,"
+51
+","
+68.8%
+","
+81.3%
+","
+9.85
+","
+B- (2.84)
+","
+C+ (2.56)
+"
+"Gilja, Vikash","
+ECE 15 - Engineering Computation (A)
+",FA14,188,"
+81
+","
+71.8%
+","
+91.5%
+","
+10.84
+","
+B- (2.97)
+","
+C+ (2.51)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (B)
+",FA14,172,"
+112
+","
+75.9%
+","
+75.9%
+","
+10.50
+","
+B- (2.94)
+","
+C+ (2.56)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",WI14,132,"
+54
+","
+78.4%
+","
+68.6%
+","
+9.72
+","
+B- (2.73)
+","
+C+ (2.44)
+"
+"Orlitsky, Alon","
+ECE 15 - Engineering Computation (A)
+",FA13,194,"
+82
+","
+81.6%
+","
+72.4%
+","
+11.22
+","
+B (3.07)
+","
+C+ (2.51)
+"
+"Orlitsky, Alon","
+ECE 15 - Engineering Computation (B)
+",FA13,188,"
+86
+","
+80.2%
+","
+64.2%
+","
+10.13
+","
+B (3.08)
+","
+C+ (2.51)
+"
+"Gilja, Vikash","
+ECE 15 - Engineering Computation (C)
+",FA13,155,"
+81
+","
+72.7%
+","
+84.4%
+","
+11.47
+","
+B- (2.99)
+","
+B- (2.90)
+"
+"Vardy, Alexander","
+ECE 15 - Engineering Computation (A)
+",WI13,75,"
+29
+","
+72.0%
+","
+72.0%
+","
+9.00
+","
+B (3.09)
+","
+C+ (2.46)
+"
+"Cruz, Rene L","
+ECE 15 - Engineering Computation (A)
+",FA12,178,"
+73
+","
+74.6%
+","
+35.8%
+","
+9.99
+","
+B- (2.84)
+","
+B (3.14)
+"
+"Frankie, Tasha Christine","
+ECE 15 - Engineering Computation (B)
+",FA12,131,"
+83
+","
+82.7%
+","
+81.3%
+","
+9.78
+","
+B+ (3.45)
+","
+C+ (2.60)
+"
+"Orlitsky, Alon                     ","
+ECE 15 - Engineering Computation        (A)
+",FA10,179,"
+91
+","
+67.8%
+","
+60.2%
+","
+10.36
+","
+B (3.01)
+","
+C+ (2.54)
+"
+"Yun, Kenneth Yi                    ","
+ECE 15 - Engineering Computation        (A)
+",SU10,14,"
+7
+","
+71.4%
+","
+71.4%
+","
+17.07
+","
+B (3.20)
+","
+N/A
+"
+"Vardy, Alexander                   ","
+ECE 15 - Engineering Computation        (A)
+",WI10,57,"
+22
+","
+47.6%
+","
+61.9%
+","
+12.68
+","
+B- (2.90)
+","
+C+ (2.64)
+"
+"Orlitsky, Alon                     ","
+ECE 15 - Engineering Computation        (A)
+",FA09,103,"
+58
+","
+79.3%
+","
+65.5%
+","
+10.36
+","
+B (3.28)
+","
+C+ (2.69)
+"
+"Vanesian, Tasha Christine          ","
+ECE 15 - Engineering Computation        (A)
+",SU09,20,"
+9
+","
+66.7%
+","
+66.7%
+","
+6.72
+","
+B+ (3.63)
+","
+N/A
+"
+"Orlitsky, Alon","
+ECE 15 - Engineering Computation        (A)
+",WI09,41,"
+23
+","
+78.3%
+","
+87.0%
+","
+7.28
+","
+B (3.17)
+","
+C+ (2.31)
+"
+"Vardy, Alexander                   ","
+ECE 15 - Engineering Computation        (A)
+",FA08,80,"
+56
+","
+73.2%
+","
+67.9%
+","
+8.04
+","
+B (3.13)
+","
+C+ (2.34)
+"
+"Guest, Clark C                ","
+ECE 15 - Engineering Computation        (A)
+",WI08,27,"
+14
+","
+42.9%
+","
+35.7%
+","
+6.81
+","
+B (3.07)
+","
+C+ (2.59)
+"
+"Guest, Clark C                ","
+ECE 15 - Engineering Computation        (A)
+",FA07,60,"
+45
+","
+73.3%
+","
+53.3%
+","
+5.74
+","
+B- (2.95)
+","
+C+ (2.42)
+"

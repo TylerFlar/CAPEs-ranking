@@ -1,0 +1,466 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (A)
+",SP23,409,"
+150
+","
+95.2%
+","
+96.6%
+","
+5.33
+","
+B+ (3.52)
+","
+B (3.21)
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (A)
+",WI23,216,"
+85
+","
+96.3%
+","
+94.8%
+","
+5.60
+","
+B+ (3.41)
+","
+B (3.23)
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (B)
+",WI23,88,"
+26
+","
+96.0%
+","
+96.0%
+","
+6.18
+","
+B+ (3.56)
+","
+B (3.20)
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (A)
+",SP22,266,"
+180
+","
+97.7%
+","
+98.9%
+","
+5.99
+","
+A- (3.79)
+","
+B (3.21)
+"
+"Hoffman, Geoffrey Joseph","
+ECON 5 - Data Analytics/Social Sciences (B)
+",SP22,10,"
+4
+","
+100.0%
+","
+100.0%
+","
+4.50
+","
+A- (3.75)
+","
+N/A
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (A)
+",WI22,55,"
+40
+","
+97.5%
+","
+97.5%
+","
+6.85
+","
+B+ (3.40)
+","
+B (3.24)
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (B)
+",WI22,79,"
+62
+","
+91.8%
+","
+98.4%
+","
+7.32
+","
+B+ (3.54)
+","
+B (3.12)
+"
+"Zhao, Jiannan","
+ECON 5 - Data Analytics/Social Sciences (C)
+",WI22,10,"
+7
+","
+85.7%
+","
+85.7%
+","
+4.79
+","
+B+ (3.57)
+","
+N/A
+"
+"Jamel Edim Falabella, Leonardo","
+ECON 5 - Data Analytics/Social Sciences (D)
+",WI22,10,"
+10
+","
+90.0%
+","
+90.0%
+","
+5.10
+","
+B+ (3.60)
+","
+N/A
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (A)
+",SP21,23,"
+12
+","
+100.0%
+","
+100.0%
+","
+5.17
+","
+A- (3.73)
+","
+B+ (3.41)
+"
+"Phillips, Gregoire Loren","
+ECON 5 - Data Analytics/Social Sciences (B)
+",SP21,9,"
+8
+","
+100.0%
+","
+100.0%
+","
+5.75
+","
+A- (3.88)
+","
+N/A
+"
+"De Abreu Maia, Lucas","
+ECON 5 - Data Analytics/Social Sciences (C)
+",SP21,10,"
+3
+","
+100.0%
+","
+100.0%
+","
+3.17
+","
+A (4.00)
+","
+N/A
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (A)
+",WI21,11,"
+3
+","
+50.0%
+","
+100.0%
+","
+4.50
+","
+C+ (2.50)
+","
+N/A
+"
+"Arnold, David Hall","
+ECON 5 - Data Analytics/Social Sciences (B)
+",WI21,11,"
+5
+","
+100.0%
+","
+100.0%
+","
+3.00
+","
+A (4.00)
+","
+N/A
+"
+"Jamel Edim Falabella, Leonardo","
+ECON 5 - Data Analytics/Social Sciences (C)
+",WI21,10,"
+6
+","
+100.0%
+","
+100.0%
+","
+2.90
+","
+A (4.00)
+","
+N/A
+"
+"Goodman, Zachary Aaron","
+ECON 5 - Data Analytics/Social Sciences (A)
+",SP20,8,"
+3
+","
+66.7%
+","
+66.7%
+","
+6.50
+","
+A (4.00)
+","
+N/A
+"
+"Goodman, Zachary Aaron","
+ECON 5 - Data Analytics/Social Sciences (A)
+",WI20,29,"
+12
+","
+66.7%
+","
+58.3%
+","
+10.67
+","
+B (3.08)
+","
+B+ (3.35)
+"
+"Vanvuren, Mitchell Scott","
+ECON 5 - Data Analytics/Social Sciences (A)
+",SP19,10,"
+3
+","
+100.0%
+","
+100.0%
+","
+6.50
+","
+B+ (3.67)
+","
+N/A
+"
+"Sells, Cameron James","
+ECON 5 - Data Analytics/Social Sciences (B)
+",SP19,8,"
+3
+","
+100.0%
+","
+100.0%
+","
+4.50
+","
+B+ (3.67)
+","
+N/A
+"
+"Goodman, Zachary Aaron","
+ECON 5 - Data Analytics/Social Sciences (E)
+",SP19,9,"
+4
+","
+100.0%
+","
+100.0%
+","
+5.17
+","
+B+ (3.67)
+","
+N/A
+"
+"Oklobdzija, Stan","
+ECON 5 - Data Analytics/Social Sciences (A)
+",WI19,27,"
+8
+","
+85.7%
+","
+85.7%
+","
+5.64
+","
+A- (3.71)
+","
+B+ (3.49)
+"
+"Kaushik, Arushi","
+ECON 5 - Data Analytics/Social Sciences (A)
+",SP18,6,"
+6
+","
+100.0%
+","
+100.0%
+","
+7.17
+","
+B+ (3.50)
+","
+N/A
+"
+"Brown, Alyssa Ashleigh","
+ECON 5 - Data Analytics/Social Sciences (B)
+",SP18,9,"
+7
+","
+85.7%
+","
+85.7%
+","
+4.79
+","
+B+ (3.60)
+","
+N/A
+"
+"Goodman, Zachary Aaron","
+ECON 5 - Data Analytics/Social Sciences (C)
+",SP18,7,"
+5
+","
+100.0%
+","
+100.0%
+","
+6.10
+","
+A (4.00)
+","
+N/A
+"
+"Suong, Clara Haeseung","
+ECON 5 - Data Analytics/Social Sciences (D)
+",SP18,6,"
+4
+","
+75.0%
+","
+100.0%
+","
+5.00
+","
+A (4.00)
+","
+N/A
+"
+"Navajas Ahumada, Camila Eugen","
+ECON 5 - Data Analytics/Social Sciences (F)
+",SP18,8,"
+4
+","
+50.0%
+","
+100.0%
+","
+5.50
+","
+B (3.25)
+","
+N/A
+"
+"Rhee, Dennis","
+ECON 5 - Data Analytics/Social Sciences (G)
+",SP18,8,"
+4
+","
+75.0%
+","
+75.0%
+","
+5.00
+","
+B+ (3.50)
+","
+N/A
+"
+"Oklobdzija, Stan","
+ECON 5 - Data Analytics/Social Sciences (H)
+",SP18,7,"
+4
+","
+100.0%
+","
+100.0%
+","
+3.50
+","
+B+ (3.67)
+","
+N/A
+"
+"Vanvuren, Mitchell Scott","
+ECON 5 - Data Analytics/Social Sciences (I)
+",SP18,4,"
+4
+","
+100.0%
+","
+100.0%
+","
+4.00
+","
+B+ (3.33)
+","
+N/A
+"
+"Somers, Jackson Chandler","
+ECON 5 - Data Analytics/Social Sciences (K)
+",SP18,9,"
+8
+","
+100.0%
+","
+100.0%
+","
+5.75
+","
+A- (3.86)
+","
+N/A
+"
+"Xu, Yiqing","
+ECON 5 - Data Analytics/Social Sciences (A)
+",WI18,33,"
+11
+","
+100.0%
+","
+100.0%
+","
+5.10
+","
+A- (3.88)
+","
+B+ (3.35)
+"

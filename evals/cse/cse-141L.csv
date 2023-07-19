@@ -1,0 +1,856 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP23,174,"
+57
+","
+80.4%
+","
+92.0%
+","
+7.65
+","
+B+ (3.46)
+","
+B+ (3.37)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI23,170,"
+51
+","
+87.2%
+","
+95.7%
+","
+7.43
+","
+B+ (3.37)
+","
+B (3.29)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",S222,104,"
+48
+","
+76.6%
+","
+80.9%
+","
+10.29
+","
+B (3.17)
+","
+B (3.11)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP22,219,"
+98
+","
+82.8%
+","
+92.5%
+","
+7.85
+","
+B+ (3.48)
+","
+B- (2.91)
+"
+"Pannuto, Patrick William","
+CSE 141L - Project/Computer Architecture (A)
+",WI22,174,"
+67
+","
+68.2%
+","
+92.4%
+","
+9.05
+","
+B+ (3.55)
+","
+B+ (3.38)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",S221,96,"
+20
+","
+95.0%
+","
+100.0%
+","
+10.61
+","
+A- (3.74)
+","
+B+ (3.31)
+"
+"Taram, Mohammadkazem","
+CSE 141L - Project/Computer Architecture (A)
+",S121,62,"
+18
+","
+77.8%
+","
+94.4%
+","
+11.79
+","
+B (3.18)
+","
+B (3.19)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI21,174,"
+60
+","
+78.4%
+","
+86.3%
+","
+7.63
+","
+B+ (3.70)
+","
+B+ (3.38)
+"
+"Esmaeilzadeh, Hadi","
+CSE 141L - Project/Computer Architecture (A)
+",FA20,102,"
+38
+","
+58.3%
+","
+76.5%
+","
+7.89
+","
+B+ (3.58)
+","
+B+ (3.38)
+"
+"Esmaeilzadeh, Hadi","
+CSE 141L - Project/Computer Architecture (B)
+",FA20,104,"
+40
+","
+64.1%
+","
+74.4%
+","
+7.66
+","
+B+ (3.55)
+","
+B+ (3.40)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",S220,83,"
+11
+","
+81.8%
+","
+72.7%
+","
+9.23
+","
+B+ (3.36)
+","
+B (3.29)
+"
+"Tseng, Hung-Wei","
+CSE 141L - Project/Computer Architecture (B)
+",S220,49,"
+43
+","
+88.4%
+","
+65.1%
+","
+13.15
+","
+B+ (3.58)
+","
+B+ (3.49)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP20,180,"
+39
+","
+75.0%
+","
+91.7%
+","
+8.20
+","
+B+ (3.60)
+","
+A- (3.78)
+"
+"Porter, Leonard Emerson","
+CSE 141L - Project/Computer Architecture (A)
+",WI20,136,"
+92
+","
+80.0%
+","
+96.6%
+","
+10.46
+","
+B+ (3.53)
+","
+B+ (3.65)
+"
+"Porter, Leonard Emerson","
+CSE 141L - Project/Computer Architecture (B)
+",WI20,151,"
+108
+","
+78.3%
+","
+90.6%
+","
+9.78
+","
+B+ (3.57)
+","
+A- (3.71)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (C)
+",WI20,36,"
+11
+","
+62.5%
+","
+87.5%
+","
+8.94
+","
+C+ (2.56)
+","
+C+ (2.66)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",FA19,160,"
+58
+","
+63.5%
+","
+86.5%
+","
+7.74
+","
+B (3.26)
+","
+B (3.18)
+"
+"Tseng, Hung-Wei","
+CSE 141L - Project/Computer Architecture (A)
+",S219,35,"
+12
+","
+72.7%
+","
+90.9%
+","
+12.14
+","
+B (3.27)
+","
+B (3.25)
+"
+"Merrill, Devon James","
+CSE 141L - Project/Computer Architecture (B)
+",S219,16,"
+4
+","
+75.0%
+","
+75.0%
+","
+8.00
+","
+A- (3.75)
+","
+N/A
+"
+"Tseng, Hung-Wei","
+CSE 141L - Project/Computer Architecture (A)
+",S119,28,"
+5
+","
+80.0%
+","
+60.0%
+","
+11.30
+","
+B+ (3.60)
+","
+B+ (3.43)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP19,161,"
+32
+","
+75.0%
+","
+87.5%
+","
+8.50
+","
+B+ (3.53)
+","
+B+ (3.44)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI19,91,"
+29
+","
+66.7%
+","
+74.1%
+","
+6.57
+","
+B+ (3.33)
+","
+B+ (3.38)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",WI19,101,"
+31
+","
+82.1%
+","
+89.3%
+","
+8.16
+","
+B+ (3.46)
+","
+B+ (3.38)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",FA18,101,"
+24
+","
+66.7%
+","
+91.7%
+","
+9.20
+","
+B+ (3.35)
+","
+B (3.28)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP18,164,"
+46
+","
+64.4%
+","
+86.4%
+","
+7.23
+","
+B (3.29)
+","
+B (3.20)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI18,137,"
+62
+","
+67.2%
+","
+89.5%
+","
+6.72
+","
+B+ (3.62)
+","
+B+ (3.42)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",FA17,72,"
+20
+","
+66.7%
+","
+83.3%
+","
+7.06
+","
+B (3.06)
+","
+B (3.25)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",FA17,69,"
+30
+","
+59.3%
+","
+85.2%
+","
+8.06
+","
+B (3.26)
+","
+B (3.25)
+"
+"Liao, Soohyun Nam","
+CSE 141L - Project/Computer Architecture (A)
+",S217,49,"
+10
+","
+77.8%
+","
+100.0%
+","
+10.10
+","
+B (3.00)
+","
+N/A
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP17,116,"
+38
+","
+55.9%
+","
+91.2%
+","
+7.44
+","
+B+ (3.30)
+","
+B+ (3.30)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",SP17,143,"
+51
+","
+67.3%
+","
+95.9%
+","
+9.01
+","
+B+ (3.38)
+","
+B+ (3.30)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI17,85,"
+26
+","
+76.9%
+","
+96.2%
+","
+6.74
+","
+B+ (3.44)
+","
+B+ (3.45)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (C)
+",WI17,81,"
+21
+","
+65.0%
+","
+95.0%
+","
+7.70
+","
+B+ (3.55)
+","
+B+ (3.45)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",FA16,120,"
+50
+","
+62.5%
+","
+93.8%
+","
+8.31
+","
+B+ (3.50)
+","
+B+ (3.32)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",FA16,117,"
+64
+","
+68.3%
+","
+88.9%
+","
+8.00
+","
+B+ (3.51)
+","
+B+ (3.32)
+"
+"Tseng, Hung-Wei","
+CSE 141L - Project/Computer Architecture (A)
+",S116,95,"
+23
+","
+73.7%
+","
+94.7%
+","
+13.17
+","
+B+ (3.68)
+","
+B+ (3.57)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP16,168,"
+51
+","
+74.5%
+","
+91.5%
+","
+8.09
+","
+B+ (3.51)
+","
+B+ (3.38)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",SP16,169,"
+60
+","
+71.4%
+","
+91.1%
+","
+7.26
+","
+B+ (3.38)
+","
+B+ (3.37)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI16,150,"
+59
+","
+64.8%
+","
+87.0%
+","
+7.99
+","
+B+ (3.43)
+","
+B+ (3.41)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",WI16,133,"
+49
+","
+78.3%
+","
+97.8%
+","
+7.79
+","
+B (3.28)
+","
+B+ (3.41)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",FA15,126,"
+33
+","
+72.4%
+","
+86.2%
+","
+10.12
+","
+B (3.11)
+","
+B (3.27)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",FA15,123,"
+52
+","
+60.4%
+","
+91.7%
+","
+9.72
+","
+B (3.11)
+","
+B (3.27)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP15,116,"
+28
+","
+50.0%
+","
+89.3%
+","
+11.54
+","
+B (3.19)
+","
+B+ (3.41)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",SP15,137,"
+43
+","
+50.0%
+","
+92.1%
+","
+10.32
+","
+B- (2.88)
+","
+B+ (3.41)
+"
+"Tullsen, Dean Michael","
+CSE 141L - Project/Computer Architecture (A)
+",WI15,73,"
+20
+","
+63.2%
+","
+78.9%
+","
+12.50
+","
+B+ (3.33)
+","
+B+ (3.50)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",WI15,95,"
+29
+","
+70.4%
+","
+88.9%
+","
+9.24
+","
+B (3.19)
+","
+B (3.29)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",FA14,88,"
+47
+","
+68.9%
+","
+86.7%
+","
+11.68
+","
+B (3.05)
+","
+B (3.13)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",FA14,63,"
+31
+","
+61.5%
+","
+84.6%
+","
+11.30
+","
+B- (2.80)
+","
+B (3.13)
+"
+"Tseng, Hung-Wei","
+CSE 141L - Project/Computer Architecture (A)
+",S214,57,"
+12
+","
+81.8%
+","
+100.0%
+","
+14.70
+","
+A- (3.82)
+","
+B+ (3.70)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",SP14,133,"
+31
+","
+53.6%
+","
+78.6%
+","
+11.39
+","
+B- (2.88)
+","
+B+ (3.33)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (A)
+",WI14,53,"
+18
+","
+52.9%
+","
+88.2%
+","
+11.50
+","
+B+ (3.31)
+","
+B+ (3.49)
+"
+"Eldon, John","
+CSE 141L - Project/Computer Architecture (B)
+",WI14,77,"
+29
+","
+75.9%
+","
+86.2%
+","
+9.09
+","
+B+ (3.52)
+","
+B+ (3.49)
+"
+"Tullsen, Dean Michael","
+CSE 141L - Project/Computer Architecture (B)
+",FA13,90,"
+25
+","
+95.8%
+","
+95.8%
+","
+11.50
+","
+B+ (3.63)
+","
+B (3.25)
+"
+"Swanson, Steven James","
+CSE 141L - Project/Computer Architecture (A)
+",SP13,71,"
+22
+","
+90.5%
+","
+100.0%
+","
+11.45
+","
+A- (3.71)
+","
+A- (3.72)
+"
+"Tullsen, Dean Michael","
+CSE 141L - Project/Computer Architecture (A)
+",WI13,30,"
+14
+","
+100.0%
+","
+92.3%
+","
+13.12
+","
+A- (3.92)
+","
+A- (3.75)
+"
+"Mars, Jason","
+CSE 141L - Project/Computer Architecture (B)
+",WI13,77,"
+30
+","
+72.4%
+","
+89.7%
+","
+12.35
+","
+B+ (3.54)
+","
+B+ (3.46)
+"
+"Taylor, Michael","
+CSE 141L - Project/Computer Architecture (A)
+",FA12,55,"
+21
+","
+72.2%
+","
+77.8%
+","
+15.83
+","
+A- (3.76)
+","
+B+ (3.58)
+"

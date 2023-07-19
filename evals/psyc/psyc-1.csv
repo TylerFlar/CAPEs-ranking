@@ -1,0 +1,946 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Willis, Jarryd Thomas","
+PSYC 1 - Psychology (A)
+",SP23,388,"
+259
+","
+98.4%
+","
+98.0%
+","
+3.35
+","
+A- (3.84)
+","
+A- (3.86)
+"
+"Chapman, Eddie Nathaniel","
+PSYC 1 - Psychology (A)
+",WI23,339,"
+150
+","
+99.3%
+","
+98.6%
+","
+3.77
+","
+A- (3.83)
+","
+A- (3.73)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (A)
+",FA22,342,"
+172
+","
+97.6%
+","
+99.4%
+","
+2.99
+","
+B+ (3.63)
+","
+B (3.05)
+"
+"Willis, Jarryd Thomas","
+PSYC 1 - Psychology (A)
+",S122,71,"
+43
+","
+95.3%
+","
+93.0%
+","
+5.57
+","
+A- (3.85)
+","
+A- (3.86)
+"
+"Kim, Min Ju","
+PSYC 1 - Psychology (A)
+",SP22,288,"
+124
+","
+97.6%
+","
+96.7%
+","
+3.19
+","
+A- (3.88)
+","
+B+ (3.61)
+"
+"Willis, Jarryd Thomas","
+PSYC 1 - Psychology (A)
+",WI22,293,"
+169
+","
+99.4%
+","
+100.0%
+","
+3.95
+","
+A- (3.87)
+","
+A- (3.87)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (A)
+",FA21,388,"
+247
+","
+96.3%
+","
+98.3%
+","
+3.51
+","
+B (3.26)
+","
+B (3.25)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (A)
+",S221,112,"
+76
+","
+97.3%
+","
+98.6%
+","
+3.85
+","
+B+ (3.35)
+","
+B (3.21)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (B)
+",S221,25,"
+19
+","
+100.0%
+","
+100.0%
+","
+3.34
+","
+B (3.17)
+","
+B (3.21)
+"
+"Sousa, Margarette Pamela-Burd","
+PSYC 1 - Psychology (A)
+",S121,87,"
+23
+","
+100.0%
+","
+95.7%
+","
+5.80
+","
+A- (3.74)
+","
+B+ (3.32)
+"
+"Hanes, Esther","
+PSYC 1 - Psychology (A)
+",SP21,270,"
+108
+","
+99.1%
+","
+99.1%
+","
+3.61
+","
+A- (3.83)
+","
+B+ (3.47)
+"
+"Willis, Jarryd Thomas","
+PSYC 1 - Psychology (A)
+",WI21,340,"
+173
+","
+98.2%
+","
+98.2%
+","
+4.06
+","
+A- (3.79)
+","
+A- (3.87)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (A)
+",FA20,290,"
+169
+","
+94.5%
+","
+98.8%
+","
+3.87
+","
+B+ (3.33)
+","
+B (3.18)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (B)
+",FA20,50,"
+21
+","
+90.5%
+","
+100.0%
+","
+3.64
+","
+B (3.15)
+","
+B (3.23)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (A)
+",S220,78,"
+34
+","
+90.9%
+","
+93.8%
+","
+4.21
+","
+B+ (3.40)
+","
+B+ (3.42)
+"
+"Sousa, Margarette Pamela-Burd","
+PSYC 1 - Psychology (A)
+",S120,79,"
+32
+","
+90.0%
+","
+86.7%
+","
+6.63
+","
+A- (3.81)
+","
+B+ (3.46)
+"
+"Hanes, Esther","
+PSYC 1 - Psychology (A)
+",SP20,287,"
+106
+","
+100.0%
+","
+99.0%
+","
+3.88
+","
+A- (3.83)
+","
+B+ (3.57)
+"
+"Willis, Jarryd Thomas","
+PSYC 1 - Psychology (A)
+",WI20,332,"
+156
+","
+98.0%
+","
+95.9%
+","
+4.09
+","
+A- (3.74)
+","
+B+ (3.48)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (A)
+",FA19,370,"
+248
+","
+96.8%
+","
+98.3%
+","
+3.95
+","
+B+ (3.43)
+","
+B (3.13)
+"
+"Geller, Emma Harlan","
+PSYC 1 - Psychology (A)
+",S219,66,"
+38
+","
+97.1%
+","
+97.1%
+","
+5.41
+","
+B+ (3.63)
+","
+B- (3.00)
+"
+"Ferreira, Victor","
+PSYC 1 - Psychology (B)
+",S219,26,"
+19
+","
+94.7%
+","
+94.7%
+","
+6.50
+","
+B (3.24)
+","
+B (3.11)
+"
+"Sousa, Margarette Pamela-Burd","
+PSYC 1 - Psychology (A)
+",S119,57,"
+15
+","
+86.7%
+","
+100.0%
+","
+6.50
+","
+B+ (3.43)
+","
+B (3.13)
+"
+"Hanes, Esther","
+PSYC 1 - Psychology (A)
+",SP19,295,"
+127
+","
+99.1%
+","
+98.3%
+","
+2.77
+","
+A- (3.74)
+","
+B (3.28)
+"
+"Hanes, Esther","
+PSYC 1 - Psychology (A)
+",WI19,277,"
+117
+","
+99.1%
+","
+99.1%
+","
+3.67
+","
+A- (3.77)
+","
+B+ (3.34)
+"
+"Hanes, Esther","
+PSYC 1 - Psychology (A)
+",FA18,406,"
+208
+","
+99.0%
+","
+99.0%
+","
+3.14
+","
+A- (3.73)
+","
+B+ (3.36)
+"
+"Sousa, Margarette Pamela-Burd","
+PSYC 1 - Psychology (A)
+",S118,59,"
+31
+","
+93.5%
+","
+96.8%
+","
+5.83
+","
+B+ (3.64)
+","
+B- (2.84)
+"
+"Hanes, Esther","
+PSYC 1 - Psychology (A)
+",SP18,292,"
+165
+","
+99.4%
+","
+100.0%
+","
+3.14
+","
+A- (3.72)
+","
+B+ (3.39)
+"
+"Yerushalmian, Sara","
+PSYC 1 - Psychology (A)
+",WI18,299,"
+241
+","
+97.9%
+","
+96.6%
+","
+4.15
+","
+B+ (3.49)
+","
+B (3.16)
+"
+"Dimler, Laura","
+PSYC 1 - Psychology (A)
+",FA17,388,"
+346
+","
+95.4%
+","
+96.8%
+","
+3.53
+","
+B (3.23)
+","
+B- (2.98)
+"
+"Little, Emily Elysia","
+PSYC 1 - Psychology (A)
+",S217,66,"
+52
+","
+96.2%
+","
+98.0%
+","
+5.17
+","
+B+ (3.43)
+","
+B (3.10)
+"
+"Frederick, David A","
+PSYC 1 - Psychology (A)
+",SP17,187,"
+120
+","
+93.8%
+","
+99.1%
+","
+4.21
+","
+B+ (3.39)
+","
+B (3.11)
+"
+"Steiner, Eric Tomas","
+PSYC 1 - Psychology (A)
+",WI17,303,"
+179
+","
+97.7%
+","
+98.8%
+","
+4.11
+","
+B+ (3.52)
+","
+B (3.03)
+"
+"Dimler, Laura","
+PSYC 1 - Psychology (A)
+",FA16,372,"
+337
+","
+96.4%
+","
+95.5%
+","
+4.56
+","
+B+ (3.44)
+","
+B- (2.92)
+"
+"Hoffman, Drew Ellen","
+PSYC 1 - Psychology (A)
+",S216,62,"
+48
+","
+97.9%
+","
+91.5%
+","
+4.80
+","
+A- (3.71)
+","
+B+ (3.36)
+"
+"Belding, Jennifer","
+PSYC 1 - Psychology (A)
+",SP16,339,"
+145
+","
+97.2%
+","
+93.7%
+","
+4.85
+","
+B+ (3.54)
+","
+B (3.00)
+"
+"Belding, Jennifer","
+PSYC 1 - Psychology (A)
+",WI16,234,"
+139
+","
+96.4%
+","
+97.8%
+","
+4.74
+","
+B+ (3.69)
+","
+B (3.13)
+"
+"Belding, Jennifer","
+PSYC 1 - Psychology (A)
+",FA15,395,"
+222
+","
+96.3%
+","
+96.3%
+","
+5.84
+","
+B+ (3.60)
+","
+B (3.20)
+"
+"Henniger, Nicole Elizabeth","
+PSYC 1 - Psychology (A)
+",S215,90,"
+39
+","
+94.6%
+","
+100.0%
+","
+5.26
+","
+A- (3.90)
+","
+B+ (3.55)
+"
+"Sousa, Margarette Pamela-Burd","
+PSYC 1 - Psychology (A)
+",SP15,276,"
+106
+","
+86.1%
+","
+89.1%
+","
+4.52
+","
+B+ (3.57)
+","
+B- (2.96)
+"
+"Burd, Margarette Pamela","
+PSYC 1 - Psychology (A)
+",WI15,316,"
+124
+","
+86.4%
+","
+89.8%
+","
+4.08
+","
+B+ (3.56)
+","
+B- (2.99)
+"
+"Leinenger, Mallorie Nicole","
+PSYC 1 - Psychology (A)
+",FA14,262,"
+104
+","
+87.4%
+","
+89.3%
+","
+4.16
+","
+B+ (3.31)
+","
+B- (2.99)
+"
+"Harrison, Elizabeth Mary","
+PSYC 1 - Psychology (A)
+",S214,72,"
+18
+","
+100.0%
+","
+100.0%
+","
+7.38
+","
+B+ (3.56)
+","
+B (3.19)
+"
+"Whitfield, Timothy W.","
+PSYC 1 - Psychology (A)
+",SP14,279,"
+105
+","
+93.2%
+","
+94.2%
+","
+3.68
+","
+B+ (3.66)
+","
+B (3.14)
+"
+"Anstis, Stuart","
+PSYC 1 - Psychology (A)
+",WI14,299,"
+146
+","
+83.8%
+","
+83.8%
+","
+3.77
+","
+B (3.30)
+","
+B- (2.77)
+"
+"Whitfield, Timothy W.","
+PSYC 1 - Psychology (A)
+",FA13,315,"
+140
+","
+95.6%
+","
+98.5%
+","
+4.04
+","
+B+ (3.69)
+","
+B (3.11)
+"
+"Harrison, Elizabeth Mary","
+PSYC 1 - Psychology (A)
+",S213,70,"
+14
+","
+100.0%
+","
+100.0%
+","
+5.07
+","
+B+ (3.58)
+","
+B (3.01)
+"
+"Whitfield, Timothy W.","
+PSYC 1 - Psychology (A)
+",SP13,323,"
+124
+","
+87.8%
+","
+95.1%
+","
+4.33
+","
+B (3.18)
+","
+B- (2.75)
+"
+"Anstis, Stuart","
+PSYC 1 - Psychology (A)
+",WI13,298,"
+119
+","
+91.5%
+","
+81.2%
+","
+3.85
+","
+B (3.20)
+","
+B- (2.75)
+"
+"Chenier, Troy Thomas","
+PSYC 1 - Psychology (A)
+",FA12,287,"
+129
+","
+96.7%
+","
+99.2%
+","
+4.26
+","
+B+ (3.43)
+","
+B- (2.85)
+"
+"Chenier, Troy Thomas               ","
+PSYC 1 - Psychology                     (A)
+",FA10,303,"
+143
+","
+90.2%
+","
+84.4%
+","
+4.30
+","
+B+ (3.36)
+","
+C+ (2.65)
+"
+"Vanderbilt, Kimberly Ellen         ","
+PSYC 1 - Psychology                     (A)
+",SU10,94,"
+20
+","
+100.0%
+","
+100.0%
+","
+5.45
+","
+A- (3.70)
+","
+N/A
+"
+"Cai, Denise Jade                   ","
+PSYC 1 - Psychology                     (A)
+",SP10,301,"
+139
+","
+95.7%
+","
+92.7%
+","
+2.77
+","
+B+ (3.58)
+","
+B (3.12)
+"
+"Anstis, Stuart                     ","
+PSYC 1 - Psychology                     (A)
+",WI10,324,"
+146
+","
+91.7%
+","
+93.1%
+","
+3.33
+","
+B+ (3.38)
+","
+B (3.02)
+"
+"Wood, Suzanne Courtney             ","
+PSYC 1 - Psychology                     (A)
+",FA09,262,"
+175
+","
+98.8%
+","
+98.8%
+","
+2.99
+","
+B+ (3.64)
+","
+B (3.05)
+"
+"Lapidis, Rachael Lynn              ","
+PSYC 1 - Psychology                     (A)
+",SU09,73,"
+22
+","
+100.0%
+","
+100.0%
+","
+4.21
+","
+A- (3.71)
+","
+N/A
+"
+"Cluver, Annette L.                 ","
+PSYC 1 - Psychology                     (A)
+",SP09,299,"
+144
+","
+91.6%
+","
+87.4%
+","
+3.44
+","
+B+ (3.49)
+","
+B (3.14)
+"
+"Goldschmied, Nadav","
+PSYC 1 - Psychology                     (A)
+",WI09,257,"
+88
+","
+96.6%
+","
+94.3%
+","
+4.09
+","
+B+ (3.46)
+","
+B- (2.83)
+"
+"Wood, Suzanne Courtney             ","
+PSYC 1 - Psychology                     (A)
+",FA08,284,"
+193
+","
+95.2%
+","
+96.8%
+","
+3.21
+","
+B+ (3.49)
+","
+B- (2.91)
+"
+"Degenshein, Rachael Lynn           ","
+PSYC 1 - Psychology                     (A)
+",SU08,49,"
+39
+","
+100.0%
+","
+100.0%
+","
+4.60
+","
+B+ (3.65)
+","
+N/A
+"
+"Flowe, Heather D              ","
+PSYC 1 - Psychology                     (A)
+",SP08,345,"
+200
+","
+97.4%
+","
+98.5%
+","
+2.46
+","
+B+ (3.50)
+","
+B (3.10)
+"
+"Anstis, Stuart                ","
+PSYC 1 - Psychology                     (A)
+",WI08,296,"
+194
+","
+90.6%
+","
+94.8%
+","
+3.94
+","
+B (3.17)
+","
+C+ (2.66)
+"
+"Ferreira, Victor              ","
+PSYC 1 - Psychology                     (A)
+",FA07,285,"
+174
+","
+100.0%
+","
+100.0%
+","
+3.12
+","
+B+ (3.50)
+","
+B- (2.94)
+"
+"Herbst-Damm, Kathryn Laurel   ","
+PSYC 1 - Psychology                     (A)
+",SU07,60,"
+52
+","
+100.0%
+","
+100.0%
+","
+3.75
+","
+B+ (3.67)
+","
+N/A
+"

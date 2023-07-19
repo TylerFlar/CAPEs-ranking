@@ -1,0 +1,601 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Nemish, Yuriy","
+MATH 180A - Introduction to Probability (A)
+",WI23,102,"
+35
+","
+80.0%
+","
+62.9%
+","
+7.53
+","
+B (3.23)
+","
+B- (2.85)
+"
+"McKinley, Gweneth Anne","
+MATH 180A - Introduction to Probability (B)
+",WI23,140,"
+86
+","
+89.3%
+","
+96.2%
+","
+8.14
+","
+B (3.27)
+","
+B (3.01)
+"
+"Jekel, David Andrew","
+MATH 180A - Introduction to Probability (A)
+",FA22,209,"
+75
+","
+98.6%
+","
+100.0%
+","
+8.28
+","
+A- (3.71)
+","
+D+ (1.47)
+"
+"Agarwal, Pooja","
+MATH 180A - Introduction to Probability (B)
+",FA22,187,"
+83
+","
+97.5%
+","
+93.8%
+","
+6.77
+","
+B+ (3.48)
+","
+B (3.16)
+"
+"Nemish, Yuriy","
+MATH 180A - Introduction to Probability (C)
+",FA22,98,"
+73
+","
+79.5%
+","
+83.1%
+","
+7.83
+","
+B (3.28)
+","
+B (3.01)
+"
+"Kolesnik, Brett T","
+MATH 180A - Introduction to Probability (A)
+",SP22,139,"
+109
+","
+47.7%
+","
+39.6%
+","
+10.43
+","
+B- (2.99)
+","
+B (3.03)
+"
+"Agarwal, Pooja","
+MATH 180A - Introduction to Probability (A)
+",WI22,109,"
+43
+","
+97.6%
+","
+92.9%
+","
+7.60
+","
+B (3.27)
+","
+B- (2.74)
+"
+"Schweinsberg, Jason","
+MATH 180A - Introduction to Probability (B)
+",WI22,142,"
+53
+","
+86.5%
+","
+80.8%
+","
+9.25
+","
+B (3.22)
+","
+B (3.05)
+"
+"Jekel, David Andrew","
+MATH 180A - Introduction to Probability (A)
+",FA21,146,"
+99
+","
+93.8%
+","
+95.9%
+","
+8.16
+","
+B+ (3.42)
+","
+B (3.03)
+"
+"Agarwal, Pooja","
+MATH 180A - Introduction to Probability (B)
+",FA21,174,"
+111
+","
+91.6%
+","
+87.7%
+","
+6.72
+","
+B (3.17)
+","
+B (3.01)
+"
+"McKinley, Gweneth Anne","
+MATH 180A - Introduction to Probability (C)
+",FA21,138,"
+109
+","
+89.6%
+","
+93.3%
+","
+7.43
+","
+B (3.28)
+","
+B- (2.94)
+"
+"Fulek, Radoslav","
+MATH 180A - Introduction to Probability (A)
+",SP21,135,"
+99
+","
+70.4%
+","
+52.0%
+","
+7.61
+","
+B (3.16)
+","
+B+ (3.33)
+"
+"Au, Benson C","
+MATH 180A - Introduction to Probability (A)
+",WI21,122,"
+95
+","
+67.4%
+","
+53.7%
+","
+8.82
+","
+B (3.06)
+","
+B (3.11)
+"
+"Nemish, Yuriy","
+MATH 180A - Introduction to Probability (B)
+",WI21,128,"
+105
+","
+64.4%
+","
+55.8%
+","
+8.60
+","
+B- (2.99)
+","
+B- (3.00)
+"
+"Meyer, David A.","
+MATH 180A - Introduction to Probability (A)
+",FA20,214,"
+87
+","
+86.9%
+","
+90.5%
+","
+7.92
+","
+B+ (3.38)
+","
+B (3.12)
+"
+"Nemish, Yuriy","
+MATH 180A - Introduction to Probability (B)
+",FA20,193,"
+171
+","
+65.3%
+","
+54.1%
+","
+9.34
+","
+B (3.09)
+","
+B- (2.82)
+"
+"Au, Benson C","
+MATH 180A - Introduction to Probability (C)
+",FA20,130,"
+120
+","
+76.7%
+","
+58.5%
+","
+8.62
+","
+B (3.02)
+","
+B (3.00)
+"
+"Meyer, David A.","
+MATH 180A - Introduction to Probability (A)
+",WI20,231,"
+87
+","
+75.0%
+","
+75.0%
+","
+8.08
+","
+B (3.07)
+","
+B (3.20)
+"
+"Nemish, Yuriy","
+MATH 180A - Introduction to Probability (A)
+",FA19,122,"
+61
+","
+73.3%
+","
+51.7%
+","
+8.77
+","
+B (3.00)
+","
+B- (2.89)
+"
+"Kemp, Todd Aahron","
+MATH 180A - Introduction to Probability (B)
+",FA19,167,"
+99
+","
+92.9%
+","
+95.9%
+","
+8.46
+","
+B (3.27)
+","
+B- (2.99)
+"
+"Au, Benson C","
+MATH 180A - Introduction to Probability (C)
+",FA19,139,"
+59
+","
+84.9%
+","
+72.5%
+","
+7.33
+","
+B (3.22)
+","
+B- (2.83)
+"
+"Aghajani, Mohammadreza","
+MATH 180A - Introduction to Probability (A)
+",WI19,251,"
+114
+","
+94.3%
+","
+93.3%
+","
+6.29
+","
+B+ (3.42)
+","
+B- (2.87)
+"
+"Au, Benson C","
+MATH 180A - Introduction to Probability (A)
+",FA18,126,"
+54
+","
+63.5%
+","
+56.9%
+","
+8.07
+","
+B (3.00)
+","
+B- (2.90)
+"
+"Zheng, Tianyi","
+MATH 180A - Introduction to Probability (B)
+",FA18,200,"
+77
+","
+64.4%
+","
+48.6%
+","
+7.28
+","
+B (3.13)
+","
+B (3.02)
+"
+"Zheng, Tianyi","
+MATH 180A - Introduction to Probability (C)
+",FA18,178,"
+73
+","
+58.7%
+","
+45.9%
+","
+7.56
+","
+B (3.21)
+","
+B (3.02)
+"
+"Aghajani, Mohammadreza","
+MATH 180A - Introduction to Probability (A)
+",WI18,252,"
+133
+","
+93.8%
+","
+88.3%
+","
+7.12
+","
+B (3.29)
+","
+B- (2.91)
+"
+"Zhang, Danna","
+MATH 180A - Introduction to Probability (A)
+",FA17,194,"
+77
+","
+85.9%
+","
+84.1%
+","
+6.87
+","
+B+ (3.47)
+","
+B (3.16)
+"
+"Schweinsberg, Jason","
+MATH 180A - Introduction to Probability (B)
+",FA17,302,"
+109
+","
+96.2%
+","
+94.2%
+","
+8.17
+","
+B+ (3.39)
+","
+B (3.03)
+"
+"Aghajani, Mohammadreza","
+MATH 180A - Introduction to Probability (C)
+",FA17,126,"
+48
+","
+88.6%
+","
+88.6%
+","
+7.27
+","
+B (3.23)
+","
+B- (2.89)
+"
+"Zheng, Tianyi","
+MATH 180A - Introduction to Probability (A)
+",WI17,197,"
+74
+","
+73.4%
+","
+40.6%
+","
+7.50
+","
+B- (2.97)
+","
+B (3.05)
+"
+"Schweinsberg, Jason","
+MATH 180A - Introduction to Probability (A)
+",FA16,305,"
+142
+","
+96.3%
+","
+97.0%
+","
+8.44
+","
+B+ (3.43)
+","
+B (3.05)
+"
+"Aghajani, Mohammadreza","
+MATH 180A - Introduction to Probability (B)
+",FA16,163,"
+62
+","
+86.4%
+","
+66.1%
+","
+7.44
+","
+B+ (3.35)
+","
+B- (2.72)
+"
+"Kemp, Todd Aahron","
+MATH 180A - Introduction to Probability (A)
+",WI16,132,"
+53
+","
+95.8%
+","
+85.4%
+","
+7.14
+","
+B (3.26)
+","
+B- (2.79)
+"
+"Meyer, David A.","
+MATH 180A - Introduction to Probability (A)
+",FA15,271,"
+115
+","
+90.0%
+","
+83.6%
+","
+6.31
+","
+B (3.20)
+","
+B- (2.87)
+"
+"Fitzsimmons, Patrick J","
+MATH 180A - Introduction to Probability (A)
+",WI15,89,"
+31
+","
+87.1%
+","
+80.6%
+","
+7.60
+","
+B (3.28)
+","
+B- (2.88)
+"
+"Schweinsberg, Jason","
+MATH 180A - Introduction to Probability (A)
+",FA14,150,"
+71
+","
+100.0%
+","
+100.0%
+","
+8.05
+","
+B+ (3.44)
+","
+B (3.06)
+"
+"Puha, Amber Lynn","
+MATH 180A - Introduction to Probability (A)
+",WI14,65,"
+33
+","
+81.3%
+","
+56.3%
+","
+7.38
+","
+B (3.03)
+","
+C+ (2.41)
+"
+"Schweinsberg, Jason","
+MATH 180A - Introduction to Probability (A)
+",FA13,137,"
+65
+","
+96.8%
+","
+98.4%
+","
+9.22
+","
+B+ (3.50)
+","
+B (3.03)
+"
+"Schweinsberg, Jason","
+MATH 180A - Introduction to Probability (A)
+",WI13,81,"
+47
+","
+97.9%
+","
+100.0%
+","
+7.63
+","
+B+ (3.38)
+","
+B- (2.87)
+"
+"Fitzsimmons, Patrick J","
+MATH 180A - Introduction to Probability (A)
+",FA12,121,"
+45
+","
+92.5%
+","
+87.5%
+","
+6.40
+","
+B+ (3.60)
+","
+B- (2.87)
+"

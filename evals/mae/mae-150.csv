@@ -1,0 +1,751 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Friend, James Robert","
+MAE 150 - Computational Methods/Design (A)
+",SP23,49,"
+46
+","
+84.8%
+","
+95.7%
+","
+8.37
+","
+B (3.07)
+","
+B- (2.71)
+"
+"Gravish, Nicholas G","
+MAE 150 - Computational Methods/Design (A)
+",WI23,35,"
+22
+","
+100.0%
+","
+100.0%
+","
+8.30
+","
+B+ (3.42)
+","
+B- (2.85)
+"
+"Orosco, Jeremy Richard","
+MAE 150 - Computer-Aided Design (A)
+",FA22,79,"
+67
+","
+82.1%
+","
+83.6%
+","
+9.25
+","
+B (3.19)
+","
+B (3.28)
+"
+"Ghazinejad, Maziar","
+MAE 150 - Computer-Aided Design (D)
+",FA22,82,"
+56
+","
+96.4%
+","
+100.0%
+","
+6.32
+","
+B+ (3.60)
+","
+B+ (3.33)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Design (A)
+",SP22,40,"
+34
+","
+82.4%
+","
+66.7%
+","
+9.97
+","
+B (3.00)
+","
+C+ (2.62)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Design (A)
+",WI22,30,"
+24
+","
+83.3%
+","
+83.3%
+","
+10.58
+","
+B (3.29)
+","
+B- (2.78)
+"
+"Ghazinejad, Maziar","
+MAE 150 - Computer-Aided Design (A)
+",FA21,93,"
+83
+","
+96.3%
+","
+100.0%
+","
+6.62
+","
+B+ (3.63)
+","
+B (3.26)
+"
+"Gravish, Nicholas G","
+MAE 150 - Computer-Aided Design (B)
+",FA21,37,"
+16
+","
+93.8%
+","
+93.8%
+","
+8.00
+","
+B (3.07)
+","
+B- (2.94)
+"
+"Phan, Alex Minh Giang","
+MAE 150 - Computer-Aided Design (A)
+",S121,18,"
+13
+","
+92.3%
+","
+92.3%
+","
+11.27
+","
+B+ (3.54)
+","
+N/A
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Design (A)
+",SP21,33,"
+23
+","
+87.0%
+","
+82.6%
+","
+9.63
+","
+B+ (3.55)
+","
+B- (2.92)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Design (A)
+",WI21,32,"
+32
+","
+96.9%
+","
+100.0%
+","
+10.00
+","
+B (3.00)
+","
+B (3.17)
+"
+"Gravish, Nicholas G","
+MAE 150 - Computer-Aided Design (A)
+",FA20,82,"
+38
+","
+97.4%
+","
+97.4%
+","
+11.08
+","
+B (3.26)
+","
+B- (2.95)
+"
+"Ghazinejad, Maziar","
+MAE 150 - Computer-Aided Design (B)
+",FA20,100,"
+70
+","
+90.0%
+","
+90.0%
+","
+7.96
+","
+B (3.29)
+","
+B+ (3.40)
+"
+"Phan, Alex Minh Giang","
+MAE 150 - Computer-Aided Design (B)
+",S120,32,"
+18
+","
+88.9%
+","
+94.4%
+","
+11.17
+","
+B (3.11)
+","
+B- (2.76)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Design (A)
+",SP20,62,"
+40
+","
+84.6%
+","
+78.9%
+","
+11.83
+","
+B+ (3.60)
+","
+B+ (3.64)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Design (A)
+",WI20,57,"
+54
+","
+96.3%
+","
+100.0%
+","
+10.17
+","
+B+ (3.35)
+","
+B- (2.90)
+"
+"Tolley, Michael Thomas","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA19,117,"
+47
+","
+78.3%
+","
+78.3%
+","
+8.33
+","
+B+ (3.37)
+","
+B (3.01)
+"
+"Ghazinejad, Maziar","
+MAE 150 - Computer-Aided Analysis&Design (B)
+",FA19,66,"
+47
+","
+93.6%
+","
+100.0%
+","
+7.27
+","
+B+ (3.40)
+","
+B (3.00)
+"
+"Lubarda, Marko","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",S119,36,"
+15
+","
+93.3%
+","
+86.7%
+","
+10.10
+","
+B- (2.87)
+","
+B- (2.97)
+"
+"Tolley, Michael Thomas","
+MAE 150 - Computer-Aided Analysis&Design (B)
+",SP19,66,"
+25
+","
+91.3%
+","
+87.0%
+","
+10.07
+","
+B+ (3.48)
+","
+B- (2.92)
+"
+"Gravish, Nicholas G","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI19,30,"
+15
+","
+93.3%
+","
+100.0%
+","
+8.77
+","
+B (3.23)
+","
+C+ (2.66)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA18,125,"
+48
+","
+75.0%
+","
+70.2%
+","
+10.21
+","
+B (3.26)
+","
+B- (2.71)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Analysis&Design (B)
+",FA18,48,"
+46
+","
+89.1%
+","
+100.0%
+","
+7.98
+","
+B+ (3.52)
+","
+B- (2.97)
+"
+"Tolley, Michael Thomas","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP18,47,"
+25
+","
+100.0%
+","
+100.0%
+","
+8.68
+","
+B+ (3.65)
+","
+B (3.05)
+"
+"Gravish, Nicholas G","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI18,38,"
+24
+","
+100.0%
+","
+100.0%
+","
+7.75
+","
+B+ (3.38)
+","
+B (3.12)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA17,183,"
+53
+","
+87.5%
+","
+95.8%
+","
+7.64
+","
+B (3.23)
+","
+B (3.02)
+"
+"Tolley, Michael Thomas","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP17,67,"
+27
+","
+96.0%
+","
+100.0%
+","
+8.58
+","
+B+ (3.35)
+","
+B (3.10)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI17,48,"
+28
+","
+89.3%
+","
+89.3%
+","
+9.81
+","
+B (3.30)
+","
+C+ (2.68)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA16,173,"
+52
+","
+86.3%
+","
+94.1%
+","
+10.70
+","
+B+ (3.46)
+","
+B- (2.97)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP16,28,"
+12
+","
+90.9%
+","
+90.9%
+","
+11.05
+","
+B- (2.89)
+","
+C+ (2.68)
+"
+"Tolley, Michael Thomas","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI16,63,"
+29
+","
+89.3%
+","
+92.9%
+","
+10.57
+","
+B+ (3.48)
+","
+B- (2.96)
+"
+"Friend, James Robert","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA15,125,"
+44
+","
+83.3%
+","
+90.5%
+","
+8.26
+","
+B (3.24)
+","
+B- (2.74)
+"
+"Jayson, Eric","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP15,60,"
+7
+","
+100.0%
+","
+100.0%
+","
+10.50
+","
+B (3.29)
+","
+B- (2.86)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (B)
+",WI15,47,"
+14
+","
+100.0%
+","
+92.3%
+","
+10.35
+","
+B+ (3.33)
+","
+C+ (2.60)
+"
+"Jayson, Eric","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA14,123,"
+29
+","
+89.3%
+","
+92.9%
+","
+9.54
+","
+B+ (3.44)
+","
+B- (2.90)
+"
+"Jayson, Eric","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP14,39,"
+12
+","
+100.0%
+","
+100.0%
+","
+9.41
+","
+B+ (3.42)
+","
+B- (2.81)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI14,52,"
+24
+","
+91.3%
+","
+91.3%
+","
+11.72
+","
+B (3.14)
+","
+C+ (2.57)
+"
+"Jayson, Eric","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA13,121,"
+46
+","
+93.2%
+","
+93.2%
+","
+8.79
+","
+B+ (3.43)
+","
+B- (2.80)
+"
+"Jayson, Eric","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP13,71,"
+20
+","
+90.0%
+","
+85.0%
+","
+11.45
+","
+B (3.26)
+","
+B- (2.85)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI13,100,"
+37
+","
+94.6%
+","
+89.2%
+","
+9.56
+","
+B+ (3.33)
+","
+C+ (2.56)
+"
+"Jayson, Eric","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA12,132,"
+55
+","
+94.4%
+","
+90.7%
+","
+10.24
+","
+B+ (3.38)
+","
+B- (2.83)
+"
+"Jayson, Eric                       ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA10,134,"
+66
+","
+84.6%
+","
+90.8%
+","
+9.69
+","
+B+ (3.33)
+","
+B- (2.87)
+"
+"Talke, Frank E                     ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI10,114,"
+39
+","
+74.4%
+","
+28.2%
+","
+11.58
+","
+B (3.13)
+","
+C (2.27)
+"
+"Jayson, Eric                       ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA09,126,"
+83
+","
+92.5%
+","
+97.5%
+","
+9.94
+","
+B+ (3.30)
+","
+B- (2.75)
+"
+"Jayson, Eric                       ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP09,61,"
+28
+","
+100.0%
+","
+92.9%
+","
+10.57
+","
+B (3.27)
+","
+B- (2.70)
+"
+"Talke, Frank E","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI09,113,"
+45
+","
+95.6%
+","
+91.1%
+","
+8.06
+","
+B+ (3.45)
+","
+C+ (2.46)
+"
+"Jayson, Eric                       ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA08,130,"
+89
+","
+95.5%
+","
+100.0%
+","
+8.48
+","
+B+ (3.66)
+","
+B- (2.78)
+"
+"Kerckhoffs, Roy               ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",SP08,69,"
+33
+","
+84.4%
+","
+84.4%
+","
+8.26
+","
+B (3.17)
+","
+B- (2.84)
+"
+"Jayson, Eric                  ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",WI08,120,"
+63
+","
+83.9%
+","
+93.5%
+","
+8.95
+","
+B+ (3.34)
+","
+B- (2.77)
+"
+"Talke, Frank E                ","
+MAE 150 - Computer-Aided Analysis&Design (A)
+",FA07,120,"
+75
+","
+90.4%
+","
+80.6%
+","
+11.03
+","
+B (3.28)
+","
+C+ (2.61)
+"

@@ -1,0 +1,511 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Li, Shaowei","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP23,102,"
+41
+","
+66.7%
+","
+69.4%
+","
+10.56
+","
+B (3.24)
+","
+B+ (3.35)
+"
+"Slade, Jonathan","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI23,143,"
+72
+","
+84.5%
+","
+84.5%
+","
+7.74
+","
+B+ (3.34)
+","
+B+ (3.64)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA22,140,"
+59
+","
+84.7%
+","
+93.2%
+","
+8.81
+","
+B (3.17)
+","
+B (3.20)
+"
+"Li, Shaowei","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP22,106,"
+36
+","
+88.2%
+","
+91.2%
+","
+9.56
+","
+B (3.29)
+","
+B (3.10)
+"
+"Slade, Jonathan","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI22,152,"
+76
+","
+92.0%
+","
+93.3%
+","
+8.69
+","
+B+ (3.41)
+","
+B+ (3.41)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA21,153,"
+81
+","
+93.4%
+","
+94.7%
+","
+8.50
+","
+B (3.09)
+","
+B- (3.00)
+"
+"Li, Shaowei","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP21,97,"
+36
+","
+68.6%
+","
+71.4%
+","
+10.78
+","
+B+ (3.38)
+","
+B+ (3.33)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI21,149,"
+74
+","
+84.7%
+","
+83.1%
+","
+10.69
+","
+B+ (3.49)
+","
+B (3.12)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA20,165,"
+71
+","
+79.7%
+","
+89.9%
+","
+9.22
+","
+B+ (3.39)
+","
+B (3.30)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP20,65,"
+19
+","
+94.4%
+","
+100.0%
+","
+9.83
+","
+B+ (3.69)
+","
+B+ (3.59)
+"
+"Slade, Jonathan","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI20,143,"
+86
+","
+86.6%
+","
+92.6%
+","
+7.73
+","
+B+ (3.48)
+","
+B+ (3.64)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA19,140,"
+62
+","
+96.4%
+","
+94.4%
+","
+7.94
+","
+B (3.27)
+","
+B (3.04)
+"
+"Slade, Jonathan","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP19,94,"
+42
+","
+81.0%
+","
+97.6%
+","
+8.50
+","
+B (3.26)
+","
+B+ (3.45)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI19,130,"
+52
+","
+81.6%
+","
+87.0%
+","
+8.85
+","
+B (3.25)
+","
+B (3.18)
+"
+"Leigh, Brian","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA18,142,"
+60
+","
+84.5%
+","
+93.1%
+","
+10.30
+","
+B (3.14)
+","
+B (3.05)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP18,87,"
+40
+","
+80.6%
+","
+97.1%
+","
+9.94
+","
+B (3.22)
+","
+B (3.04)
+"
+"Pena, Ignacio Lopez","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI18,81,"
+52
+","
+26.0%
+","
+24.5%
+","
+12.38
+","
+B (3.20)
+","
+B- (2.84)
+"
+"Pena, Ignacio Lopez","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA17,94,"
+43
+","
+41.9%
+","
+60.5%
+","
+11.12
+","
+B- (2.98)
+","
+B- (2.81)
+"
+"Tauber, Michael","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP17,82,"
+39
+","
+56.8%
+","
+59.5%
+","
+11.42
+","
+B (3.19)
+","
+B- (2.95)
+"
+"Tauber, Michael","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI17,86,"
+48
+","
+46.7%
+","
+48.9%
+","
+9.30
+","
+B (3.02)
+","
+B- (2.92)
+"
+"Shaheen, Robina","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA16,95,"
+53
+","
+64.6%
+","
+12.5%
+","
+8.12
+","
+B (3.17)
+","
+B (3.18)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP16,80,"
+41
+","
+69.2%
+","
+89.7%
+","
+7.83
+","
+B (3.03)
+","
+B- (2.80)
+"
+"Tauber, Michael","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI16,57,"
+28
+","
+67.9%
+","
+64.3%
+","
+8.29
+","
+B (3.04)
+","
+B- (2.83)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA15,121,"
+60
+","
+75.9%
+","
+81.0%
+","
+7.64
+","
+B (3.26)
+","
+B- (3.00)
+"
+"Leigh, Brian","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP15,62,"
+28
+","
+83.3%
+","
+83.3%
+","
+7.28
+","
+B (3.05)
+","
+B- (2.79)
+"
+"Tauber, Michael","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI15,45,"
+25
+","
+68.2%
+","
+45.5%
+","
+9.55
+","
+B- (2.76)
+","
+B- (2.78)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA14,88,"
+36
+","
+84.8%
+","
+87.9%
+","
+8.94
+","
+B (3.19)
+","
+B- (2.80)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",S114,18,"
+6
+","
+100.0%
+","
+100.0%
+","
+14.10
+","
+B+ (3.40)
+","
+N/A
+"
+"Martz, Todd R.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP14,73,"
+32
+","
+71.4%
+","
+78.6%
+","
+7.14
+","
+B+ (3.50)
+","
+B+ (3.31)
+"
+"Lingner, David W","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI14,77,"
+37
+","
+71.4%
+","
+34.3%
+","
+7.01
+","
+B (3.03)
+","
+B- (2.94)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA13,117,"
+50
+","
+69.4%
+","
+85.7%
+","
+7.31
+","
+B+ (3.42)
+","
+B (3.18)
+"
+"Williams, Renee T","
+CHEM 100A - Analytical Chemistry Lab (A)
+",SP13,97,"
+44
+","
+61.4%
+","
+25.0%
+","
+9.95
+","
+B (3.19)
+","
+B (3.24)
+"
+"Williams, Renee T","
+CHEM 100A - Analytical Chemistry Lab (A)
+",WI13,108,"
+62
+","
+49.2%
+","
+28.8%
+","
+8.64
+","
+B (3.08)
+","
+B- (2.78)
+"
+"Pomeroy, Robert S.","
+CHEM 100A - Analytical Chemistry Lab (A)
+",FA12,91,"
+44
+","
+71.4%
+","
+83.3%
+","
+7.64
+","
+B (3.15)
+","
+B (3.15)
+"

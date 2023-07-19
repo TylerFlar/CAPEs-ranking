@@ -1,0 +1,1366 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP23,469,"
+157
+","
+92.2%
+","
+94.8%
+","
+8.80
+","
+B+ (3.43)
+","
+B+ (3.43)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI23,425,"
+169
+","
+86.7%
+","
+88.3%
+","
+12.24
+","
+B (3.10)
+","
+B (3.08)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA22,377,"
+107
+","
+78.0%
+","
+98.0%
+","
+9.72
+","
+B (3.14)
+","
+B (3.22)
+"
+"Saha, Barna","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA22,377,"
+107
+","
+78.0%
+","
+69.7%
+","
+9.72
+","
+B (3.14)
+","
+B (3.22)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S222,48,"
+27
+","
+96.0%
+","
+95.8%
+","
+11.39
+","
+A- (3.74)
+","
+A- (3.72)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP22,190,"
+92
+","
+90.1%
+","
+96.7%
+","
+9.23
+","
+B (3.28)
+","
+B (3.27)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP22,189,"
+86
+","
+85.5%
+","
+73.5%
+","
+8.50
+","
+B+ (3.35)
+","
+B (3.20)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI22,160,"
+58
+","
+89.1%
+","
+92.7%
+","
+12.09
+","
+B (3.26)
+","
+B (3.11)
+"
+"Saha, Barna","
+CSE 101 - Design & Analysis of Algorithm (B)
+",WI22,130,"
+40
+","
+82.5%
+","
+82.5%
+","
+8.55
+","
+B (3.10)
+","
+B+ (3.46)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA21,382,"
+174
+","
+87.6%
+","
+88.2%
+","
+9.26
+","
+B (3.12)
+","
+B (3.11)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S221,30,"
+24
+","
+100.0%
+","
+91.7%
+","
+11.54
+","
+B (3.29)
+","
+B (3.01)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S121,39,"
+35
+","
+97.1%
+","
+94.3%
+","
+12.39
+","
+B+ (3.35)
+","
+B (3.27)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP21,186,"
+85
+","
+91.7%
+","
+96.4%
+","
+9.89
+","
+B+ (3.52)
+","
+B+ (3.55)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP21,152,"
+44
+","
+90.5%
+","
+85.7%
+","
+9.88
+","
+B (3.24)
+","
+B+ (3.42)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (C)
+",SP21,155,"
+49
+","
+83.3%
+","
+79.2%
+","
+9.80
+","
+B (3.28)
+","
+B+ (3.47)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI21,170,"
+56
+","
+96.4%
+","
+94.6%
+","
+8.71
+","
+B+ (3.69)
+","
+B+ (3.35)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",WI21,208,"
+78
+","
+93.4%
+","
+96.1%
+","
+8.37
+","
+B+ (3.57)
+","
+B+ (3.45)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA20,389,"
+119
+","
+95.7%
+","
+94.9%
+","
+9.58
+","
+B+ (3.54)
+","
+B+ (3.53)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S220,32,"
+11
+","
+100.0%
+","
+100.0%
+","
+11.77
+","
+B (3.09)
+","
+B (3.04)
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (B)
+",S220,15,"
+5
+","
+100.0%
+","
+100.0%
+","
+11.30
+","
+B (3.20)
+","
+N/A
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S120,72,"
+11
+","
+90.9%
+","
+90.9%
+","
+9.70
+","
+B+ (3.60)
+","
+A- (3.75)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP20,246,"
+86
+","
+92.7%
+","
+98.8%
+","
+9.40
+","
+B+ (3.46)
+","
+B+ (3.64)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP20,143,"
+32
+","
+80.0%
+","
+66.7%
+","
+8.84
+","
+B+ (3.41)
+","
+A- (3.71)
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (C)
+",SP20,86,"
+30
+","
+96.7%
+","
+80.0%
+","
+8.63
+","
+B+ (3.50)
+","
+B+ (3.63)
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI20,212,"
+107
+","
+67.0%
+","
+32.4%
+","
+9.92
+","
+C+ (2.62)
+","
+B (3.25)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA19,85,"
+21
+","
+90.0%
+","
+95.0%
+","
+10.30
+","
+B (3.05)
+","
+B- (2.80)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",FA19,169,"
+59
+","
+94.7%
+","
+98.2%
+","
+9.34
+","
+B+ (3.39)
+","
+B- (2.91)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (C)
+",FA19,127,"
+63
+","
+93.4%
+","
+98.4%
+","
+12.99
+","
+B (3.20)
+","
+B (3.11)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S219,37,"
+28
+","
+100.0%
+","
+96.3%
+","
+8.72
+","
+B (3.27)
+","
+B (3.17)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP19,151,"
+59
+","
+85.7%
+","
+66.1%
+","
+8.43
+","
+B (3.06)
+","
+B- (2.95)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP19,150,"
+34
+","
+74.2%
+","
+87.1%
+","
+8.89
+","
+B- (2.84)
+","
+B- (2.77)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (C)
+",SP19,150,"
+54
+","
+84.3%
+","
+82.4%
+","
+9.46
+","
+B- (2.82)
+","
+B- (2.77)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI19,173,"
+73
+","
+92.6%
+","
+94.1%
+","
+8.47
+","
+B (3.23)
+","
+B- (2.97)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",WI19,176,"
+60
+","
+96.6%
+","
+89.7%
+","
+8.91
+","
+B+ (3.42)
+","
+B- (2.97)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA18,148,"
+67
+","
+93.8%
+","
+95.2%
+","
+12.31
+","
+B (3.11)
+","
+B (3.16)
+"
+"Ochoa, Benjamin Lawrence","
+CSE 101 - Design & Analysis of Algorithm (B)
+",FA18,186,"
+50
+","
+87.0%
+","
+78.3%
+","
+7.99
+","
+B (3.23)
+","
+C+ (2.59)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S218,39,"
+32
+","
+93.5%
+","
+93.5%
+","
+7.15
+","
+B+ (3.42)
+","
+B- (2.80)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP18,167,"
+49
+","
+82.2%
+","
+88.6%
+","
+8.76
+","
+B (3.13)
+","
+B- (2.89)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP18,141,"
+49
+","
+83.0%
+","
+80.9%
+","
+11.46
+","
+B (3.17)
+","
+B (3.12)
+"
+"Kahng, Andrew Byun","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI18,254,"
+118
+","
+78.8%
+","
+67.9%
+","
+11.92
+","
+B- (2.83)
+","
+B- (2.90)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA17,136,"
+53
+","
+94.0%
+","
+58.3%
+","
+9.50
+","
+B+ (3.45)
+","
+B (3.17)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",FA17,165,"
+70
+","
+95.4%
+","
+89.2%
+","
+8.26
+","
+B+ (3.46)
+","
+B (3.26)
+"
+"Braun, Oliver","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S217,48,"
+48
+","
+97.9%
+","
+97.9%
+","
+7.63
+","
+B+ (3.61)
+","
+N/A
+"
+"Paturi, Ramamohan","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S117,37,"
+8
+","
+100.0%
+","
+100.0%
+","
+10.00
+","
+B (3.13)
+","
+B- (2.92)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP17,229,"
+102
+","
+84.2%
+","
+89.5%
+","
+8.76
+","
+B (3.10)
+","
+B (3.20)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP17,77,"
+31
+","
+90.3%
+","
+54.8%
+","
+7.63
+","
+B+ (3.38)
+","
+B (3.21)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (C)
+",SP17,92,"
+49
+","
+93.5%
+","
+87.0%
+","
+9.54
+","
+B (3.23)
+","
+B (3.29)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI17,165,"
+76
+","
+95.6%
+","
+92.6%
+","
+6.44
+","
+B+ (3.48)
+","
+B+ (3.49)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",WI17,186,"
+80
+","
+94.7%
+","
+96.0%
+","
+6.36
+","
+B+ (3.49)
+","
+B+ (3.49)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA16,148,"
+54
+","
+88.2%
+","
+86.3%
+","
+7.64
+","
+B (3.14)
+","
+B+ (3.39)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",FA16,145,"
+75
+","
+91.7%
+","
+97.2%
+","
+7.88
+","
+B (3.13)
+","
+B+ (3.39)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (C)
+",FA16,109,"
+60
+","
+96.6%
+","
+93.2%
+","
+7.92
+","
+B (3.27)
+","
+B+ (3.39)
+"
+"Paturi, Ramamohan","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S116,43,"
+16
+","
+100.0%
+","
+93.8%
+","
+10.88
+","
+B (3.19)
+","
+B- (2.84)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP16,53,"
+33
+","
+90.6%
+","
+90.6%
+","
+8.70
+","
+B (3.21)
+","
+B (3.13)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP16,196,"
+71
+","
+94.1%
+","
+82.4%
+","
+7.17
+","
+B (3.21)
+","
+B (3.17)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (C)
+",SP16,196,"
+78
+","
+83.1%
+","
+85.9%
+","
+7.18
+","
+B (3.17)
+","
+B (3.15)
+"
+"Kahng, Andrew Byun","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI16,126,"
+58
+","
+86.8%
+","
+77.4%
+","
+12.12
+","
+B (3.11)
+","
+B- (2.95)
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (B)
+",WI16,139,"
+72
+","
+91.4%
+","
+75.7%
+","
+7.68
+","
+B+ (3.45)
+","
+B- (2.95)
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (C)
+",WI16,50,"
+23
+","
+85.0%
+","
+65.0%
+","
+7.80
+","
+B- (2.88)
+","
+B- (2.95)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA15,175,"
+70
+","
+98.5%
+","
+97.1%
+","
+7.27
+","
+B+ (3.39)
+","
+B (3.07)
+"
+"Jaiswal, Ragesh","
+CSE 101 - Design & Analysis of Algorithm (B)
+",FA15,110,"
+53
+","
+90.0%
+","
+40.0%
+","
+6.74
+","
+B- (2.73)
+","
+B- (2.95)
+"
+"Jones, Miles E","
+CSE 101 - Design & Analysis of Algorithm (C)
+",FA15,136,"
+65
+","
+92.1%
+","
+96.8%
+","
+6.50
+","
+B+ (3.48)
+","
+B+ (3.41)
+"
+"Paturi, Ramamohan","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S115,35,"
+11
+","
+100.0%
+","
+72.7%
+","
+9.41
+","
+B+ (3.30)
+","
+B+ (3.51)
+"
+"Glick, John H","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP15,138,"
+60
+","
+82.1%
+","
+82.1%
+","
+7.69
+","
+B (3.08)
+","
+B (3.04)
+"
+"Glick, John H","
+CSE 101 - Design & Analysis of Algorithm (B)
+",SP15,139,"
+54
+","
+94.4%
+","
+90.7%
+","
+8.65
+","
+B+ (3.48)
+","
+B (3.04)
+"
+"Kulikov, Alexander","
+CSE 101 - Design & Analysis of Algorithm (C)
+",SP15,80,"
+37
+","
+85.7%
+","
+77.1%
+","
+11.56
+","
+B (3.26)
+","
+B- (2.95)
+"
+"Kane, Daniel Mertz","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI15,159,"
+68
+","
+89.2%
+","
+76.9%
+","
+9.97
+","
+B (3.12)
+","
+B (3.19)
+"
+"Kahng, Andrew Byun","
+CSE 101 - Design & Analysis of Algorithm (B)
+",WI15,137,"
+40
+","
+87.5%
+","
+77.5%
+","
+9.30
+","
+B- (2.98)
+","
+B+ (3.41)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA14,265,"
+120
+","
+92.8%
+","
+95.5%
+","
+7.78
+","
+B (3.04)
+","
+B- (2.95)
+"
+"Paturi, Ramamohan","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S114,39,"
+6
+","
+100.0%
+","
+100.0%
+","
+9.30
+","
+B (3.00)
+","
+B (3.17)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP14,148,"
+40
+","
+87.5%
+","
+57.5%
+","
+7.34
+","
+B (3.23)
+","
+B+ (3.54)
+"
+"Kahng, Andrew Byun","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI14,136,"
+59
+","
+84.5%
+","
+60.3%
+","
+10.15
+","
+B (3.10)
+","
+B- (2.92)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA13,175,"
+72
+","
+93.8%
+","
+98.5%
+","
+7.71
+","
+B (3.05)
+","
+B- (2.90)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (B)
+",FA13,187,"
+66
+","
+95.1%
+","
+100.0%
+","
+6.73
+","
+B (3.20)
+","
+B- (2.90)
+"
+"Paturi, Ramamohan","
+CSE 101 - Design & Analysis of Algorithm (A)
+",S113,31,"
+8
+","
+100.0%
+","
+100.0%
+","
+9.25
+","
+B (3.13)
+","
+B+ (3.32)
+"
+"Impagliazzo, Russell","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP13,102,"
+34
+","
+87.9%
+","
+75.8%
+","
+9.17
+","
+B+ (3.31)
+","
+B (3.28)
+"
+"Kahng, Andrew Byun","
+CSE 101 - Design & Analysis of Algorithm (C)
+",WI13,154,"
+56
+","
+79.6%
+","
+83.3%
+","
+9.77
+","
+B (3.16)
+","
+B- (2.87)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA12,184,"
+83
+","
+92.3%
+","
+100.0%
+","
+9.02
+","
+B (3.00)
+","
+B- (2.81)
+"
+"Freund, Yoav                       ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA10,119,"
+57
+","
+82.5%
+","
+40.4%
+","
+6.54
+","
+B (3.04)
+","
+B (3.27)
+"
+"Paturi, Ramamohan                  ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SU10,65,"
+21
+","
+95.0%
+","
+85.0%
+","
+7.70
+","
+B (3.10)
+","
+N/A
+"
+"Paturi, Ramamohan                  ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI10,79,"
+38
+","
+89.5%
+","
+65.8%
+","
+6.45
+","
+B (3.30)
+","
+B (3.12)
+"
+"Freund, Yoav                       ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA09,68,"
+37
+","
+75.0%
+","
+52.8%
+","
+6.28
+","
+B (3.22)
+","
+B (3.05)
+"
+"Paturi, Ramamohan                  ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SU09,19,"
+5
+","
+80.0%
+","
+60.0%
+","
+6.90
+","
+B (3.20)
+","
+N/A
+"
+"Impagliazzo, Russell               ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP09,38,"
+27
+","
+74.1%
+","
+66.7%
+","
+6.65
+","
+B (3.13)
+","
+C+ (2.60)
+"
+"Dasgupta, Sanjoy","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI09,66,"
+26
+","
+84.6%
+","
+96.2%
+","
+8.74
+","
+B (3.08)
+","
+B- (2.86)
+"
+"Kahng, Andrew Byun                 ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA08,58,"
+29
+","
+85.2%
+","
+60.7%
+","
+7.74
+","
+B (3.04)
+","
+B- (2.72)
+"
+"Paturi, Ramamohan                  ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SU08,17,"
+16
+","
+87.5%
+","
+93.8%
+","
+7.38
+","
+B (3.00)
+","
+N/A
+"
+"Burkhard, Walter A.           ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SP08,53,"
+36
+","
+80.0%
+","
+38.9%
+","
+6.33
+","
+B (3.19)
+","
+B- (2.90)
+"
+"Kahng, Andrew Byun            ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",WI08,39,"
+28
+","
+78.6%
+","
+78.6%
+","
+8.36
+","
+B- (2.96)
+","
+B- (2.94)
+"
+"Dasgupta, Sanjoy              ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",FA07,58,"
+48
+","
+72.9%
+","
+93.8%
+","
+9.71
+","
+B (3.27)
+","
+B- (2.91)
+"
+"Paturi, Ramamohan             ","
+CSE 101 - Design & Analysis of Algorithm (A)
+",SU07,23,"
+16
+","
+93.8%
+","
+93.8%
+","
+9.17
+","
+B+ (3.33)
+","
+N/A
+"

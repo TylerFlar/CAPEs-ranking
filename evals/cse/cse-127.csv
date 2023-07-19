@@ -1,0 +1,511 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Fernandes, Earlence T","
+CSE 127 - Intro to Computer Security (A)
+",SP23,182,"
+47
+","
+83.7%
+","
+76.7%
+","
+8.78
+","
+B (3.22)
+","
+B (3.29)
+"
+"Heninger, Nadia A","
+CSE 127 - Intro to Computer Security (A)
+",WI23,176,"
+60
+","
+89.5%
+","
+86.0%
+","
+9.36
+","
+B+ (3.33)
+","
+B (3.28)
+"
+"Savage, Stefan","
+CSE 127 - Intro to Computer Security (A)
+",FA22,185,"
+48
+","
+97.9%
+","
+100.0%
+","
+7.65
+","
+B+ (3.32)
+","
+B (3.08)
+"
+"Obaido, George Rabeshi","
+CSE 127 - Intro to Computer Security (A)
+",SP22,188,"
+145
+","
+91.7%
+","
+67.4%
+","
+8.07
+","
+B+ (3.64)
+","
+A- (3.79)
+"
+"Heninger, Nadia A","
+CSE 127 - Intro to Computer Security (A)
+",WI22,186,"
+62
+","
+86.9%
+","
+80.3%
+","
+10.03
+","
+B (3.11)
+","
+B (3.05)
+"
+"Stefan, Deian","
+CSE 127 - Intro to Computer Security (A)
+",FA21,173,"
+48
+","
+84.8%
+","
+80.0%
+","
+9.86
+","
+B+ (3.37)
+","
+B (3.21)
+"
+"Savage, Stefan","
+CSE 127 - Intro to Computer Security (A)
+",SP21,183,"
+73
+","
+97.1%
+","
+98.5%
+","
+8.65
+","
+B+ (3.58)
+","
+B+ (3.40)
+"
+"Heninger, Nadia A","
+CSE 127 - Intro to Computer Security (A)
+",WI21,168,"
+56
+","
+94.4%
+","
+86.8%
+","
+9.17
+","
+A- (3.73)
+","
+B+ (3.49)
+"
+"Stefan, Deian","
+CSE 127 - Intro to Computer Security (A)
+",FA20,153,"
+42
+","
+97.6%
+","
+90.2%
+","
+8.99
+","
+A- (3.83)
+","
+B+ (3.64)
+"
+"Savage, Stefan","
+CSE 127 - Intro to Computer Security (A)
+",SP20,206,"
+55
+","
+100.0%
+","
+100.0%
+","
+6.72
+","
+A- (3.74)
+","
+B+ (3.55)
+"
+"Stefan, Deian","
+CSE 127 - Intro to Computer Security (A)
+",WI20,140,"
+38
+","
+97.3%
+","
+97.3%
+","
+9.80
+","
+B+ (3.54)
+","
+B+ (3.54)
+"
+"Heninger, Nadia A","
+CSE 127 - Intro to Computer Security (A)
+",FA19,41,"
+10
+","
+100.0%
+","
+85.7%
+","
+9.64
+","
+B+ (3.57)
+","
+B+ (3.68)
+"
+"Stefan, Deian","
+CSE 127 - Intro to Computer Security (B)
+",FA19,51,"
+21
+","
+95.2%
+","
+85.7%
+","
+9.45
+","
+B (3.11)
+","
+B (3.07)
+"
+"Savage, Stefan","
+CSE 127 - Intro to Computer Security (A)
+",SP19,220,"
+53
+","
+95.9%
+","
+98.0%
+","
+8.26
+","
+B+ (3.38)
+","
+B- (2.96)
+"
+"Stefan, Deian","
+CSE 127 - Intro to Computer Security (A)
+",WI19,132,"
+34
+","
+83.9%
+","
+80.6%
+","
+6.90
+","
+B (3.28)
+","
+B+ (3.50)
+"
+"Savage, Stefan","
+CSE 127 - Intro to Computer Security (A)
+",FA18,168,"
+53
+","
+91.7%
+","
+91.7%
+","
+9.15
+","
+B (3.24)
+","
+B (3.07)
+"
+"Savage, Stefan","
+CSE 127 - Intro to Computer Security (A)
+",SP18,170,"
+68
+","
+100.0%
+","
+100.0%
+","
+7.78
+","
+B (3.29)
+","
+B- (2.93)
+"
+"Gantman, Alexander","
+CSE 127 - Intro to Computer Security (B)
+",SP18,45,"
+10
+","
+100.0%
+","
+80.0%
+","
+8.70
+","
+B (3.00)
+","
+B- (2.80)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (A)
+",WI18,55,"
+24
+","
+95.7%
+","
+95.7%
+","
+12.67
+","
+B (3.00)
+","
+B- (2.79)
+"
+"Levchenko, Kirill I.","
+CSE 127 - Intro to Computer Security (B)
+",FA17,99,"
+37
+","
+91.4%
+","
+62.9%
+","
+13.13
+","
+B- (2.77)
+","
+B- (2.82)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (A)
+",SP17,71,"
+26
+","
+95.8%
+","
+95.8%
+","
+11.83
+","
+B- (2.77)
+","
+B- (2.77)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (B)
+",FA16,48,"
+16
+","
+93.3%
+","
+86.7%
+","
+11.97
+","
+C+ (2.40)
+","
+B- (2.91)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (A)
+",SP16,58,"
+25
+","
+95.7%
+","
+95.7%
+","
+11.05
+","
+B (3.10)
+","
+B- (2.95)
+"
+"Savage, Stefan Roberts","
+CSE 127 - Intro to Computer Security (A)
+",FA15,152,"
+54
+","
+96.2%
+","
+94.3%
+","
+5.78
+","
+B (3.06)
+","
+B- (2.82)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (A)
+",SP15,94,"
+31
+","
+93.5%
+","
+96.8%
+","
+10.90
+","
+B- (2.97)
+","
+C (2.02)
+"
+"Levchenko, Kirill I.","
+CSE 127 - Intro to Computer Security (A)
+",FA14,87,"
+46
+","
+78.6%
+","
+90.5%
+","
+11.15
+","
+B- (2.89)
+","
+B- (2.75)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (A)
+",SP14,176,"
+76
+","
+87.5%
+","
+90.3%
+","
+10.50
+","
+B (3.04)
+","
+C+ (2.30)
+"
+"Shacham, Hovav","
+CSE 127 - Intro to Computer Security (A)
+",SP13,80,"
+37
+","
+97.3%
+","
+100.0%
+","
+7.67
+","
+B+ (3.49)
+","
+B (3.00)
+"
+"Savage, Stefan Roberts","
+CSE 127 - Intro to Computer Security (A)
+",FA12,120,"
+45
+","
+90.2%
+","
+87.8%
+","
+4.05
+","
+B (3.26)
+","
+B- (2.82)
+"
+"Shacham, Hovav                     ","
+CSE 127 - Intro/Computer Security        (A)
+",SP10,54,"
+29
+","
+100.0%
+","
+96.6%
+","
+9.50
+","
+B+ (3.34)
+","
+B (3.02)
+"
+"Savage, Stefan Roberts             ","
+CSE 127 - Intro/Computer Security        (A)
+",SP09,51,"
+28
+","
+100.0%
+","
+100.0%
+","
+3.36
+","
+A- (3.82)
+","
+B+ (3.30)
+"
+"Shacham, Hovav                     ","
+CSE 127 - Intro/Computer Security        (A)
+",FA08,15,"
+9
+","
+100.0%
+","
+100.0%
+","
+9.39
+","
+B+ (3.44)
+","
+N/A
+"
+"Savage, Stefan Roberts        ","
+CSE 127 - Intro/Computer Security        (A)
+",SP08,58,"
+41
+","
+100.0%
+","
+100.0%
+","
+2.70
+","
+A- (3.76)
+","
+B- (2.94)
+"
+"Shacham, Hovav                ","
+CSE 127 - Intro/Computer Security        (A)
+",WI08,3,"
+5
+","
+100.0%
+","
+100.0%
+","
+10.50
+","
+B (3.00)
+","
+N/A
+"

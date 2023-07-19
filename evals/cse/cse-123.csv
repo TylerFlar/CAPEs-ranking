@@ -1,0 +1,436 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Shalev, Aaron D","
+CSE 123 - Computer Networks (A)
+",SP23,59,"
+16
+","
+100.0%
+","
+100.0%
+","
+12.23
+","
+B (3.00)
+","
+C+ (2.46)
+"
+"Shalev, Aaron D","
+CSE 123 - Computer Networks (A)
+",WI23,90,"
+27
+","
+76.9%
+","
+96.2%
+","
+13.24
+","
+B (3.25)
+","
+C+ (2.68)
+"
+"Shalev, Aaron D","
+CSE 123 - Computer Networks (A)
+",SP22,84,"
+32
+","
+78.1%
+","
+93.8%
+","
+12.69
+","
+B- (2.82)
+","
+C+ (2.55)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",WI22,84,"
+27
+","
+68.0%
+","
+84.0%
+","
+14.35
+","
+C+ (2.64)
+","
+B- (3.00)
+"
+"Shalev, Aaron D","
+CSE 123 - Computer Networks (A)
+",SP21,101,"
+29
+","
+72.4%
+","
+89.7%
+","
+13.67
+","
+B+ (3.31)
+","
+C+ (2.69)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",WI21,28,"
+15
+","
+84.6%
+","
+92.3%
+","
+13.58
+","
+B+ (3.60)
+","
+B+ (3.50)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (B)
+",WI21,71,"
+25
+","
+95.8%
+","
+95.8%
+","
+14.26
+","
+A- (3.71)
+","
+B+ (3.34)
+"
+"Shalev, Aaron D","
+CSE 123 - Computer Networks (A)
+",SP20,101,"
+23
+","
+78.3%
+","
+82.6%
+","
+10.85
+","
+B+ (3.38)
+","
+B+ (3.39)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",FA19,98,"
+20
+","
+89.5%
+","
+100.0%
+","
+9.13
+","
+B (3.00)
+","
+B- (2.74)
+"
+"Polyzos, George C","
+CSE 123 - Computer Networks (A)
+",S219,32,"
+10
+","
+100.0%
+","
+70.0%
+","
+11.50
+","
+B- (2.90)
+","
+B- (2.84)
+"
+"Shalev, Aaron D","
+CSE 123 - Computer Networks (A)
+",SP19,158,"
+37
+","
+80.0%
+","
+74.3%
+","
+9.87
+","
+C+ (2.67)
+","
+C+ (2.52)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (B)
+",FA18,108,"
+39
+","
+97.4%
+","
+94.6%
+","
+9.61
+","
+B (3.14)
+","
+B- (2.86)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",FA17,84,"
+28
+","
+91.7%
+","
+100.0%
+","
+8.59
+","
+B+ (3.45)
+","
+B- (2.76)
+"
+"Polyzos, George C","
+CSE 123 - Computer Networks (A)
+",S217,32,"
+4
+","
+75.0%
+","
+50.0%
+","
+8.50
+","
+B+ (3.50)
+","
+B (3.16)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",WI17,97,"
+35
+","
+93.8%
+","
+100.0%
+","
+9.21
+","
+B+ (3.30)
+","
+B (3.23)
+"
+"Savage, Stefan","
+CSE 123 - Computer Networks (B)
+",FA16,103,"
+34
+","
+89.7%
+","
+89.7%
+","
+10.09
+","
+B (3.23)
+","
+B- (2.77)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",SP16,129,"
+41
+","
+90.0%
+","
+100.0%
+","
+9.42
+","
+B- (2.72)
+","
+C+ (2.61)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",FA15,87,"
+23
+","
+80.0%
+","
+95.0%
+","
+10.82
+","
+B- (2.79)
+","
+B- (2.74)
+"
+"Savage, Stefan Roberts","
+CSE 123 - Computer Networks (A)
+",SP15,102,"
+63
+","
+88.1%
+","
+91.5%
+","
+8.05
+","
+B- (2.78)
+","
+B- (2.98)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",FA14,113,"
+50
+","
+89.6%
+","
+97.9%
+","
+10.13
+","
+B (3.04)
+","
+C+ (2.39)
+"
+"Snoeren, Alex C.","
+CSE 123 - Computer Networks (A)
+",FA13,79,"
+35
+","
+93.8%
+","
+96.9%
+","
+11.94
+","
+B (3.00)
+","
+C+ (2.66)
+"
+"Polyzos, George C","
+CSE 123 - Computer Networks (A)
+",SP13,58,"
+19
+","
+84.2%
+","
+52.6%
+","
+6.94
+","
+B+ (3.32)
+","
+B- (2.74)
+"
+"Polyzos, George C","
+CSE 123 - Computer Networks (A)
+",FA12,102,"
+36
+","
+80.6%
+","
+41.9%
+","
+6.69
+","
+B- (2.90)
+","
+B- (2.98)
+"
+"Snoeren, Alex C.                   ","
+CSE 123 - Computer Networks              (A)
+",FA10,35,"
+22
+","
+95.5%
+","
+95.5%
+","
+10.50
+","
+B (3.14)
+","
+B- (2.85)
+"
+"Varghese, George                   ","
+CSE 123 - Computer Networks              (A)
+",SP10,69,"
+29
+","
+92.9%
+","
+85.7%
+","
+6.93
+","
+B+ (3.50)
+","
+B+ (3.61)
+"
+"Savage, Stefan Roberts             ","
+CSE 123 - Computer Networks              (A)
+",FA09,49,"
+38
+","
+89.5%
+","
+97.4%
+","
+5.66
+","
+B+ (3.43)
+","
+B (3.17)
+"
+"Varghese, George                   ","
+CSE 123 - Computer Networks              (A)
+",SP09,31,"
+28
+","
+85.7%
+","
+89.3%
+","
+3.86
+","
+B+ (3.39)
+","
+B+ (3.36)
+"
+"Varghese, George                   ","
+CSE 123 - Computer Networks              (A)
+",FA08,36,"
+31
+","
+93.5%
+","
+96.8%
+","
+6.11
+","
+B (3.11)
+","
+B (3.25)
+"
+"Varghese, George              ","
+CSE 123 - Computer Networks              (A)
+",SP08,30,"
+21
+","
+81.0%
+","
+90.5%
+","
+3.64
+","
+B+ (3.30)
+","
+B+ (3.53)
+"

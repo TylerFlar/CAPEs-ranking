@@ -1,0 +1,751 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",SP23,20,"
+7
+","
+83.3%
+","
+83.3%
+","
+12.17
+","
+B+ (3.67)
+","
+B (3.25)
+"
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",SP22,25,"
+3
+","
+100.0%
+","
+100.0%
+","
+17.50
+","
+B (3.00)
+","
+B+ (3.42)
+"
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",WI22,18,"
+7
+","
+71.4%
+","
+100.0%
+","
+15.07
+","
+B+ (3.43)
+","
+N/A
+"
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",SP21,18,"
+5
+","
+60.0%
+","
+75.0%
+","
+13.30
+","
+B (3.25)
+","
+N/A
+"
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",WI21,18,"
+8
+","
+100.0%
+","
+100.0%
+","
+11.50
+","
+B+ (3.67)
+","
+N/A
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",FA20,22,"
+3
+","
+100.0%
+","
+66.7%
+","
+8.50
+","
+B+ (3.33)
+","
+B (3.25)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",WI20,22,"
+6
+","
+83.3%
+","
+100.0%
+","
+9.50
+","
+B+ (3.50)
+","
+B+ (3.48)
+"
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",FA19,26,"
+4
+","
+75.0%
+","
+100.0%
+","
+11.50
+","
+A (4.00)
+","
+B+ (3.42)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",WI19,22,"
+4
+","
+100.0%
+","
+100.0%
+","
+9.83
+","
+B+ (3.67)
+","
+B (3.30)
+"
+"Zhang, Xinyu","
+ECE 191 - Engineering Group Design Proj (A)
+",WI19,22,"
+4
+","
+100.0%
+","
+100.0%
+","
+9.83
+","
+B+ (3.67)
+","
+B (3.30)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",FA18,15,"
+5
+","
+80.0%
+","
+75.0%
+","
+11.30
+","
+B (3.00)
+","
+N/A
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",SP18,35,"
+6
+","
+33.3%
+","
+66.7%
+","
+14.50
+","
+A- (3.80)
+","
+N/A
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj (A)
+",SP18,35,"
+6
+","
+33.3%
+","
+50.0%
+","
+14.50
+","
+A- (3.80)
+","
+N/A
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",WI18,39,"
+6
+","
+80.0%
+","
+100.0%
+","
+12.50
+","
+A- (3.75)
+","
+B+ (3.48)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",FA17,34,"
+7
+","
+100.0%
+","
+100.0%
+","
+9.36
+","
+B+ (3.43)
+","
+B+ (3.54)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",SP17,66,"
+11
+","
+63.6%
+","
+81.8%
+","
+9.95
+","
+B+ (3.36)
+","
+B+ (3.69)
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj (A)
+",SP17,66,"
+12
+","
+58.3%
+","
+75.0%
+","
+9.50
+","
+B+ (3.42)
+","
+B+ (3.69)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",WI17,61,"
+16
+","
+85.7%
+","
+85.7%
+","
+11.42
+","
+B+ (3.58)
+","
+B+ (3.57)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",FA16,38,"
+15
+","
+100.0%
+","
+100.0%
+","
+8.83
+","
+B+ (3.69)
+","
+B+ (3.33)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",SP16,75,"
+17
+","
+93.8%
+","
+93.8%
+","
+12.13
+","
+B+ (3.67)
+","
+B+ (3.56)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",SP16,75,"
+17
+","
+93.8%
+","
+81.3%
+","
+12.13
+","
+B+ (3.67)
+","
+B+ (3.56)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",WI16,48,"
+13
+","
+91.7%
+","
+100.0%
+","
+10.67
+","
+A- (3.75)
+","
+B+ (3.55)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",WI16,48,"
+12
+","
+91.7%
+","
+66.7%
+","
+10.67
+","
+A- (3.75)
+","
+B+ (3.55)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",FA15,33,"
+5
+","
+75.0%
+","
+100.0%
+","
+9.00
+","
+A- (3.75)
+","
+B+ (3.32)
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj (A)
+",FA15,33,"
+5
+","
+75.0%
+","
+75.0%
+","
+9.00
+","
+A- (3.75)
+","
+B+ (3.32)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",SP15,46,"
+10
+","
+100.0%
+","
+100.0%
+","
+12.75
+","
+A- (3.71)
+","
+B+ (3.49)
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj (A)
+",SP15,46,"
+10
+","
+100.0%
+","
+88.9%
+","
+12.28
+","
+A- (3.75)
+","
+B+ (3.49)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",WI15,62,"
+16
+","
+100.0%
+","
+93.8%
+","
+10.63
+","
+A- (3.88)
+","
+B+ (3.63)
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj (A)
+",WI15,62,"
+16
+","
+100.0%
+","
+93.8%
+","
+10.63
+","
+A- (3.88)
+","
+B+ (3.63)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",FA14,21,"
+8
+","
+100.0%
+","
+87.5%
+","
+12.21
+","
+B+ (3.57)
+","
+B+ (3.60)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",FA14,23,"
+8
+","
+100.0%
+","
+50.0%
+","
+11.64
+","
+B+ (3.57)
+","
+B+ (3.60)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",SP14,30,"
+6
+","
+100.0%
+","
+100.0%
+","
+11.50
+","
+B+ (3.50)
+","
+B+ (3.55)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",WI14,55,"
+13
+","
+91.7%
+","
+83.3%
+","
+9.41
+","
+A- (3.91)
+","
+B+ (3.67)
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj (A)
+",WI14,55,"
+11
+","
+100.0%
+","
+100.0%
+","
+9.17
+","
+A- (3.90)
+","
+B+ (3.67)
+"
+"Cosman, Pamela C.","
+ECE 191 - Engineering Group Design Proj (A)
+",SP13,40,"
+12
+","
+100.0%
+","
+100.0%
+","
+10.67
+","
+A- (3.83)
+","
+A- (3.70)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",SP13,40,"
+12
+","
+100.0%
+","
+91.7%
+","
+10.67
+","
+A- (3.75)
+","
+A- (3.70)
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj (A)
+",WI13,26,"
+15
+","
+86.7%
+","
+80.0%
+","
+9.42
+","
+A- (3.87)
+","
+A- (3.74)
+"
+"Guest, Clark C","
+ECE 191 - Engineering Group Design Proj (A)
+",WI13,26,"
+15
+","
+78.6%
+","
+64.3%
+","
+10.35
+","
+A- (3.85)
+","
+A- (3.74)
+"
+"Das, Pankaj K                      ","
+ECE 191 - Engineering Group Design Proj  (A)
+",SP10,24,"
+10
+","
+77.8%
+","
+66.7%
+","
+8.72
+","
+B+ (3.67)
+","
+A- (3.84)
+"
+"Tu, Charles","
+ECE 191 - Engineering Group Design Proj  (A)
+",SP10,24,"
+9
+","
+77.8%
+","
+88.9%
+","
+8.94
+","
+B+ (3.67)
+","
+A- (3.84)
+"
+"Das, Pankaj K                      ","
+ECE 191 - Engineering Group Design Proj  (A)
+",WI10,54,"
+14
+","
+92.9%
+","
+85.7%
+","
+11.73
+","
+B+ (3.69)
+","
+A- (3.75)
+"
+"Trivedi, Mohan M.","
+ECE 191 - Engineering Group Design Proj  (A)
+",WI10,54,"
+13
+","
+91.7%
+","
+91.7%
+","
+11.33
+","
+B+ (3.69)
+","
+A- (3.75)
+"
+"Das, Pankaj K                      ","
+ECE 191 - Engineering Group Design Proj  (A)
+",SP09,12,"
+11
+","
+70.0%
+","
+60.0%
+","
+9.77
+","
+B+ (3.64)
+","
+N/A
+"
+"Tu, Charles                        ","
+ECE 191 - Engineering Group Design Proj  (A)
+",SP09,12,"
+11
+","
+70.0%
+","
+60.0%
+","
+9.77
+","
+B+ (3.64)
+","
+N/A
+"
+"Das, Pankaj K","
+ECE 191 - Engineering Group Design Proj  (A)
+",WI09,38,"
+31
+","
+89.7%
+","
+79.3%
+","
+11.26
+","
+A- (3.75)
+","
+B+ (3.56)
+"
+"Trivedi, Mohan M.                  ","
+ECE 191 - Engineering Group Design Proj  (A)
+",WI09,38,"
+31
+","
+89.7%
+","
+79.3%
+","
+11.26
+","
+A- (3.75)
+","
+B+ (3.56)
+"
+"Das, Pankaj K                      ","
+ECE 191 - Engineering Group Design Proj  (A)
+",FA08,10,"
+10
+","
+100.0%
+","
+88.9%
+","
+14.10
+","
+A- (3.70)
+","
+N/A
+"
+"Das, Nandon","
+ECE 191 - Engineering Group Design Proj  (A)
+",SP08,20,"
+6
+","
+100.0%
+","
+100.0%
+","
+14.83
+","
+A- (3.74)
+","
+A- (3.84)
+"
+"Das, Pankaj K                 ","
+ECE 191 - Engineering Group Design Proj  (A)
+",SP08,20,"
+19
+","
+100.0%
+","
+94.7%
+","
+13.50
+","
+A- (3.74)
+","
+A- (3.84)
+"
+"Das, Pankaj K                 ","
+ECE 191 - Engineering Group Design Proj  (A)
+",WI08,32,"
+24
+","
+95.7%
+","
+87.0%
+","
+11.00
+","
+B+ (3.52)
+","
+B+ (3.55)
+"

@@ -1,0 +1,526 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Sussman, Diana Wald","
+MUS 95C - Concert Choir (B)
+",FA22,32,"
+7
+","
+100.0%
+","
+100.0%
+","
+2.50
+","
+A- (3.83)
+","
+A- (3.85)
+"
+"Sussman, Diana Wald","
+MUS 95C - Concert Choir (A)
+",SP21,12,"
+6
+","
+100.0%
+","
+100.0%
+","
+3.83
+","
+A (4.00)
+","
+N/A
+"
+"Sussman, Diana Wald","
+MUS 95C - Concert Choir (A)
+",WI21,13,"
+8
+","
+100.0%
+","
+100.0%
+","
+6.25
+","
+A- (3.88)
+","
+N/A
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP20,29,"
+6
+","
+100.0%
+","
+100.0%
+","
+1.70
+","
+A (4.00)
+","
+A- (3.86)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",SP20,30,"
+9
+","
+100.0%
+","
+100.0%
+","
+1.00
+","
+A (4.00)
+","
+A- (3.87)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA19,28,"
+9
+","
+100.0%
+","
+100.0%
+","
+3.00
+","
+A (4.00)
+","
+A- (3.84)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",FA19,28,"
+10
+","
+100.0%
+","
+100.0%
+","
+2.70
+","
+A- (3.88)
+","
+A- (3.99)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",WI19,28,"
+7
+","
+100.0%
+","
+100.0%
+","
+1.83
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",WI19,29,"
+12
+","
+100.0%
+","
+100.0%
+","
+2.00
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA18,35,"
+16
+","
+92.9%
+","
+92.9%
+","
+1.07
+","
+A- (3.92)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",FA18,36,"
+8
+","
+100.0%
+","
+100.0%
+","
+0.75
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP18,27,"
+6
+","
+100.0%
+","
+100.0%
+","
+1.50
+","
+A- (3.80)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",SP18,27,"
+8
+","
+100.0%
+","
+100.0%
+","
+1.17
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",WI18,29,"
+9
+","
+100.0%
+","
+100.0%
+","
+3.17
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",WI18,29,"
+7
+","
+100.0%
+","
+100.0%
+","
+0.79
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA17,29,"
+15
+","
+100.0%
+","
+100.0%
+","
+0.90
+","
+A (4.00)
+","
+A- (3.94)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",FA17,31,"
+12
+","
+100.0%
+","
+100.0%
+","
+3.23
+","
+A- (3.88)
+","
+A- (3.94)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP17,30,"
+7
+","
+100.0%
+","
+100.0%
+","
+1.07
+","
+A (4.00)
+","
+A- (3.90)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",SP17,31,"
+12
+","
+100.0%
+","
+100.0%
+","
+0.90
+","
+A- (3.92)
+","
+A- (3.90)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA16,52,"
+22
+","
+100.0%
+","
+100.0%
+","
+1.59
+","
+A (4.00)
+","
+A- (3.93)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",FA16,33,"
+7
+","
+85.7%
+","
+85.7%
+","
+2.50
+","
+A (4.00)
+","
+A- (3.93)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP16,27,"
+7
+","
+100.0%
+","
+100.0%
+","
+1.17
+","
+A (4.00)
+","
+A- (3.95)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",SP16,34,"
+8
+","
+100.0%
+","
+100.0%
+","
+0.50
+","
+A (4.00)
+","
+A- (3.95)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",WI16,29,"
+10
+","
+100.0%
+","
+100.0%
+","
+2.06
+","
+A- (3.90)
+","
+A- (3.95)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",WI16,25,"
+6
+","
+100.0%
+","
+100.0%
+","
+2.50
+","
+A (4.00)
+","
+A- (3.95)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA15,30,"
+9
+","
+100.0%
+","
+100.0%
+","
+3.75
+","
+A (4.00)
+","
+A- (3.96)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (B)
+",FA15,29,"
+5
+","
+100.0%
+","
+100.0%
+","
+1.70
+","
+A (4.00)
+","
+A- (3.96)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP15,60,"
+17
+","
+100.0%
+","
+100.0%
+","
+2.15
+","
+A (4.00)
+","
+A- (3.98)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",WI15,61,"
+24
+","
+100.0%
+","
+100.0%
+","
+2.07
+","
+A (4.00)
+","
+A- (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA14,66,"
+17
+","
+100.0%
+","
+100.0%
+","
+2.37
+","
+A (4.00)
+","
+A- (3.98)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP14,61,"
+14
+","
+100.0%
+","
+100.0%
+","
+0.93
+","
+A (4.00)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA13,58,"
+20
+","
+100.0%
+","
+100.0%
+","
+1.34
+","
+A- (3.89)
+","
+A (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",SP13,59,"
+25
+","
+100.0%
+","
+100.0%
+","
+1.14
+","
+A (4.00)
+","
+A- (3.97)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",WI13,61,"
+23
+","
+95.7%
+","
+100.0%
+","
+1.11
+","
+A (4.00)
+","
+A- (4.00)
+"
+"Larson, Philip Clarion","
+MUS 95C - Concert Choir (A)
+",FA12,56,"
+22
+","
+100.0%
+","
+100.0%
+","
+0.68
+","
+A (4.00)
+","
+A- (3.96)
+"

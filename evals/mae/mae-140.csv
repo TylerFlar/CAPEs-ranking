@@ -1,0 +1,406 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",FA19,194,"
+73
+","
+70.8%
+","
+66.7%
+","
+6.67
+","
+B- (2.78)
+","
+B- (2.90)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits (A)
+",WI19,103,"
+39
+","
+94.4%
+","
+94.4%
+","
+7.07
+","
+B (3.17)
+","
+B- (2.88)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",FA18,120,"
+78
+","
+66.2%
+","
+71.4%
+","
+7.02
+","
+B- (2.85)
+","
+B (3.16)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits (B)
+",WI18,154,"
+73
+","
+88.2%
+","
+95.6%
+","
+7.62
+","
+B+ (3.48)
+","
+B- (2.99)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",FA17,181,"
+34
+","
+75.8%
+","
+78.8%
+","
+6.68
+","
+B (3.09)
+","
+B (3.06)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits (A)
+",WI17,141,"
+61
+","
+95.0%
+","
+93.3%
+","
+7.26
+","
+B+ (3.47)
+","
+B+ (3.38)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",FA16,169,"
+106
+","
+77.4%
+","
+75.5%
+","
+7.77
+","
+B (3.13)
+","
+B- (2.99)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits (A)
+",WI16,125,"
+52
+","
+84.0%
+","
+88.0%
+","
+7.14
+","
+B+ (3.33)
+","
+B- (2.86)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",FA15,194,"
+66
+","
+79.0%
+","
+77.4%
+","
+6.60
+","
+B+ (3.35)
+","
+B (3.07)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",WI15,108,"
+43
+","
+90.0%
+","
+95.0%
+","
+7.05
+","
+B+ (3.49)
+","
+B (3.18)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits (A)
+",FA14,157,"
+63
+","
+83.6%
+","
+85.2%
+","
+7.22
+","
+B (3.25)
+","
+B- (2.78)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",WI14,137,"
+52
+","
+66.7%
+","
+80.4%
+","
+7.99
+","
+B (3.29)
+","
+B (3.08)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits (A)
+",FA13,159,"
+65
+","
+95.1%
+","
+93.4%
+","
+5.78
+","
+B+ (3.48)
+","
+B- (2.86)
+"
+"Martinez, Sonia","
+MAE 140 - Linear Circuits (A)
+",WI13,115,"
+90
+","
+83.3%
+","
+80.0%
+","
+6.64
+","
+B+ (3.45)
+","
+C+ (2.57)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits (A)
+",FA12,119,"
+48
+","
+86.7%
+","
+95.6%
+","
+6.59
+","
+B+ (3.42)
+","
+B (3.08)
+"
+"Martinez, Sonia                    ","
+MAE 140 - Linear Circuits                (A)
+",FA10,145,"
+60
+","
+88.3%
+","
+76.7%
+","
+7.38
+","
+B+ (3.37)
+","
+C+ (2.61)
+"
+"de Oliveira, Mauricio              ","
+MAE 140 - Linear Circuits                (B)
+",FA10,144,"
+91
+","
+91.0%
+","
+97.7%
+","
+7.23
+","
+B+ (3.31)
+","
+B+ (3.30)
+"
+"de Callafon, Raymond A             ","
+MAE 140 - Linear Circuits                (A)
+",SU10,52,"
+15
+","
+78.6%
+","
+64.3%
+","
+9.58
+","
+B (3.25)
+","
+N/A
+"
+"McEneaney, William Michael         ","
+MAE 140 - Linear Circuits                (A)
+",WI10,176,"
+67
+","
+80.3%
+","
+46.2%
+","
+7.63
+","
+B (3.06)
+","
+B- (2.95)
+"
+"Cortes, Jorge                      ","
+MAE 140 - Linear Circuits                (A)
+",FA09,112,"
+65
+","
+96.9%
+","
+92.3%
+","
+5.48
+","
+B+ (3.43)
+","
+C+ (2.34)
+"
+"de Oliveira, Mauricio              ","
+MAE 140 - Linear Circuits                (B)
+",FA09,131,"
+74
+","
+90.5%
+","
+97.3%
+","
+5.74
+","
+B+ (3.37)
+","
+B (3.09)
+"
+"Cortes, Jorge","
+MAE 140 - Linear Circuits                (A)
+",WI09,153,"
+72
+","
+83.8%
+","
+97.0%
+","
+5.63
+","
+B+ (3.41)
+","
+C+ (2.66)
+"
+"de Oliveira, Mauricio","
+MAE 140 - Linear Circuits                (B)
+",WI09,80,"
+37
+","
+88.9%
+","
+97.2%
+","
+5.64
+","
+B+ (3.41)
+","
+B- (2.88)
+"
+"de Oliveira, Mauricio              ","
+MAE 140 - Linear Circuits                (A)
+",FA08,196,"
+95
+","
+82.4%
+","
+93.3%
+","
+5.60
+","
+B+ (3.40)
+","
+B- (2.78)
+"
+"de Oliveira, Mauricio         ","
+MAE 140 - Linear Circuits                (A)
+",WI08,147,"
+79
+","
+89.5%
+","
+97.4%
+","
+5.80
+","
+B+ (3.56)
+","
+B+ (3.31)
+"
+"de Oliveira, Mauricio         ","
+MAE 140 - Linear Circuits                (A)
+",FA07,146,"
+85
+","
+78.0%
+","
+95.1%
+","
+5.72
+","
+B (3.30)
+","
+B- (2.71)
+"
+"Bitmead, Robert R.            ","
+MAE 140 - Linear Circuits                (B)
+",FA07,108,"
+66
+","
+82.5%
+","
+93.8%
+","
+6.29
+","
+B+ (3.51)
+","
+B- (2.82)
+"

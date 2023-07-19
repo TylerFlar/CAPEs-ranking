@@ -1,0 +1,601 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Grush, Rick Scott","
+PHIL 1 - Introduction to Philosophy (A)
+",SP23,47,"
+14
+","
+84.6%
+","
+84.6%
+","
+4.93
+","
+B- (2.70)
+","
+C- (1.92)
+"
+"Sher, Gila","
+PHIL 1 - Introduction to Philosophy (A)
+",FA22,68,"
+17
+","
+62.5%
+","
+68.8%
+","
+3.13
+","
+B+ (3.36)
+","
+B (3.19)
+"
+"Argetsinger, Henry","
+PHIL 1 - Introduction to Philosophy (A)
+",S222,25,"
+5
+","
+80.0%
+","
+100.0%
+","
+4.10
+","
+B+ (3.60)
+","
+B (3.04)
+"
+"Greely, Nathaniel Atholl","
+PHIL 1 - Introduction to Philosophy (A)
+",S122,33,"
+5
+","
+80.0%
+","
+80.0%
+","
+5.70
+","
+B+ (3.50)
+","
+B+ (3.45)
+"
+"Wonderly, Monique L.","
+PHIL 1 - Introduction to Philosophy (A)
+",WI22,69,"
+26
+","
+100.0%
+","
+96.2%
+","
+3.94
+","
+B+ (3.60)
+","
+B (3.20)
+"
+"Sher, Gila","
+PHIL 1 - Introduction to Philosophy (A)
+",FA21,69,"
+23
+","
+72.7%
+","
+72.7%
+","
+4.05
+","
+B (3.00)
+","
+B- (2.88)
+"
+"Kwon, Hailey Jimin","
+PHIL 1 - Introduction to Philosophy (A)
+",S121,31,"
+12
+","
+90.9%
+","
+63.6%
+","
+5.41
+","
+B+ (3.38)
+","
+B- (2.88)
+"
+"Johnson, Monte","
+PHIL 1 - Introduction to Philosophy (A)
+",SP21,62,"
+18
+","
+86.7%
+","
+86.7%
+","
+5.88
+","
+B+ (3.50)
+","
+B- (2.77)
+"
+"Wonderly, Monique L.","
+PHIL 1 - Introduction to Philosophy (A)
+",WI21,65,"
+24
+","
+87.5%
+","
+91.7%
+","
+3.75
+","
+A- (3.73)
+","
+B+ (3.33)
+"
+"Sher, Gila","
+PHIL 1 - Introduction to Philosophy (A)
+",FA20,63,"
+22
+","
+86.4%
+","
+86.4%
+","
+2.59
+","
+B+ (3.56)
+","
+B+ (3.31)
+"
+"Moauro, Leonardo","
+PHIL 1 - Introduction to Philosophy (A)
+",S220,31,"
+18
+","
+77.8%
+","
+94.4%
+","
+6.50
+","
+B+ (3.33)
+","
+B (3.16)
+"
+"Johnson, Monte","
+PHIL 1 - Introduction to Philosophy (A)
+",SP20,64,"
+17
+","
+88.2%
+","
+94.1%
+","
+6.26
+","
+B+ (3.33)
+","
+B+ (3.38)
+"
+"Sher, Gila","
+PHIL 1 - Introduction to Philosophy (A)
+",WI20,64,"
+31
+","
+77.4%
+","
+90.0%
+","
+2.95
+","
+B (3.19)
+","
+B (3.24)
+"
+"Chaplin, Rosalind Kay","
+PHIL 1 - Introduction to Philosophy (A)
+",S119,30,"
+18
+","
+100.0%
+","
+100.0%
+","
+4.03
+","
+B+ (3.33)
+","
+B (3.06)
+"
+"Rutherford, Donald Paul","
+PHIL 1 - Introduction to Philosophy (A)
+",SP19,68,"
+26
+","
+95.7%
+","
+100.0%
+","
+3.95
+","
+B+ (3.63)
+","
+B (3.03)
+"
+"Grush, Rick Scott","
+PHIL 1 - Introduction to Philosophy (A)
+",WI19,55,"
+24
+","
+95.2%
+","
+100.0%
+","
+4.68
+","
+B+ (3.59)
+","
+B+ (3.32)
+"
+"Sher, Gila","
+PHIL 1 - Introduction to Philosophy (A)
+",FA18,65,"
+28
+","
+75.0%
+","
+75.0%
+","
+2.57
+","
+B (3.18)
+","
+B+ (3.43)
+"
+"Speitel, Sebastian Georg Wern","
+PHIL 1 - Introduction to Philosophy (A)
+",S218,28,"
+8
+","
+100.0%
+","
+100.0%
+","
+7.50
+","
+B+ (3.67)
+","
+B (3.29)
+"
+"Rutherford, Donald Paul","
+PHIL 1 - Introduction to Philosophy (A)
+",SP18,40,"
+14
+","
+83.3%
+","
+100.0%
+","
+2.00
+","
+B- (2.89)
+","
+B (3.13)
+"
+"Grush, Rick Scott","
+PHIL 1 - Introduction to Philosophy (A)
+",WI18,29,"
+10
+","
+100.0%
+","
+100.0%
+","
+5.36
+","
+B (3.17)
+","
+B+ (3.42)
+"
+"Sebens, Charles T","
+PHIL 1 - Introduction to Philosophy (A)
+",FA17,33,"
+13
+","
+100.0%
+","
+92.3%
+","
+5.42
+","
+B+ (3.43)
+","
+B (3.05)
+"
+"Martin, Noel B","
+PHIL 1 - Introduction to Philosophy (A)
+",S217,20,"
+5
+","
+100.0%
+","
+75.0%
+","
+4.90
+","
+A- (3.75)
+","
+N/A
+"
+"Arneson, Richard J.","
+PHIL 1 - Introduction to Philosophy (A)
+",FA16,56,"
+24
+","
+65.2%
+","
+69.6%
+","
+5.02
+","
+B+ (3.50)
+","
+B- (2.73)
+"
+"Evpak, Matthew David","
+PHIL 1 - Introduction to Philosophy (A)
+",WI16,58,"
+51
+","
+86.0%
+","
+88.0%
+","
+3.11
+","
+B+ (3.30)
+","
+B- (2.93)
+"
+"Rutherford, Donald Paul","
+PHIL 1 - Introduction to Philosophy (A)
+",FA14,63,"
+28
+","
+96.0%
+","
+100.0%
+","
+3.30
+","
+B (3.22)
+","
+B (3.19)
+"
+"Pummer, Theron Gene","
+PHIL 1 - Introduction to Philosophy (A)
+",SP14,35,"
+25
+","
+100.0%
+","
+96.0%
+","
+5.38
+","
+B (3.16)
+","
+B- (2.97)
+"
+"Milam, Per-Erik","
+PHIL 1 - Introduction to Philosophy (A)
+",WI14,39,"
+35
+","
+85.3%
+","
+88.2%
+","
+3.91
+","
+B (3.07)
+","
+B (3.08)
+"
+"Crockett, Damon C","
+PHIL 1 - Introduction to Philosophy (A)
+",FA13,43,"
+29
+","
+89.7%
+","
+86.2%
+","
+4.09
+","
+B+ (3.42)
+","
+B- (2.97)
+"
+"Campbell, Eric Michael","
+PHIL 1 - Introduction to Philosophy (A)
+",WI13,35,"
+14
+","
+64.3%
+","
+71.4%
+","
+4.64
+","
+B (3.00)
+","
+C- (1.71)
+"
+"Milam, Per-Erik","
+PHIL 1 - Introduction to Philosophy (A)
+",FA12,38,"
+35
+","
+85.7%
+","
+94.3%
+","
+4.56
+","
+B+ (3.42)
+","
+B- (2.84)
+"
+"Tiboris, Michael G.                ","
+PHIL 1 - Introduction to Philosophy     (A)
+",FA10,60,"
+45
+","
+86.7%
+","
+95.6%
+","
+4.99
+","
+B (3.09)
+","
+B (3.01)
+"
+"Grush, Rick Scott                  ","
+PHIL 1 - Introduction to Philosophy     (A)
+",SP10,45,"
+17
+","
+94.1%
+","
+100.0%
+","
+4.38
+","
+B+ (3.31)
+","
+B (3.07)
+"
+"Arneson, Richard J.                ","
+PHIL 1 - The Nature of Philosophy       (A)
+",WI10,31,"
+12
+","
+58.3%
+","
+58.3%
+","
+4.50
+","
+B (3.00)
+","
+C+ (2.68)
+"
+"Johnson, Monte                     ","
+PHIL 1 - The Nature of Philosophy       (A)
+",FA09,53,"
+39
+","
+76.9%
+","
+89.7%
+","
+4.18
+","
+B+ (3.35)
+","
+B (3.27)
+"
+"Herschbach, Mitchell Albert        ","
+PHIL 1 - The Nature of Philosophy       (A)
+",SP09,35,"
+13
+","
+92.3%
+","
+100.0%
+","
+4.19
+","
+B+ (3.50)
+","
+C+ (2.62)
+"
+"Churchland, Paul M","
+PHIL 1 - The Nature of Philosophy       (A)
+",WI09,43,"
+27
+","
+96.3%
+","
+100.0%
+","
+2.73
+","
+B+ (3.54)
+","
+C+ (2.59)
+"
+"Sher, Gila                         ","
+PHIL 1 - The Nature of Philosophy       (A)
+",FA08,43,"
+32
+","
+65.6%
+","
+90.6%
+","
+2.76
+","
+B+ (3.47)
+","
+B+ (3.34)
+"
+"Grush, Rick Scott             ","
+PHIL 1 - The Nature of Philosophy       (A)
+",SP08,39,"
+28
+","
+88.9%
+","
+92.6%
+","
+4.00
+","
+B (3.09)
+","
+B (3.07)
+"
+"Churchland, Paul M            ","
+PHIL 1 - The Nature of Philosophy       (A)
+",WI08,50,"
+33
+","
+96.8%
+","
+100.0%
+","
+3.25
+","
+B+ (3.43)
+","
+B- (2.81)
+"
+"Sher, Gila                    ","
+PHIL 1 - The Nature of Philosophy       (A)
+",FA07,42,"
+35
+","
+77.1%
+","
+94.3%
+","
+2.79
+","
+B+ (3.48)
+","
+B (3.24)
+"
