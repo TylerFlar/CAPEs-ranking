@@ -1,29 +1,33 @@
+from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
-from bs4 import BeautifulSoup
 import pandas as pd
 import os
+from webdriver_manager.chrome import ChromeDriverManager
 
 class CourseScraper:
     TIMEOUT_SECONDS = 10
 
-    def __init__(self):
-        # Load credentials and chrome profile from file
-        with open('credentials.txt', 'r') as f:
-            self.username = f.readline().strip()
-            self.password = f.readline().strip()
-            chromeprofile = f.readline().strip()
+    def __init__(self, username, password, chromeprofile):
+        # Initialize credentials
+        self.username = username
+        self.password = password
         
         # Setup the webdriver
         options = webdriver.ChromeOptions()
-        options.add_argument("--user-data-dir=" + chromeprofile)
+        options.add_argument(f"--user-data-dir={chromeprofile}")
         self.driver = webdriver.Chrome(options=options)
 
         self.first_run = True
-        self.departments = self.fetch_departments()
+    
+    @property
+    def departments(self):
+        if not hasattr(self, '_departments'):
+            self._departments = self.fetch_departments()
+        return self._departments
 
     def fetch_departments(self):
         self.driver.get("https://educationalinnovation.ucsd.edu/_files/prereq-diffs.html")
@@ -49,6 +53,9 @@ class CourseScraper:
         login_button.click()
 
     def scrape(self):
+        if not self.departments:
+            return
+
         for dept_code, course_numbers in self.departments.items():
             directory = f"evals/{dept_code.lower()}"
             os.makedirs(directory, exist_ok=True)
@@ -83,5 +90,11 @@ class CourseScraper:
         self.driver.quit()
 
 if __name__ == "__main__":
-    scraper = CourseScraper()
+    # Load credentials from environment or a secure location
+    with open('credentials.txt', 'r') as f:
+            username = f.readline().strip()
+            password = f.readline().strip()
+            chromeprofile = f.readline().strip()
+
+    scraper = CourseScraper(username, password, chromeprofile)
     scraper.scrape()
